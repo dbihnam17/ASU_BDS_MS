@@ -8,3 +8,7 @@ This is a collection of code I wrote for some of my course assignments during my
 - Statistical methods
 - Data visualization in R
 - Python/R notebooks
+
+## Courses
+- ACO501
+- ACO580
