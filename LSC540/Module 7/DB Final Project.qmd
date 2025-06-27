@@ -1,0 +1,268 @@
+---
+title: "Final Report: <Daniel Bihnam>  "
+format: docx
+editor: visual
+echo: false
+---
+
+## Background/Motivation for the Study
+
+I would like to explore the effects of sleep on mental and physical health. In a journal published in 2021 by Clement-Carbonell, Portilla-Tamarit, Rubio-Aparicio, and Madrid-Valero, it was observed that sleep can have a biologically significant impact on a plethora of areas of mental and physical health (1). Sleep amount and quality can change the way our brains work in ways we are yet to understand. I am interested to see if there are any observable statistical correlations or relationships we can observe in the NHANES data.
+
+## Research Question and Hypothesis
+
+Does the quality and amount of sleep people get impact their mental and physical wellbeing?
+
+## Data Description and Exploratory Data Analysis
+
+Using the NHANES data, we will be exploring the relationship between sleep hours/night *(SleepHrsNight)*, and sleep trouble (Y/N) *(SleepTrouble)* with:
+
+-   BMI *(BMI)*
+
+-   General reported health (Excellent, Very Good, Good, Fair, Poor) \[1-5\] *(HealthGen)*
+
+-   Reported days of little interest (None, Several, Majority) \[1-3\] *(LittleInterest)*
+
+-   Reported days where depressed (None, Several, Majority) \[1-3\] *(Depressed)*
+
+```{r}
+library(NHANES)
+library(dplyr)
+
+nhanes_uf <- NHANES
+nhanes_f <- subset(nhanes_uf,select=c(BMI,HealthGen,LittleInterest,Depressed,
+                                    SleepHrsNight,SleepTrouble))
+
+nhanes <- nhanes_f %>% na.omit()
+```
+
+Describe the observations and the general characteristics being measured in the targeted data.
+
+library(psych)
+
+describe(nhanes)
+
+```{r}
+#Basic summary statistics here, sample size etc...
+library(psych)
+
+describe(nhanes)
+
+```
+
+After filtering out all data points that were missing data, there are 6,599 samples. The mean values for our continuous variables are as follows:
+
+-   BMI: 28.78
+
+-   SleepHrsNight: 6.92 hours/night
+
+The median values of our categorical variables are as follows:
+
+-   HealthGen: 3=Good
+
+-   LittleInterest: 1=None
+
+-   Depressed: 1=None
+
+-   SleepTrouble: 1=No
+
+```{r}
+
+library(ggplot2)
+library(ggridges)
+
+ggplot(nhanes, aes(x=Depressed, y=SleepHrsNight, fill=Depressed)) + 
+  geom_boxplot(alpha=0.5) +
+  ggtitle("a: DB-Comparison of Depression \n
+          Frequency and Amount of Sleep") +
+  ylab("Amount of Sleep Each Night") + 
+  xlab("Depression Frequency") +
+  theme(legend.position='none')
+ggplot(nhanes,aes(x=SleepHrsNight,y=Depressed))+
+  geom_density_ridges(aes(fill=Depressed))+
+  ggtitle('b: DB-Comparison of Amount of Sleep \n
+          and Depression Frequency')+
+  ylab('Count')
+
+ggplot(nhanes, aes(x=HealthGen, y=SleepHrsNight, fill=HealthGen)) + 
+  geom_boxplot(alpha=0.5) +
+  ggtitle("c: DB-Comparison of Overall Reported \n
+          Health and Amount of Sleep") +
+  ylab("Amount of Sleep Each Night") + 
+  xlab("Overall Reported Health") +
+  theme(legend.position='none')
+ggplot(nhanes,aes(x=SleepHrsNight,y=HealthGen))+
+    geom_density_ridges(aes(fill=HealthGen))+
+    ggtitle('d: DB-Comparison of Amount of Sleep \n
+            and Reported General Health')+
+    ylab('Count')
+
+ggplot(nhanes, aes(x=LittleInterest, y=SleepHrsNight, fill=LittleInterest)) + 
+  geom_boxplot(alpha=0.5) +
+  ggtitle("e: DB-Comparison of Frequency of Lack of Interest \n
+          and Amount of Sleep") +
+  ylab("Amount of Sleep Each Night") + 
+  xlab("Frequency of Lack of Interest") +
+  theme(legend.position='none')
+
+ggplot(nhanes, aes(x=SleepTrouble, y=SleepHrsNight, fill=SleepTrouble)) + 
+  geom_boxplot(alpha=0.5) +
+  ggtitle("f: DB-Comparison of Sleep Quality and Duration") +
+  ylab("Hours of Sleep per Night") + 
+  xlab("Sleep Trouble") +
+  theme(legend.position='none')
+
+qplot(sample=BMI,data=nhanes,
+      main='g: DB-BMI qqplot',
+      xlab='Theoretical',
+      ylab='Sample')
+qplot(sample=log(BMI),data=nhanes,
+      main='h: DB-log(BMI) qqplot',
+      xlab='Theoretical',
+      ylab='Sample')
+ggplot(nhanes, aes(x=SleepTrouble, y=log(BMI), fill=SleepTrouble)) + 
+  geom_boxplot(alpha=0.5) +
+  ggtitle("i: DB-Comparison of Sleep Quality and log(BMI)") +
+  ylab("log(BMI)") + 
+  xlab("Sleep Trouble") +
+  theme(legend.position='none')
+```
+
+For this analyses, boxplots were primarily used to help compare categorical and continuous variables.
+
+**Figure a:** The first plot compares the reported frequency of depression to amount of sleep per night. The first two groups that reported having none and several days of depression have near identical spreads and medians. However, the group that reported having depression on most (\>50%) days had a visibly lower median and range. This shows there may be a correlation between more serious cases of depression and getting less sleep.
+
+**Figure b:** The second graph is based on the same data as plot c. However, this time it is visualized differently by using a ridge plot. This allows us to visualize the distribution of sleep time across each independent group of depression frequencies. There is a progressive increase in the area under the curve near lower amounts of sleep as you move from least to most reported depression.
+
+**Figure c:** The third plot compares overall reported health to amount of sleep. For the most part, from Excellent to fair, there is not much difference between the median amounts of sleep. However, there is a clear dropoff when looking at the group that reported having poor overall health. Not only is there a increase in the range of the sample suggesting variable sleep schedules, but there is also a visible decrease in the median amount of sleep as compared to every other group.
+
+**Figure d:** The fourth graph is based on the same data as plot e. Using a ridge plot allows us to see a similar trend that was seen between figures c and d. However, in this data, we see the trend of poor health progressively stretching the graph's range on both sides. It is more dramatic on the end of getting less sleep, but there is a slight increase in the upper range as well.
+
+**Figure e:** The fifth plot compares amount of sleep to the frequency people reported that they do not have much interest in doing things. There does not appear to be a strong relationship between these variables. Their ranges and means are nearly identical.
+
+**Figure f:** The sixth plot displays the relationship between sleep quality and duration. While the sample range appears similar, the median amount of sleep for people suffering from sleep troubles is visibly lower than the group not suffering from sleep troubles.
+
+**Figure g:** Qqplot to test the normalcy of the BMI data. It is shown to not have normal distribution.
+
+**Figure h:** Taking the log of BMI normalized the data.
+
+**Figure i:** The seventh graph shows the relationship between sleep quality and normalized BMI. It appears there is a visual difference between the groups of people having no sleep trouble and those having sleep trouble. BMI did not follow a normal distribution previously.
+
+## Analysis
+
+```{r}
+library(multcomp)
+
+print('Test Depressed|SleepHrsNight')
+print('One-Way ANOVA for Depressed|SleepHrsNight')
+dep.aov <- aov(SleepHrsNight~Depressed,data=nhanes)
+summary(dep.aov)
+TukeyHSD(dep.aov)
+
+print('SleepHrsNight were grouped for Chi-Square')
+nhanes$SleepHrsNight_group <- cut(nhanes$SleepHrsNight, breaks = c(2,4,5,6,7,8,9,Inf), labels = c('2-4','5','6','7','8','9','9+'))
+
+depTable <- table(nhanes$Depressed, nhanes$SleepHrsNight_group)
+depTable2 <- addmargins(depTable)
+depTable2
+
+print('Chi-Square Test for Depressed|SleepHrsNight')
+chisq.test(depTable2)
+depres <- chisq.test(depTable2)
+print('Residuals for Depressed|SleepHrsNight')
+depres$stdres
+
+#Test HealthGen|SleepHrsNight
+print('Test HealthGen|SleepHrsNight')
+print('One-Way ANOVA for HealthGen|SleepHrsNight')
+hlth.aov <- aov(SleepHrsNight~HealthGen,data=nhanes)
+summary(hlth.aov)
+TukeyHSD(hlth.aov)
+
+print('SleepHrsNight were grouped for Chi-Square')
+nhanes$SleepHrsNight_group2 <- cut(nhanes$SleepHrsNight, breaks = c(2,4,5,6,7,8,Inf), labels = c('2-4','5','6','7','8','8+'))
+
+hlthTable <- table(nhanes$HealthGen,nhanes$SleepHrsNight_group2)
+hlthTable2 <- addmargins(hlthTable)
+hlthTable2
+
+print('Chi-Square Test for HealthGen|SleepHrsNight')
+chisq.test(hlthTable2)
+hlthres <- chisq.test(hlthTable2)
+print('Residuals for HealthGen|SleepHrsNight')
+hlthres$stdres
+
+#Test LittleInterest|SleepHrsNight
+print('Test LittleInterest|SleepHrsNight')
+print('One-Way ANOVA for LittleInterest|SleepHrsNight')
+int.aov <- aov(SleepHrsNight~LittleInterest,data=nhanes)
+summary(int.aov)
+TukeyHSD(int.aov)
+
+print('SleepHrsNight were grouped for Chi-Square')
+intTable <- table(nhanes$LittleInterest,nhanes$SleepHrsNight_group)
+intTable2 <- addmargins(intTable)
+intTable2
+
+print('Chi-Square Test for LittleInterest|SleepHrsNight')
+chisq.test(intTable2)
+intres <- chisq.test(intTable2)
+print('Residuals for LittleInterest|SleepHrsNight')
+intres$stdres
+
+#Test SleepTrouble|SleepHrsNight
+print('Test SleepTrouble|SleepHrsNight')
+
+print('SleepHrsNight were grouped for Chi-Square')
+slpTable <- table(nhanes$SleepTrouble,nhanes$SleepHrsNight_group)
+slpTable2 <- addmargins(slpTable)
+slpTable2
+
+print('Chi-Square Test for SleepTrouble|SleepHrsNight')
+chisq.test(slpTable2)
+slpres <- chisq.test(slpTable2)
+print('Residuals for SleepTrouble|SleepHrsNight')
+slpres$stdres
+
+#Test SleepTrouble|BMI
+print('Test SleepTrouble|BMI')
+
+print('BMI was grouped for Chi-Square *groupings reflect CDC reported values (2)*')
+nhanes$BMI_group <- cut(nhanes$BMI, breaks = c(15,18.5,25,30,Inf), labels = c('Underweight (15-18.5)','Normal Weight (18.5-25)','Overweight (25-30)','Obese (30+)'))
+
+bmiTable <- table(nhanes$SleepTrouble,nhanes$BMI_group)
+bmiTable2 <- addmargins(bmiTable)
+bmiTable2
+
+print('Chi-Square Test for SleepTrouble|BMI')
+chisq.test(bmiTable2)
+bmires <- chisq.test(bmiTable2)
+print('Residuals for SleepTrouble|BMI')
+bmires$stdres
+
+
+
+```
+
+A one-way ANOVA was used for analysis of the relationship between *Depressed, HealthGen,* *LittleInterest* and *SleepHrsNight*. A one-way ANOVA was selected to compare the variance when there were more than two groups. Following this, the Tukey-Kramer method was used to determine which specific groups had statistically significant differences between themselves. To further visualize this point, a Chi-Square test was done on every comparison to determine whether or not the variables of interest were associated. In order to run a Chi-Square test for all samples, some of the variables had to be grouped to satisfy all the assumptions of the test. Namely, having large samples. Data was grouped using the cut() function in R.
+
+## Conclusions
+
+The first test ran tested the relationship visualized in *Figure a* and *Figure b*. The initial results of the one-way ANOVA returned a p-value much less than 0.05, suggesting there was a statistically significant difference between some of the groups. Upon further analysis with the Tukey-Kramer method, a 95% confidence interval was determined, and indicated that there was a statistically significant difference between every observed group. The adjusted p-value also remained less than 0.05. Those that reported depression on several days had 0.25 less hours of sleep per night on average compared to the group that reported no depression. This trend is further amplified by the group that reported symptoms of depression on most days, having on average 0.65 less hours of sleep per night than the group that did not report any depression. To further analyze this data, a Chi-Square test was performed, and a similar trend was observed. The biggest standout was that people that reported being depressed most days reported sleeping 7 or 8 hours much less than the other groups, but reported getting only 2-4 hours of sleep per night much more often than the other groups. The Mayo Clinic has reported that it is best that adults get at least 7 hours of sleep per night, and anything less can have serious impacts on mental and physical health (3). Another interesting observation was that people suffering from depression most days also are more likely to sleep for 9+ hours per night than any other group on average. It is difficult to determine whether the sleep abnormality is a causative agent or a symptom of depression. More data such as psychological analyses would be needed to provide a more accurate assessment of this data. However, there does appear to be strong evidence of a link between abnormal sleep and depression.
+
+Furthermore, the same tests were applied to test hours of sleep per night against reported overall health as shown in *Figure c* and *Figure d*. The one-way ANOVA provided a statistically significant p-value. When applying the Tukey-Kramer method, there was significant difference between every group except for the "excellent" and "very good" groups. As expected, the largest difference was seen between the "poor" and "excellent" groups, with 95% confidence that groups reporting poor overall health getting 1.03 less hours of sleep per night on average. A Chi-Square test was also performed on these variables. A similar statistically significant (p-value\<0.05) trend was noticed to the depression variable, where those with worse physical health tended to get much less sleep than all other groups. However, the shared trend was only observed for getting less sleep, unlike depression having an increased correlation with having 9+ hours of sleep per night. This is also difficult to determine the cause of, as some health conditions may impact the quality of sleep. Additional information such as type of health problems they suffer from would be helpful in determining the nature of this observed relationship.
+
+Another variable that was analyzed against hours of sleep per night was lack of interest. This was previously visualized in *Figure e* Analysis via ANOVA and Chi-Square showed that a near-identical relationship exists between lack of interest and depression. The only main difference observed was in the Tukey-Kramer test, where it was shown that the difference between people reporting lack of interest on most days and several days had a p-value above 0.05. This suggests that the variables *LittleInterest* and *Depressed* are not entirely independent. All other results of these tests for lack of interest were statistically significant and followed the same trend of the *Depressed* variable.
+
+For further analysis, I wanted to test the reliability of the *SleepTrouble* variable. This was originally plotted in *Figure f*. By conducting a Chi-Square test of it against hours of sleep per night, I was able to see that the data made sense, and supported using *SleepTrouble* as a good indicator. The trend observed followed the same trend seen with the *HealthGen* variable. Getting 7 or more hours of sleep was more common for those who did not report sleep trouble, and getting under 7 hours of sleep was more common for those who did report sleep trouble. This observation makes sense. The analysis was mainly performed to check the validity of this observation.
+
+The final variable analyzed in *Figure g, h,* and *i* was BMI. *Figures g* and *h* were used to show that BMI does not follow a normal distribution like the other variables tested did. However, due to the large sample size, I still decided to proceed with a Chi-Square test. The results had a p-value of 0.004. This is larger than many of the other significant reported p-values throughout this report, but is still smaller than 0.05. The test indicated that it is more likely for a person that is suffering from sleep trouble to be considered obese (2). The purpose of this test was to provide an example of a health condition that may negatively impact sleep as mentioned at the end of the analysis of the general health data vs hours of sleep per night. Conditions often caused by obesity such as sleep apnea can have a great impact on the quality of one's sleep. However, it has also been reported by many that abnormal sleeping habits can also have a link to weight gain (4). This is another case where having more information about the health conditions people in the data set suffer from would greatly help us to draw conclusions.
+
+Altogether, the analysis of this data has shown that there is sufficient evidence that the amount and quality and sleep have an effect on the mental and physical well-being of people. Thus, we reject the null hypothesis. Due to this being an observational study, we are unable to confirm that sleep is a direct cause of abnormal physical or mental health, but we can confidently say there is a strong correlation.
+
+## Citations
+
+1.  Clement-Carbonell, V., Portilla-Tamarit, I., Rubio-Aparicio, M., & Madrid-Valero, J. J. (2021). Sleep Quality, Mental and Physical Health: A Differential Relationship. *International journal of environmental research and public health*, *18*(2), 460. https://doi.org/10.3390/ijerph18020460
+2.  Centers for Disease Control and Prevention. (2022, June 3). *Defining adult overweight & obesity*. Centers for Disease Control and Prevention. https://www.cdc.gov/obesity/basics/adult-defining.html#:\~:text=If%20your%20BMI%20is%20less,falls%20within%20the%20obesity%20range.
+3.  Mayo Foundation for Medical Education and Research. (2023, February 21). *How many hours of sleep do you need?*. Mayo Clinic. https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/how-many-hours-of-sleep-are-enough/faq-20057898
+4.  *Sleep*. Obesity Prevention Source. (2016, April 13). https://www.hsph.harvard.edu/obesity-prevention-source/obesity-causes/sleep-and-obesity/

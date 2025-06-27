@@ -1,0 +1,57 @@
+---
+title: "Module 5 Assignment"
+author: "Daniel Bihnam"
+format: docx
+editor: visual
+---
+
+## Load in and Process Data
+
+```{r}
+load('C:/Users/m293215/Downloads/tobacco_clr.Rdata')
+
+data10 <- tobacco_clr$data[,1:10]
+h10 <- tobacco_clr$H[,1:10]
+color10 <- tobacco_clr$sample.color[1:10]
+pch10 <- tobacco_clr$sample.pch[1:10]
+otu10 <- tobacco_clr$otu.names[1:10]
+```
+
+First, I loaded in my data. Then, in order to specify the first 10 entries of the data, I used \[1:10\] and \[,1:10\] for normal vectors and matrix vectors.
+
+## Network with ppcor and igraph (Partial Correlation Analysis)
+
+```{r}
+library(ppcor)
+round(pcor(data10)$p.value,3)
+
+library(igraph)
+network <- (pcor(data10)$p.value<=0.05)*1
+
+diag(network) <- 0
+network.plot <- graph_from_adjacency_matrix(network)
+#Create the plot
+V(network.plot)$label <- otu10
+#Use the first 10 OTUs to label the nodes
+plot(network.plot,edge.arrow.size=.5,main='DB: 10 OTU Network 1')
+
+```
+
+Using ppcor and igraph like we were shown in lecture, I created a network using a Gaussian graphical model. This model is able to display the direction of relationships between our first 10 OTUs in the dataset. We can see that there is a lot of relationship surrounding cowanii, staphylococcus, chromatiacaea, and enterobacteriaceae. We can also see equorum and salaria are only related with each other, and not the other 8 OTUs. This network is the main network required for this assignment.
+
+## Network with glasso and qgraph (Graphical Lasso)
+
+```{r}
+library(glasso)
+
+cm <- cor(data10)
+#Create correlation matrix
+pcm <- glasso::glasso(cm,rho=0.1)
+#Create partial correlation matrix using glasso library
+
+library(qgraph)
+gauss <- qgraph(pcm,layout='spring',labels=otu10,title='DB: 10 OTU Network 2')
+#Create plot
+```
+
+While working on this assignment, I came across another package called glasso. Glasso reminded me of the lasso model that was used in our yellowdig discussion this week, so I decided to experiment with it and see how it differs from our previous model. It can be used to infer conditional dependencies between variables. This model tells a different story than the previous one, as we can see some bacteria such as equorum having a lot of dependencies on and for other OTUs. Whereas in the first model, it was seperate from most of these OTUs. This was not required for this assignment, but I found it interesting and wanted to include it as an addition.

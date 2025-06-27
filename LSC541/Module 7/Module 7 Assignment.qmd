@@ -1,0 +1,71 @@
+---
+title: "Module 7 Assignment"
+author: "Daniel Bihnam"
+format: docx
+editor: visual
+---
+
+## Prepare Data
+
+```{r}
+tlc <- read.table('C:/Users/Daniel/Desktop/BioCoding/LSC541/Module 7/tlc-data.txt')
+
+colnames(tlc) <- c('ID','Trt','W0','W1','W4','W6')
+
+time <- c(0,1,4,6)
+n <- dim(tlc)[1]
+```
+
+## Plot Subject Trajectories
+
+```{r}
+plot(time, as.numeric(tlc[1,-(1:2)]),
+     type='l',
+     pch=19,
+     xlab='Week',
+     ylab='Blood Lead Level',
+     main='DB: Blood Lead Level Over Time',
+     col=ifelse(tlc$Trt[1] =='P','black','blue'))
+for(i in 2:n){
+  lines(time,as.numeric(tlc[i,-(1:2)]),
+        pch=19,
+        col=ifelse(tlc$Trt[i]=='P','black','blue'))
+}
+
+```
+
+Placebo group shown in black, and new agent group shown in blue. Notice many of the blue lines drop lower within the first week of treatment while black placebo lines do not decrease/increase as much.
+
+## Prepare Data for Mixed Effect Models
+
+```{r}
+library(tidyr)
+
+tlc_long <- tlc%>%gather(Week,Level,W0,W1,W4,W6)
+tlc_wide <- tlc_long%>%spread(Week,Level)
+```
+
+## Random Intercept Model
+
+```{r}
+library(lme4)
+library(Matrix)
+
+tlc_long_2 <- separate(tlc_long,Week,sep='W',into=c('Baseline','Week'))
+
+RIModel <- lmer(Level~Trt+Week+(1|ID),data=tlc_long_2)
+summary(RIModel)
+confint(RIModel)
+```
+
+We see with this model a definitive decrease in blood lead level in out treated groups based upon the t-values and confidence intervals.
+
+## Random Intercept and Time Model
+
+```{r}
+RIModel2 <- lmer(Level~Trt*Week+(1|ID),data=tlc_long_2)
+summary(RIModel2)
+confint(RIModel2)
+```
+
+Based on the large magnitude of the t-value at week 1, we may be able to draw that the effect of treatment in reducing blood lead levels is greatest at that week. That along with the confidence intervals show that the effect is diminished over the next 6 weeks, but is still present between the two treatment groups. This is the same trend shown in the first model, just more exaggerated.

@@ -1,0 +1,6573 @@
+taxonID,countryAbbr,countryName
+1793,NE,Niger
+1793,GH,Ghana
+1793,AO,Angola
+1793,CM,Cameroon
+1793,NA,Namibia
+1793,TZ,"Tanzania, United Republic of"
+1793,GM,Gambia
+1793,MW,Malawi
+1793,SD,Sudan
+1793,KE,Kenya
+1793,BJ,Benin
+1793,ZW,Zimbabwe
+1793,ZM,Zambia
+1793,SZ,Eswatini
+1793,BF,Burkina Faso
+1793,LR,Liberia
+1793,LS,Lesotho
+1793,TD,Chad
+1793,ZA,South Africa
+1793,BW,Botswana
+1793,MZ,Mozambique
+1793,SL,Sierra Leone
+1793,SN,Senegal
+1793,UG,Uganda
+1793,GW,Guinea-Bissau
+1793,CI,Côte d'Ivoire
+1793,NG,Nigeria
+1793,ET,Ethiopia
+1793,RW,Rwanda
+1793,ER,Eritrea
+1793,CD,"Congo, The Democratic Republic of the"
+1793,GN,Guinea
+1793,SS,South Sudan
+1794,UG,Uganda
+1794,RW,Rwanda
+1794,BI,Burundi
+1794,AO,Angola
+1794,CM,Cameroon
+1794,CD,"Congo, The Democratic Republic of the"
+1794,GA,Gabon
+1794,CF,Central African Republic
+1794,GQ,Equatorial Guinea
+1794,CG,Congo
+1794,NG,Nigeria
+2055,CL,Chile
+2055,UY,Uruguay
+2055,CO,Colombia
+2055,JNF-OO,Juan Fernández Is.
+2055,PE,Peru
+2055,FK,Falkland Islands (Malvinas)
+2055,BR,Brazil
+2055,AR,Argentina
+2055,GS,South Georgia and the South Sandwich Islands
+2057,GAL-OO,Galápagos
+2057,EC,Ecuador
+2057,MX,Mexico
+2057,ECU-OO,Ecuador (mainland)
+2058,SH,"Saint Helena, Ascension and Tristan da Cunha"
+2058,CL,Chile
+2058,SGE-OO,South Georgia
+2058,SSA-OO,South Sandwich Is.
+2058,MPE-OO,Marion-Prince Edward Is.
+2058,GS,South Georgia and the South Sandwich Islands
+2058,BV,Bouvet Island
+2058,TF,French Southern Territories
+2058,AR,Argentina
+2058,AQ,Antarctica
+2058,ZA,South Africa
+2058,BR,Brazil
+2058,KEG-OO,Kerguelen
+2058,AU,Australia
+2058,HM,Heard Island and McDonald Islands
+2058,TDC-OO,Tristan da Cunha
+2058,JNF-OO,Juan Fernández Is.
+2058,MAQ-OO,Macquarie Is.
+2058,CRZ-OO,Crozet Is.
+2059,CL,Chile
+2059,JNF-OO,Juan Fernández Is.
+2059,PE,Peru
+2059,DSV-OO,Desventurados Is.
+2059,CO,Colombia
+2060,CPP-WC,Western Cape
+2060,AO,Angola
+2060,NA,Namibia
+2060,SOA-OO,South Australia
+2060,NSW-NS,New South Wales
+2060,VIC-OO,Victoria
+2060,TAS-OO,Tasmania
+2060,AU,Australia
+2060,GA,Gabon
+2060,ZA,South Africa
+2060,MPE-OO,Marion-Prince Edward Is.
+2060,CPP-EC,Eastern Cape Province
+2060,MZ,Mozambique
+2061,MXI-GU,Guadalupe I.
+2061,MX,Mexico
+2061,US,United States of America
+2061,ORE-OO,Oregon
+2061,CAL-OO,California
+2061,WAS-OO,Washington
+2061,MXN-BC,Baja California
+2061,MXN-BS,Baja California Sur
+2062,CL,Chile
+2062,SGE-OO,South Georgia
+2062,AO,Angola
+2062,NA,Namibia
+2062,WAU-WA,Western Australia
+2062,GS,South Georgia and the South Sandwich Islands
+2062,CPP-EC,Eastern Cape Province
+2062,CPP-WC,Western Cape
+2062,CRZ-OO,Crozet Is.
+2062,NZS-OO,South Is.
+2062,MPE-OO,Marion-Prince Edward Is.
+2062,MG,Madagascar
+2062,MAQ-OO,Macquarie Is.
+2062,VIC-OO,Victoria
+2062,NSW-NS,New South Wales
+2062,HM,Heard Island and McDonald Islands
+2062,BR,Brazil
+2062,ZA,South Africa
+2062,NZ,New Zealand
+2062,ASP-OO,Amsterdam-St. Paul Is.
+2062,BV,Bouvet Island
+2062,TF,French Southern Territories
+2062,MU,Mauritius
+2062,AR,Argentina
+2062,AQ,Antarctica
+2062,SH,"Saint Helena, Ascension and Tristan da Cunha"
+2062,KM,Comoros
+2062,AU,Australia
+2062,KEG-OO,Kerguelen
+2062,TDC-OO,Tristan da Cunha
+2062,SOA-OO,South Australia
+2062,JNF-OO,Juan Fernández Is.
+2062,ATP-OO,Antipodean Is.
+2062,NAT-OO,KwaZulu-Natal
+2062,CPP-NC,Northern Cape Province
+2062,MZ,Mozambique
+2062,TAS-OO,Tasmania
+2062,NZN-OO,North Is.
+2467,NO,Norway
+2467,CA,Canada
+2467,IS,Iceland
+2467,GL,Greenland
+2467,SJ,Svalbard and Jan Mayen
+2467,KR,"Korea, Republic of"
+2467,RU,Russian Federation
+2467,US,United States of America
+2467,KP,"Korea, Democratic People's Republic of"
+2467,JP,Japan
+2467,ASK-OO,Alaska
+2467,IE,Ireland
+2467,GB,United Kingdom of Great Britain and Northern Ireland
+2467,FR,France
+2474,CL,Chile
+2474,CN,China
+2474,LK,Sri Lanka
+2474,PF,French Polynesia
+2474,CO,Colombia
+2474,GL,Greenland
+2474,PE,Peru
+2474,NL,Netherlands
+2474,ES,Spain
+2474,RU,Russian Federation
+2474,IS,Iceland
+2474,MM,Myanmar
+2474,AU,Australia
+2474,SJ,Svalbard and Jan Mayen
+2474,DE,Germany
+2474,BD,Bangladesh
+2474,FR,France
+2474,NO,Norway
+2474,CA,Canada
+2474,GB,United Kingdom of Great Britain and Northern Ireland
+2474,TH,Thailand
+2474,EC,Ecuador
+2474,BR,Brazil
+2474,BS,Bahamas
+2474,ZA,South Africa
+2474,NZ,New Zealand
+2474,JP,Japan
+2474,ID,Indonesia
+2474,UY,Uruguay
+2474,DK,Denmark
+2474,IE,Ireland
+2474,KP,"Korea, Democratic People's Republic of"
+2474,US,United States of America
+2474,AR,Argentina
+2474,MX,Mexico
+2474,SE,Sweden
+2474,KR,"Korea, Republic of"
+2474,IN,India
+2474,MY,Malaysia
+2474,PG,Papua New Guinea
+2474,GM,Gambia
+2474,GP,Guadeloupe
+2474,GR,Greece
+2474,PM,Saint Pierre and Miquelon
+2474,SN,Senegal
+2474,CU,Cuba
+2474,CV,Cabo Verde
+2474,PR,Puerto Rico
+2474,AG,Antigua and Barbuda
+2474,PT,Portugal
+2474,MR,Mauritania
+2474,IT,Italy
+2474,MZ,Mozambique
+2474,AQ,Antarctica
+2474,IL,Israel
+2474,VI,"Virgin Islands, U.S."
+2474,VG,"Virgin Islands, British"
+2474,DM,Dominica
+2474,DO,Dominican Republic
+2474,MA,Morocco
+2474,EH,Western Sahara
+2474,AI,Anguilla
+2474,NC,New Caledonia
+2474,TW,"Taiwan, Province of China"
+2474,GF,French Guiana
+2474,TN,Tunisia
+2474,FO,Faroe Islands
+2474,BE,Belgium
+2474,TC,Turks and Caicos Islands
+2474,BM,Bermuda
+2474,SX,Sint Maarten (Dutch part)
+2474,MF,Saint Martin (French part)
+2474,NLA-BO,Bonaire
+2474,CW,Curaçao
+2474,BQ,"Bonaire, Sint Eustatius and Saba"
+2474,NLA-SE,Sint Eustatius
+2474,NLA-SA,Saba
+2474,CNY-OO,Canary Is.
+2474,MDR-OO,Madeira
+2474,POR-OO,Portugal (mainland)
+2474,AZO-OO,Azores
+2475,CL,Chile
+2475,TW,"Taiwan, Province of China"
+2475,TZ,"Tanzania, United Republic of"
+2475,ES,Spain
+2475,US,United States of America
+2475,KP,"Korea, Democratic People's Republic of"
+2475,KE,Kenya
+2475,UY,Uruguay
+2475,FK,Falkland Islands (Malvinas)
+2475,ID,Indonesia
+2475,NO,Norway
+2475,CA,Canada
+2475,TH,Thailand
+2475,GB,United Kingdom of Great Britain and Northern Ireland
+2475,RE,Réunion
+2475,ZA,South Africa
+2475,JP,Japan
+2475,MX,Mexico
+2475,AR,Argentina
+2475,KR,"Korea, Republic of"
+2475,MZ,Mozambique
+2475,MY,Malaysia
+2475,IN,India
+2475,CU,Cuba
+2475,AU,Australia
+2475,IS,Iceland
+2475,SR,Suriname
+2475,PL,Poland
+2475,RU,Russian Federation
+2475,SH,"Saint Helena, Ascension and Tristan da Cunha"
+2475,GI,Gibraltar
+2475,AO,Angola
+2475,NA,Namibia
+2475,GL,Greenland
+2475,PE,Peru
+2475,EH,Western Sahara
+2475,CD,"Congo, The Democratic Republic of the"
+2475,GS,South Georgia and the South Sandwich Islands
+2475,CG,Congo
+2475,PM,Saint Pierre and Miquelon
+2475,PT,Portugal
+2475,MR,Mauritania
+2475,MP,Northern Mariana Islands
+2475,TDC-OO,Tristan da Cunha
+2475,CV,Cabo Verde
+2475,DO,Dominican Republic
+2475,MG,Madagascar
+2475,HT,Haiti
+2475,BR,Brazil
+2475,BS,Bahamas
+2475,NZ,New Zealand
+2475,TF,French Southern Territories
+2475,FO,Faroe Islands
+2475,TC,Turks and Caicos Islands
+2475,MA,Morocco
+2475,IE,Ireland
+2475,BM,Bermuda
+2475,GU,Guam
+2476,SB,Solomon Islands
+2476,CL,Chile
+2476,CK,Cook Islands
+2476,SA,Saudi Arabia
+2476,CN,China
+2476,CM,Cameroon
+2476,LK,Sri Lanka
+2476,CO,Colombia
+2476,CR,Costa Rica
+2476,CD,"Congo, The Democratic Republic of the"
+2476,CC,Cocos (Keeling) Islands
+2476,CG,Congo
+2476,LC,Saint Lucia
+2476,CI,Côte d'Ivoire
+2476,SN,Senegal
+2476,KY,Cayman Islands
+2476,KW,Kuwait
+2476,SL,Sierra Leone
+2476,KN,Saint Kitts and Nevis
+2476,KM,Comoros
+2476,CU,Cuba
+2476,SG,Singapore
+2476,CV,Cabo Verde
+2476,KR,"Korea, Republic of"
+2476,KP,"Korea, Democratic People's Republic of"
+2476,SC,Seychelles
+2476,BM,Bermuda
+2476,KE,Kenya
+2476,TC,Turks and Caicos Islands
+2476,BJ,Benin
+2476,KH,Cambodia
+2476,KI,Kiribati
+2476,BD,Bangladesh
+2476,PN,Pitcairn
+2476,GU,Guam
+2476,GW,Guinea-Bissau
+2476,GY,Guyana
+2476,WS,Samoa
+2476,FM,"Micronesia, Federated States of"
+2476,FJ,Fiji
+2476,OM,Oman
+2476,NR,Nauru
+2476,NU,Niue
+2476,GA,Gabon
+2476,GF,French Guiana
+2476,NZ,New Zealand
+2476,GD,Grenada
+2476,TV,Tuvalu
+2476,TW,"Taiwan, Province of China"
+2476,NC,New Caledonia
+2476,TT,Trinidad and Tobago
+2476,NA,Namibia
+2476,TZ,"Tanzania, United Republic of"
+2476,EH,Western Sahara
+2476,ER,Eritrea
+2476,NI,Nicaragua
+2476,NG,Nigeria
+2476,UY,Uruguay
+2476,DO,Dominican Republic
+2476,VC,Saint Vincent and the Grenadines
+2476,MH,Marshall Islands
+2476,DM,Dominica
+2476,MG,Madagascar
+2476,VE,"Venezuela, Bolivarian Republic of"
+2476,VG,"Virgin Islands, British"
+2476,LR,Liberia
+2476,VI,"Virgin Islands, U.S."
+2476,EC,Ecuador
+2476,VN,Viet Nam
+2476,VU,Vanuatu
+2476,MA,Morocco
+2476,DJ,Djibouti
+2476,MV,Maldives
+2476,MU,Mauritius
+2476,US,United States of America
+2476,MX,Mexico
+2476,MZ,Mozambique
+2476,MY,Malaysia
+2476,MM,Myanmar
+2476,MP,Northern Mariana Islands
+2476,MR,Mauritania
+2476,MQ,Martinique
+2476,GT,Guatemala
+2476,PH,Philippines
+2476,GQ,Equatorial Guinea
+2476,WF,Wallis and Futuna
+2476,GP,Guadeloupe
+2476,PK,Pakistan
+2476,GN,Guinea
+2476,PE,Peru
+2476,GM,Gambia
+2476,PF,French Polynesia
+2476,PG,Papua New Guinea
+2476,PA,Panama
+2476,GI,Gibraltar
+2476,GH,Ghana
+2476,ZA,South Africa
+2476,RE,Réunion
+2476,HN,Honduras
+2476,HT,Haiti
+2476,ID,Indonesia
+2476,AS,American Samoa
+2476,AR,Argentina
+2476,QA,Qatar
+2476,AW,Aruba
+2476,IN,India
+2476,AU,Australia
+2476,IQ,Iraq
+2476,IR,"Iran, Islamic Republic of"
+2476,YE,Yemen
+2476,PW,Palau
+2476,AG,Antigua and Barbuda
+2476,AE,United Arab Emirates
+2476,PR,Puerto Rico
+2476,AI,Anguilla
+2476,AO,Angola
+2476,TG,Togo
+2476,JP,Japan
+2476,BS,Bahamas
+2476,BR,Brazil
+2476,JM,Jamaica
+2476,TH,Thailand
+2476,TO,Tonga
+2476,TL,Timor-Leste
+2476,BZ,Belize
+2476,SV,El Salvador
+2476,BH,Bahrain
+2476,ST,Sao Tome and Principe
+2476,BB,Barbados
+2476,SX,Sint Maarten (Dutch part)
+2476,MF,Saint Martin (French part)
+2476,CW,Curaçao
+2476,NLA-SA,Saba
+2476,NLA-SE,Sint Eustatius
+2476,BQ,"Bonaire, Sint Eustatius and Saba"
+2476,NLA-BO,Bonaire
+2476,SWC-CC,Colombian Caribbean Is.
+2476,MS,Montserrat
+2476,BL,Saint Barthélemy
+2477,CL,Chile
+2477,TW,"Taiwan, Province of China"
+2477,PA,Panama
+2477,NA,Namibia
+2477,TZ,"Tanzania, United Republic of"
+2477,PF,French Polynesia
+2477,GL,Greenland
+2477,LK,Sri Lanka
+2477,PE,Peru
+2477,PK,Pakistan
+2477,ES,Spain
+2477,NI,Nicaragua
+2477,RU,Russian Federation
+2477,KE,Kenya
+2477,UY,Uruguay
+2477,ID,Indonesia
+2477,FK,Falkland Islands (Malvinas)
+2477,BD,Bangladesh
+2477,NO,Norway
+2477,CA,Canada
+2477,GB,United Kingdom of Great Britain and Northern Ireland
+2477,EC,Ecuador
+2477,NZ,New Zealand
+2477,ZA,South Africa
+2477,TF,French Southern Territories
+2477,JP,Japan
+2477,KP,"Korea, Democratic People's Republic of"
+2477,US,United States of America
+2477,AR,Argentina
+2477,MX,Mexico
+2477,KR,"Korea, Republic of"
+2477,CV,Cabo Verde
+2477,IN,India
+2477,MY,Malaysia
+2477,SJ,Svalbard and Jan Mayen
+2477,AU,Australia
+2477,MM,Myanmar
+2477,IS,Iceland
+2477,GH,Ghana
+2477,CK,Cook Islands
+2477,GI,Gibraltar
+2477,CN,China
+2477,CM,Cameroon
+2477,CO,Colombia
+2477,CR,Costa Rica
+2477,CC,Cocos (Keeling) Islands
+2477,GQ,Equatorial Guinea
+2477,PH,Philippines
+2477,GR,Greece
+2477,GS,South Georgia and the South Sandwich Islands
+2477,PN,Pitcairn
+2477,GT,Guatemala
+2477,PM,Saint Pierre and Miquelon
+2477,CI,Côte d'Ivoire
+2477,SO,Somalia
+2477,SN,Senegal
+2477,TDC-OO,Tristan da Cunha
+2477,KM,Comoros
+2477,SH,"Saint Helena, Ascension and Tristan da Cunha"
+2477,SC,Seychelles
+2477,BM,Bermuda
+2477,BJ,Benin
+2477,FO,Faroe Islands
+2477,ST,Sao Tome and Principe
+2477,FR,France
+2477,SV,El Salvador
+2477,OM,Oman
+2477,TL,Timor-Leste
+2477,YE,Yemen
+2477,MP,Northern Mariana Islands
+2477,IR,"Iran, Islamic Republic of"
+2477,IQ,Iraq
+2477,MZ,Mozambique
+2477,RE,Réunion
+2477,MG,Madagascar
+2477,MH,Marshall Islands
+2477,MA,Morocco
+2477,IE,Ireland
+2477,DJ,Djibouti
+2477,MV,Maldives
+2477,MU,Mauritius
+2477,MR,Mauritania
+2477,PT,Portugal
+2477,NG,Nigeria
+2477,PW,Palau
+2477,ER,Eritrea
+2477,EH,Western Sahara
+2477,AO,Angola
+2477,NC,New Caledonia
+2477,TG,Togo
+2477,GD,Grenada
+2477,BS,Bahamas
+2477,BR,Brazil
+2477,GA,Gabon
+2477,TH,Thailand
+2477,CNY-OO,Canary Is.
+2477,AZO-OO,Azores
+2477,MDR-OO,Madeira
+2477,KAM-OO,Kamchatka
+2477,KUR-OO,Kuril Is.
+2477,FJ,Fiji
+2477,KI,Kiribati
+2477,NR,Nauru
+2477,NF,Norfolk Island
+2477,PG,Papua New Guinea
+2477,SB,Solomon Islands
+2477,TV,Tuvalu
+2477,VU,Vanuatu
+2478,TW,"Taiwan, Province of China"
+2478,AO,Angola
+2478,NA,Namibia
+2478,TZ,"Tanzania, United Republic of"
+2478,PF,French Polynesia
+2478,GL,Greenland
+2478,LK,Sri Lanka
+2478,PK,Pakistan
+2478,AE,United Arab Emirates
+2478,ES,Spain
+2478,RU,Russian Federation
+2478,GS,South Georgia and the South Sandwich Islands
+2478,PL,Poland
+2478,PT,Portugal
+2478,SR,Suriname
+2478,IT,Italy
+2478,IS,Iceland
+2478,FO,Faroe Islands
+2478,MG,Madagascar
+2478,NO,Norway
+2478,CA,Canada
+2478,TN,Tunisia
+2478,GB,United Kingdom of Great Britain and Northern Ireland
+2478,EC,Ecuador
+2478,BR,Brazil
+2478,NZ,New Zealand
+2478,ZA,South Africa
+2478,TF,French Southern Territories
+2478,HK,Hong Kong
+2478,JP,Japan
+2478,BD,Bangladesh
+2478,ID,Indonesia
+2478,KE,Kenya
+2478,KP,"Korea, Democratic People's Republic of"
+2478,US,United States of America
+2478,AR,Argentina
+2478,MX,Mexico
+2478,KR,"Korea, Republic of"
+2478,IN,India
+2478,SJ,Svalbard and Jan Mayen
+2478,AU,Australia
+2478,MM,Myanmar
+2478,CL,Chile
+2478,GI,Gibraltar
+2478,CN,China
+2478,PE,Peru
+2478,CD,"Congo, The Democratic Republic of the"
+2478,GR,Greece
+2478,PH,Philippines
+2478,LB,Lebanon
+2478,CG,Congo
+2478,PN,Pitcairn
+2478,PM,Saint Pierre and Miquelon
+2478,TDC-OO,Tristan da Cunha
+2478,SE,Sweden
+2478,CY,Cyprus
+2478,BM,Bermuda
+2478,NL,Netherlands
+2478,MT,Malta
+2478,MP,Northern Mariana Islands
+2478,MZ,Mozambique
+2478,IL,Israel
+2478,VU,Vanuatu
+2478,RE,Réunion
+2478,LY,Libya
+2478,DZ,Algeria
+2478,DE,Germany
+2478,UY,Uruguay
+2478,MC,Monaco
+2478,MA,Morocco
+2478,DK,Denmark
+2478,IE,Ireland
+2478,EH,Western Sahara
+2478,EG,Egypt
+2478,NC,New Caledonia
+2478,TV,Tuvalu
+2478,TG,Togo
+2478,NU,Niue
+2478,TR,Türkiye
+2478,FR,France
+2478,SY,Syrian Arab Republic
+2478,BE,Belgium
+2478,FK,Falkland Islands (Malvinas)
+2478,FJ,Fiji
+2478,SH,"Saint Helena, Ascension and Tristan da Cunha"
+2478,VE,"Venezuela, Bolivarian Republic of"
+2478,BV,Bouvet Island
+2478,AQ,Antarctica
+2478,IM,Isle of Man
+2478,HR,Croatia
+2478,SI,Slovenia
+2478,AND-AN,Andaman Is.
+2478,LDV-OO,Laccadive Is.
+2478,NCB-OO,Nicobar Is.
+2478,MY,Malaysia
+2478,CV,Cabo Verde
+2478,GA,Gabon
+2478,MU,Mauritius
+2478,ROD-OO,Rodrigues
+2478,SC,Seychelles
+2478,ALD-OO,Aldabra
+2478,IR,"Iran, Islamic Republic of"
+2478,IQ,Iraq
+2478,OM,Oman
+2478,SA,Saudi Arabia
+2478,KEG-OO,Kerguelen
+2478,HM,Heard Island and McDonald Islands
+2480,CL,Chile
+2480,NC,New Caledonia
+2480,AO,Angola
+2480,MU,Mauritius
+2480,KE,Kenya
+2480,UY,Uruguay
+2480,FJ,Fiji
+2480,ID,Indonesia
+2480,MG,Madagascar
+2480,BR,Brazil
+2480,RE,Réunion
+2480,ZA,South Africa
+2480,NZ,New Zealand
+2480,GF,French Guiana
+2480,VU,Vanuatu
+2480,TF,French Southern Territories
+2480,AR,Argentina
+2480,AQ,Antarctica
+2480,MZ,Mozambique
+2480,KM,Comoros
+2480,AU,Australia
+2480,SR,Suriname
+2480,GS,South Georgia and the South Sandwich Islands
+2480,PE,Peru
+2480,PF,French Polynesia
+2480,TZ,"Tanzania, United Republic of"
+2480,NA,Namibia
+2480,YT,Mayotte
+2762,TF,French Southern Territories
+2762,CL,Chile
+2762,UY,Uruguay
+2762,TAS-OO,Tasmania
+2762,FK,Falkland Islands (Malvinas)
+2762,GS,South Georgia and the South Sandwich Islands
+2762,CPP-EC,Eastern Cape Province
+2762,CTM-OO,Chatham Is.
+2762,AR,Argentina
+2762,AQ,Antarctica
+2762,NZ,New Zealand
+2762,ZA,South Africa
+2762,BR,Brazil
+2762,KEG-OO,Kerguelen
+2762,AU,Australia
+2762,HM,Heard Island and McDonald Islands
+2762,BZL-SP,São Paulo
+2762,SOA-OO,South Australia
+2762,CPP-WC,Western Cape
+2762,CRZ-OO,Crozet Is.
+2763,CA,Canada
+2763,KR,"Korea, Republic of"
+2763,RU,Russian Federation
+2763,MX,Mexico
+2763,US,United States of America
+2763,KP,"Korea, Democratic People's Republic of"
+2763,JP,Japan
+3590,TW,"Taiwan, Province of China"
+3590,CN,China
+3590,CA,Canada
+3590,RU,Russian Federation
+3590,KR,"Korea, Republic of"
+3590,US,United States of America
+3590,MX,Mexico
+3590,KP,"Korea, Democratic People's Republic of"
+3590,JP,Japan
+3778,CL,Chile
+3778,NA,Namibia
+3778,FK,Falkland Islands (Malvinas)
+3778,AU,Australia
+3778,NZ,New Zealand
+3778,ZA,South Africa
+3778,AR,Argentina
+3778,TF,French Southern Territories
+4159,CL,Chile
+4159,FK,Falkland Islands (Malvinas)
+4159,KEG-OO,Kerguelen
+4159,AQ,Antarctica
+4159,ZA,South Africa
+4159,AR,Argentina
+4159,TF,French Southern Territories
+4159,BR,Brazil
+4160,CL,Chile
+4160,AR,Argentina
+4161,CPP-WC,Western Cape
+4161,AO,Angola
+4161,NA,Namibia
+4161,ZA,South Africa
+4161,CPP-NC,Northern Cape Province
+4162,NZ,New Zealand
+4162,NZN-OO,North Is.
+4162,NZS-OO,South Is.
+6204,DK,Denmark
+6204,NO,Norway
+6204,CA,Canada
+6204,IS,Iceland
+6204,GL,Greenland
+6204,GB,United Kingdom of Great Britain and Northern Ireland
+6204,PR,Puerto Rico
+6204,SJ,Svalbard and Jan Mayen
+6204,ES,Spain
+6204,RU,Russian Federation
+6204,US,United States of America
+6204,PT,Portugal
+6204,BM,Bermuda
+6204,IE,Ireland
+6204,TC,Turks and Caicos Islands
+6204,DE,Germany
+6204,AR,Argentina
+6204,BS,Bahamas
+6204,FR,France
+6204,FO,Faroe Islands
+6204,AG,Antigua and Barbuda
+6204,BL,Saint Barthélemy
+6335,IE,Ireland
+6335,DK,Denmark
+6335,GL,Greenland
+6335,JP,Japan
+6335,US,United States of America
+6335,SJ,Svalbard and Jan Mayen
+6335,GB,United Kingdom of Great Britain and Northern Ireland
+6335,IS,Iceland
+6335,CA,Canada
+6335,NO,Norway
+6335,FR,France
+6335,RU,Russian Federation
+6335,FO,Faroe Islands
+6335,NL,Netherlands
+6335,BE,Belgium
+6335,DE,Germany
+6335,SE,Sweden
+6335,WAS-OO,Washington
+6335,ASK-OO,Alaska
+6336,CL,Chile
+6336,GI,Gibraltar
+6336,PA,Panama
+6336,CO,Colombia
+6336,GM,Gambia
+6336,CR,Costa Rica
+6336,PE,Peru
+6336,GN,Guinea
+6336,GR,Greece
+6336,LB,Lebanon
+6336,RU,Russian Federation
+6336,GT,Guatemala
+6336,PL,Poland
+6336,EG,Egypt
+6336,NL,Netherlands
+6336,ES,Spain
+6336,NI,Nicaragua
+6336,UA,Ukraine
+6336,PT,Portugal
+6336,MT,Malta
+6336,MR,Mauritania
+6336,BA,Bosnia and Herzegovina
+6336,IT,Italy
+6336,AU,Australia
+6336,IL,Israel
+6336,HN,Honduras
+6336,LY,Libya
+6336,EC,Ecuador
+6336,HR,Croatia
+6336,RO,Romania
+6336,DZ,Algeria
+6336,ME,Montenegro
+6336,DE,Germany
+6336,MC,Monaco
+6336,MA,Morocco
+6336,DK,Denmark
+6336,US,United States of America
+6336,MX,Mexico
+6336,AL,Albania
+6336,NC,New Caledonia
+6336,TW,"Taiwan, Province of China"
+6336,JP,Japan
+6336,GE,Georgia
+6336,NZ,New Zealand
+6336,GA,Gabon
+6336,GB,United Kingdom of Great Britain and Northern Ireland
+6336,TN,Tunisia
+6336,CA,Canada
+6336,TR,Türkiye
+6336,NO,Norway
+6336,BG,Bulgaria
+6336,FR,France
+6336,SV,El Salvador
+6336,SY,Syrian Arab Republic
+6336,BE,Belgium
+6336,CY,Cyprus
+6336,KP,"Korea, Democratic People's Republic of"
+6336,KR,"Korea, Republic of"
+6336,SI,Slovenia
+6336,SN,Senegal
+6336,GW,Guinea-Bissau
+6336,CI,Côte d'Ivoire
+6336,BQ,"Bonaire, Sint Eustatius and Saba"
+6336,CW,Curaçao
+6336,BL,Saint Barthélemy
+6336,MF,Saint Martin (French part)
+6336,SX,Sint Maarten (Dutch part)
+6336,SB,Solomon Islands
+6336,CN,China
+6336,CM,Cameroon
+6336,CD,"Congo, The Democratic Republic of the"
+6336,LC,Saint Lucia
+6336,CG,Congo
+6336,SR,Suriname
+6336,KY,Cayman Islands
+6336,GP,Guadeloupe
+6336,GY,Guyana
+6336,GF,French Guiana
+6336,GD,Grenada
+6336,TT,Trinidad and Tobago
+6336,NA,Namibia
+6336,EH,Western Sahara
+6336,UY,Uruguay
+6336,VC,Saint Vincent and the Grenadines
+6336,DO,Dominican Republic
+6336,VE,"Venezuela, Bolivarian Republic of"
+6336,DM,Dominica
+6336,VG,"Virgin Islands, British"
+6336,VI,"Virgin Islands, U.S."
+6336,LR,Liberia
+6336,MQ,Martinique
+6336,MS,Montserrat
+6336,NG,Nigeria
+6336,GL,Greenland
+6336,GH,Ghana
+6336,ZA,South Africa
+6336,HT,Haiti
+6336,IE,Ireland
+6336,AR,Argentina
+6336,AW,Aruba
+6336,IS,Iceland
+6336,AG,Antigua and Barbuda
+6336,PR,Puerto Rico
+6336,PS,"Palestine, State of"
+6336,AI,Anguilla
+6336,AO,Angola
+6336,TG,Togo
+6336,BS,Bahamas
+6336,BR,Brazil
+6336,JM,Jamaica
+6336,BZ,Belize
+6336,ST,Sao Tome and Principe
+6336,BJ,Benin
+6336,CV,Cabo Verde
+6336,CU,Cuba
+6336,KN,Saint Kitts and Nevis
+6336,SL,Sierra Leone
+6337,CL,Chile
+6337,GH,Ghana
+6337,SA,Saudi Arabia
+6337,CN,China
+6337,CM,Cameroon
+6337,LK,Sri Lanka
+6337,GM,Gambia
+6337,PE,Peru
+6337,GN,Guinea
+6337,PK,Pakistan
+6337,GQ,Equatorial Guinea
+6337,CI,Côte d'Ivoire
+6337,GW,Guinea-Bissau
+6337,SR,Suriname
+6337,SO,Somalia
+6337,GY,Guyana
+6337,SN,Senegal
+6337,SL,Sierra Leone
+6337,KW,Kuwait
+6337,CAL-OO,California
+6337,NG,Nigeria
+6337,MR,Mauritania
+6337,YE,Yemen
+6337,IR,"Iran, Islamic Republic of"
+6337,MM,Myanmar
+6337,IQ,Iraq
+6337,MY,Malaysia
+6337,IN,India
+6337,QA,Qatar
+6337,MZ,Mozambique
+6337,US,United States of America
+6337,MX,Mexico
+6337,HK,Hong Kong
+6337,ZA,South Africa
+6337,VN,Viet Nam
+6337,MXN-SI,Sinaloa
+6337,MXN-SO,Sonora
+6337,LR,Liberia
+6337,MG,Madagascar
+6337,VE,"Venezuela, Bolivarian Republic of"
+6337,ID,Indonesia
+6337,UY,Uruguay
+6337,MA,Morocco
+6337,DJ,Djibouti
+6337,AR,Argentina
+6337,ER,Eritrea
+6337,AE,United Arab Emirates
+6337,EH,Western Sahara
+6337,EG,Egypt
+6337,TZ,"Tanzania, United Republic of"
+6337,TT,Trinidad and Tobago
+6337,TW,"Taiwan, Province of China"
+6337,TG,Togo
+6337,JP,Japan
+6337,NZ,New Zealand
+6337,GF,French Guiana
+6337,BR,Brazil
+6337,GA,Gabon
+6337,TH,Thailand
+6337,MXN-BC,Baja California
+6337,OM,Oman
+6337,BD,Bangladesh
+6337,KH,Cambodia
+6337,BJ,Benin
+6337,KE,Kenya
+6337,SD,Sudan
+6337,KP,"Korea, Democratic People's Republic of"
+6337,KR,"Korea, Republic of"
+6337,SG,Singapore
+6909,SB,Solomon Islands
+6909,SA,Saudi Arabia
+6909,CN,China
+6909,PG,Papua New Guinea
+6909,LK,Sri Lanka
+6909,BIS-OO,Bismarck Archipelago
+6909,YT,Mayotte
+6909,TZ,"Tanzania, United Republic of"
+6909,EG,Egypt
+6909,AE,United Arab Emirates
+6909,ER,Eritrea
+6909,PW,Palau
+6909,YE,Yemen
+6909,MM,Myanmar
+6909,IR,"Iran, Islamic Republic of"
+6909,IQ,Iraq
+6909,AU,Australia
+6909,QA,Qatar
+6909,VU,Vanuatu
+6909,NNS-OO,Nansei-shoto
+6909,VN,Viet Nam
+6909,MG,Madagascar
+6909,LDV-OO,Laccadive Is.
+6909,ID,Indonesia
+6909,DJ,Djibouti
+6909,MV,Maldives
+6909,MU,Mauritius
+6909,IL,Israel
+6909,MZ,Mozambique
+6909,IN,India
+6909,MY,Malaysia
+6909,NC,New Caledonia
+6909,TW,"Taiwan, Province of China"
+6909,JP,Japan
+6909,JO,Jordan
+6909,TH,Thailand
+6909,ROD-OO,Rodrigues
+6909,TL,Timor-Leste
+6909,OM,Oman
+6909,BH,Bahrain
+6909,BD,Bangladesh
+6909,BN,Brunei Darussalam
+6909,KH,Cambodia
+6909,SOC-OO,Socotra
+6909,KE,Kenya
+6909,AND-AN,Andaman Is.
+6909,SD,Sudan
+6909,SC,Seychelles
+6909,SG,Singapore
+6909,KM,Comoros
+6909,KW,Kuwait
+6909,SO,Somalia
+6909,NCB-OO,Nicobar Is.
+6909,PH,Philippines
+6909,CC,Cocos (Keeling) Islands
+7750,RU,Russian Federation
+7750,US,United States of America
+7750,CA,Canada
+7750,MX,Mexico
+7750,JP,Japan
+8010,JP,Japan
+8010,US,United States of America
+8010,SJ,Svalbard and Jan Mayen
+8010,GB,United Kingdom of Great Britain and Northern Ireland
+8010,IS,Iceland
+8010,CA,Canada
+8010,NO,Norway
+8010,PT,Portugal
+8010,FR,France
+8010,RU,Russian Federation
+8010,ES,Spain
+8010,GL,Greenland
+8010,CN,China
+8010,DE,Germany
+8010,FO,Faroe Islands
+8010,NL,Netherlands
+8097,JP,Japan
+8097,KP,"Korea, Democratic People's Republic of"
+8097,MX,Mexico
+8097,US,United States of America
+8097,KR,"Korea, Republic of"
+8097,SE,Sweden
+8097,GB,United Kingdom of Great Britain and Northern Ireland
+8097,IS,Iceland
+8097,CA,Canada
+8097,RU,Russian Federation
+8097,NL,Netherlands
+8097,BE,Belgium
+8097,CN,China
+8097,VN,Viet Nam
+8153,CL,Chile
+8153,NA,Namibia
+8153,BV,Bouvet Island
+8153,TF,French Southern Territories
+8153,AR,Argentina
+8153,NZ,New Zealand
+8153,ZA,South Africa
+8153,MZ,Mozambique
+8153,SH,"Saint Helena, Ascension and Tristan da Cunha"
+8153,BR,Brazil
+8153,AU,Australia
+8153,TDC-OO,Tristan da Cunha
+8153,MG,Madagascar
+8153,FK,Falkland Islands (Malvinas)
+8153,UY,Uruguay
+8153,MU,Mauritius
+8153,GA,Gabon
+8153,PE,Peru
+8153,AQ,Antarctica
+8153,SGE-OO,South Georgia
+8153,GS,South Georgia and the South Sandwich Islands
+8153,RE,Réunion
+8153,KEG-OO,Kerguelen
+8239,CN,China
+8239,CA,Canada
+8239,KR,"Korea, Republic of"
+8239,RU,Russian Federation
+8239,US,United States of America
+8239,KP,"Korea, Democratic People's Republic of"
+8239,JP,Japan
+8239,BRC-OO,British Columbia
+8239,ASK-OO,Alaska
+8239,ALU-OO,Aleutian Is.
+8239,CAL-OO,California
+8239,WAS-OO,Washington
+8239,ORE-OO,Oregon
+8239,RU-CA,Central Asian Russia
+8239,KUR-OO,Kuril Is.
+8239,KAM-OO,Kamchatka
+8551,SB,Solomon Islands
+8551,BOR-SR,Sarawak
+8551,CK,Cook Islands
+8551,CN,China
+8551,CM,Cameroon
+8551,LK,Sri Lanka
+8551,CO,Colombia
+8551,CR,Costa Rica
+8551,CW,Curaçao
+8551,CD,"Congo, The Democratic Republic of the"
+8551,CC,Cocos (Keeling) Islands
+8551,CG,Congo
+8551,CI,Côte d'Ivoire
+8551,SR,Suriname
+8551,SO,Somalia
+8551,KY,Cayman Islands
+8551,SN,Senegal
+8551,SL,Sierra Leone
+8551,KN,Saint Kitts and Nevis
+8551,KM,Comoros
+8551,CU,Cuba
+8551,SG,Singapore
+8551,KR,"Korea, Republic of"
+8551,SC,Seychelles
+8551,KE,Kenya
+8551,BJ,Benin
+8551,KH,Cambodia
+8551,GW,Guinea-Bissau
+8551,GY,Guyana
+8551,WS,Samoa
+8551,FM,"Micronesia, Federated States of"
+8551,FJ,Fiji
+8551,MLY-PM,Peninsular Malaysia
+8551,FR,France
+8551,OM,Oman
+8551,NR,Nauru
+8551,NU,Niue
+8551,GA,Gabon
+8551,GF,French Guiana
+8551,GD,Grenada
+8551,TV,Tuvalu
+8551,TW,"Taiwan, Province of China"
+8551,NC,New Caledonia
+8551,TT,Trinidad and Tobago
+8551,TZ,"Tanzania, United Republic of"
+8551,NA,Namibia
+8551,EH,Western Sahara
+8551,ES,Spain
+8551,NI,Nicaragua
+8551,NG,Nigeria
+8551,DO,Dominican Republic
+8551,MH,Marshall Islands
+8551,VE,"Venezuela, Bolivarian Republic of"
+8551,MG,Madagascar
+8551,DM,Dominica
+8551,VG,"Virgin Islands, British"
+8551,DZ,Algeria
+8551,LR,Liberia
+8551,VI,"Virgin Islands, U.S."
+8551,VN,Viet Nam
+8551,EC,Ecuador
+8551,VU,Vanuatu
+8551,BOR-SB,Sabah
+8551,VC,Saint Vincent and the Grenadines
+8551,UY,Uruguay
+8551,MA,Morocco
+8551,DJ,Djibouti
+8551,MV,Maldives
+8551,MX,Mexico
+8551,US,United States of America
+8551,MZ,Mozambique
+8551,MY,Malaysia
+8551,MM,Myanmar
+8551,MP,Northern Mariana Islands
+8551,MR,Mauritania
+8551,GU,Guam
+8551,PN,Pitcairn
+8551,GT,Guatemala
+8551,PH,Philippines
+8551,GQ,Equatorial Guinea
+8551,WF,Wallis and Futuna
+8551,PK,Pakistan
+8551,GN,Guinea
+8551,GM,Gambia
+8551,PE,Peru
+8551,PF,French Polynesia
+8551,PG,Papua New Guinea
+8551,PA,Panama
+8551,GH,Ghana
+8551,ZA,South Africa
+8551,HN,Honduras
+8551,HT,Haiti
+8551,ID,Indonesia
+8551,IN,India
+8551,AW,Aruba
+8551,AU,Australia
+8551,IR,"Iran, Islamic Republic of"
+8551,YE,Yemen
+8551,IT,Italy
+8551,PT,Portugal
+8551,PW,Palau
+8551,AG,Antigua and Barbuda
+8551,PR,Puerto Rico
+8551,AI,Anguilla
+8551,YT,Mayotte
+8551,AO,Angola
+8551,JP,Japan
+8551,TG,Togo
+8551,BS,Bahamas
+8551,TK,Tokelau
+8551,JM,Jamaica
+8551,BR,Brazil
+8551,TH,Thailand
+8551,TO,Tonga
+8551,TL,Timor-Leste
+8551,BZ,Belize
+8551,NLA-BO,Bonaire
+8551,SV,El Salvador
+8551,BB,Barbados
+8551,BD,Bangladesh
+8551,BN,Brunei Darussalam
+8551,KI,Kiribati
+8551,SX,Sint Maarten (Dutch part)
+8551,MF,Saint Martin (French part)
+8551,NLA-SA,Saba
+8551,NLA-SE,Sint Eustatius
+8551,BQ,"Bonaire, Sint Eustatius and Saba"
+8551,TN,Tunisia
+9249,BOR-SR,Sarawak
+9249,CL,Chile
+9249,SB,Solomon Islands
+9249,CK,Cook Islands
+9249,SA,Saudi Arabia
+9249,CN,China
+9249,CM,Cameroon
+9249,LK,Sri Lanka
+9249,CO,Colombia
+9249,CR,Costa Rica
+9249,CD,"Congo, The Democratic Republic of the"
+9249,CC,Cocos (Keeling) Islands
+9249,RU,Russian Federation
+9249,CG,Congo
+9249,LC,Saint Lucia
+9249,CI,Côte d'Ivoire
+9249,SR,Suriname
+9249,SO,Somalia
+9249,KY,Cayman Islands
+9249,SN,Senegal
+9249,SL,Sierra Leone
+9249,KN,Saint Kitts and Nevis
+9249,KM,Comoros
+9249,CU,Cuba
+9249,SG,Singapore
+9249,CV,Cabo Verde
+9249,SH,"Saint Helena, Ascension and Tristan da Cunha"
+9249,KR,"Korea, Republic of"
+9249,CX,Christmas Island
+9249,KP,"Korea, Democratic People's Republic of"
+9249,SC,Seychelles
+9249,BM,Bermuda
+9249,KE,Kenya
+9249,TC,Turks and Caicos Islands
+9249,BJ,Benin
+9249,KH,Cambodia
+9249,KI,Kiribati
+9249,BN,Brunei Darussalam
+9249,BD,Bangladesh
+9249,BB,Barbados
+9249,ST,Sao Tome and Principe
+9249,SV,El Salvador
+9249,BZ,Belize
+9249,TL,Timor-Leste
+9249,CA,Canada
+9249,FJ,Fiji
+9249,MLY-PM,Peninsular Malaysia
+9249,OM,Oman
+9249,NR,Nauru
+9249,NU,Niue
+9249,GA,Gabon
+9249,NZ,New Zealand
+9249,GF,French Guiana
+9249,GD,Grenada
+9249,TV,Tuvalu
+9249,TW,"Taiwan, Province of China"
+9249,NC,New Caledonia
+9249,TT,Trinidad and Tobago
+9249,NA,Namibia
+9249,TZ,"Tanzania, United Republic of"
+9249,EH,Western Sahara
+9249,ER,Eritrea
+9249,ES,Spain
+9249,NI,Nicaragua
+9249,NG,Nigeria
+9249,NF,Norfolk Island
+9249,MS,Montserrat
+9249,MQ,Martinique
+9249,MR,Mauritania
+9249,DO,Dominican Republic
+9249,VC,Saint Vincent and the Grenadines
+9249,MH,Marshall Islands
+9249,MG,Madagascar
+9249,VE,"Venezuela, Bolivarian Republic of"
+9249,DM,Dominica
+9249,VG,"Virgin Islands, British"
+9249,LR,Liberia
+9249,VI,"Virgin Islands, U.S."
+9249,VN,Viet Nam
+9249,EC,Ecuador
+9249,BOR-SB,Sabah
+9249,VU,Vanuatu
+9249,UY,Uruguay
+9249,MA,Morocco
+9249,DJ,Djibouti
+9249,MV,Maldives
+9249,MU,Mauritius
+9249,MX,Mexico
+9249,US,United States of America
+9249,MZ,Mozambique
+9249,MY,Malaysia
+9249,MM,Myanmar
+9249,MP,Northern Mariana Islands
+9249,MO,Macao
+9249,FM,"Micronesia, Federated States of"
+9249,WS,Samoa
+9249,GY,Guyana
+9249,GW,Guinea-Bissau
+9249,GU,Guam
+9249,PN,Pitcairn
+9249,GT,Guatemala
+9249,PH,Philippines
+9249,GQ,Equatorial Guinea
+9249,WF,Wallis and Futuna
+9249,GP,Guadeloupe
+9249,PK,Pakistan
+9249,GN,Guinea
+9249,PE,Peru
+9249,GM,Gambia
+9249,PF,French Polynesia
+9249,PG,Papua New Guinea
+9249,PA,Panama
+9249,GH,Ghana
+9249,HK,Hong Kong
+9249,ZA,South Africa
+9249,HN,Honduras
+9249,RE,Réunion
+9249,HT,Haiti
+9249,ID,Indonesia
+9249,AS,American Samoa
+9249,IN,India
+9249,AW,Aruba
+9249,IO,British Indian Ocean Territory
+9249,AU,Australia
+9249,IR,"Iran, Islamic Republic of"
+9249,YE,Yemen
+9249,PT,Portugal
+9249,PW,Palau
+9249,AG,Antigua and Barbuda
+9249,PR,Puerto Rico
+9249,AI,Anguilla
+9249,YT,Mayotte
+9249,AO,Angola
+9249,JP,Japan
+9249,TG,Togo
+9249,BS,Bahamas
+9249,TK,Tokelau
+9249,JM,Jamaica
+9249,BR,Brazil
+9249,TH,Thailand
+9249,TO,Tonga
+9249,SX,Sint Maarten (Dutch part)
+9249,MF,Saint Martin (French part)
+9249,NLA-SA,Saba
+9249,NLA-SE,Sint Eustatius
+9249,BQ,"Bonaire, Sint Eustatius and Saba"
+9249,CW,Curaçao
+9249,NLA-BO,Bonaire
+9249,SD,Sudan
+9249,EG,Egypt
+9249,PM,Saint Pierre and Miquelon
+9249,BV,Bouvet Island
+9249,IT,Italy
+9250,CL,Chile
+9250,NA,Namibia
+9250,GL,Greenland
+9250,PE,Peru
+9250,NL,Netherlands
+9250,ES,Spain
+9250,GS,South Georgia and the South Sandwich Islands
+9250,PT,Portugal
+9250,CRZ-OO,Crozet Is.
+9250,CPP-WC,Western Cape
+9250,MT,Malta
+9250,ATP-OO,Antipodean Is.
+9250,MR,Mauritania
+9250,NCA-OO,North Carolina
+9250,IT,Italy
+9250,IS,Iceland
+9250,AU,Australia
+9250,SE,Sweden
+9250,US,United States of America
+9250,AZO-OO,Azores
+9250,MDR-OO,Madeira
+9250,DZ,Algeria
+9250,NO,Norway
+9250,CA,Canada
+9250,TN,Tunisia
+9250,HM,Heard Island and McDonald Islands
+9250,GB,United Kingdom of Great Britain and Northern Ireland
+9250,LY,Libya
+9250,BR,Brazil
+9250,NZ,New Zealand
+9250,ZA,South Africa
+9250,TF,French Southern Territories
+9250,FR,France
+9250,MPE-OO,Marion-Prince Edward Is.
+9250,FO,Faroe Islands
+9250,BE,Belgium
+9250,DE,Germany
+9250,FK,Falkland Islands (Malvinas)
+9250,UY,Uruguay
+9250,MA,Morocco
+9250,DK,Denmark
+9250,IE,Ireland
+9250,CTM-OO,Chatham Is.
+9250,AR,Argentina
+9250,GG,Guernsey
+9250,GI,Gibraltar
+9250,PM,Saint Pierre and Miquelon
+9250,IM,Isle of Man
+9250,AQ,Antarctica
+9250,NZN-OO,North Is.
+9250,NZS-OO,South Is.
+9250,MC,Monaco
+9250,NF,Norfolk Island
+9250,EH,Western Sahara
+9250,JE,Jersey
+9250,AO,Angola
+9250,BV,Bouvet Island
+9250,KEG-OO,Kerguelen
+9461,SB,Solomon Islands
+9461,CL,Chile
+9461,SA,Saudi Arabia
+9461,CN,China
+9461,PG,Papua New Guinea
+9461,LK,Sri Lanka
+9461,CR,Costa Rica
+9461,PK,Pakistan
+9461,PH,Philippines
+9461,GR,Greece
+9461,RU,Russian Federation
+9461,LB,Lebanon
+9461,LC,Saint Lucia
+9461,PM,Saint Pierre and Miquelon
+9461,PL,Poland
+9461,KY,Cayman Islands
+9461,KW,Kuwait
+9461,SI,Slovenia
+9461,KN,Saint Kitts and Nevis
+9461,SG,Singapore
+9461,CU,Cuba
+9461,KR,"Korea, Republic of"
+9461,SE,Sweden
+9461,SC,Seychelles
+9461,BM,Bermuda
+9461,FI,Finland
+9461,KE,Kenya
+9461,KH,Cambodia
+9461,BN,Brunei Darussalam
+9461,BE,Belgium
+9461,BD,Bangladesh
+9461,SY,Syrian Arab Republic
+9461,BB,Barbados
+9461,FR,France
+9461,OM,Oman
+9461,NO,Norway
+9461,TR,Türkiye
+9461,TL,Timor-Leste
+9461,CA,Canada
+9461,TH,Thailand
+9461,GB,United Kingdom of Great Britain and Northern Ireland
+9461,JM,Jamaica
+9461,BS,Bahamas
+9461,NZ,New Zealand
+9461,JO,Jordan
+9461,GD,Grenada
+9461,AU,Australia
+9461,IN,India
+9461,MY,Malaysia
+9461,QA,Qatar
+9461,AW,Aruba
+9461,UM,United States Minor Outlying Islands
+9461,US,United States of America
+9461,AR,Argentina
+9461,MX,Mexico
+9461,MV,Maldives
+9461,IE,Ireland
+9461,DK,Denmark
+9461,LT,Lithuania
+9461,ZA,South Africa
+9461,VN,Viet Nam
+9461,HR,Croatia
+9461,VI,"Virgin Islands, U.S."
+9461,HT,Haiti
+9461,VG,"Virgin Islands, British"
+9461,DM,Dominica
+9461,DO,Dominican Republic
+9461,ME,Montenegro
+9461,VC,Saint Vincent and the Grenadines
+9461,DE,Germany
+9461,ID,Indonesia
+9461,IQ,Iraq
+9461,IR,"Iran, Islamic Republic of"
+9461,MM,Myanmar
+9461,YE,Yemen
+9461,IT,Italy
+9461,BA,Bosnia and Herzegovina
+9461,MT,Malta
+9461,PT,Portugal
+9461,PW,Palau
+9461,AG,Antigua and Barbuda
+9461,ES,Spain
+9461,PR,Puerto Rico
+9461,AE,United Arab Emirates
+9461,NL,Netherlands
+9461,AL,Albania
+9461,AI,Anguilla
+9461,EE,Estonia
+9461,NA,Namibia
+9461,TZ,"Tanzania, United Republic of"
+9461,TT,Trinidad and Tobago
+9461,NC,New Caledonia
+9461,TW,"Taiwan, Province of China"
+9461,JP,Japan
+9461,BQ,"Bonaire, Sint Eustatius and Saba"
+9461,CW,Curaçao
+9461,CK,Cook Islands
+9461,CM,Cameroon
+9461,CO,Colombia
+9461,CD,"Congo, The Democratic Republic of the"
+9461,CC,Cocos (Keeling) Islands
+9461,CG,Congo
+9461,RS,Serbia
+9461,CI,Côte d'Ivoire
+9461,SR,Suriname
+9461,SO,Somalia
+9461,SN,Senegal
+9461,SL,Sierra Leone
+9461,KM,Comoros
+9461,CV,Cabo Verde
+9461,CY,Cyprus
+9461,KP,"Korea, Democratic People's Republic of"
+9461,SD,Sudan
+9461,TC,Turks and Caicos Islands
+9461,BJ,Benin
+9461,KI,Kiribati
+9461,ST,Sao Tome and Principe
+9461,SV,El Salvador
+9461,BZ,Belize
+9461,TN,Tunisia
+9461,TO,Tonga
+9461,BR,Brazil
+9461,TG,Togo
+9461,AO,Angola
+9461,YT,Mayotte
+9461,JE,Jersey
+9461,IO,British Indian Ocean Territory
+9461,TV,Tuvalu
+9461,EG,Egypt
+9461,EH,Western Sahara
+9461,ER,Eritrea
+9461,NI,Nicaragua
+9461,NG,Nigeria
+9461,MS,Montserrat
+9461,MQ,Martinique
+9461,MR,Mauritania
+9461,MP,Northern Mariana Islands
+9461,MZ,Mozambique
+9461,MH,Marshall Islands
+9461,MG,Madagascar
+9461,VE,"Venezuela, Bolivarian Republic of"
+9461,DZ,Algeria
+9461,LR,Liberia
+9461,EC,Ecuador
+9461,VU,Vanuatu
+9461,UY,Uruguay
+9461,MC,Monaco
+9461,MA,Morocco
+9461,DJ,Djibouti
+9461,MU,Mauritius
+9461,GF,French Guiana
+9461,GA,Gabon
+9461,NU,Niue
+9461,NR,Nauru
+9461,FJ,Fiji
+9461,WS,Samoa
+9461,GY,Guyana
+9461,GW,Guinea-Bissau
+9461,GU,Guam
+9461,PN,Pitcairn
+9461,GT,Guatemala
+9461,GQ,Equatorial Guinea
+9461,WF,Wallis and Futuna
+9461,GP,Guadeloupe
+9461,GN,Guinea
+9461,PE,Peru
+9461,GM,Gambia
+9461,GL,Greenland
+9461,PF,French Polynesia
+9461,PA,Panama
+9461,GI,Gibraltar
+9461,GH,Ghana
+9461,GG,Guernsey
+9461,HK,Hong Kong
+9461,HN,Honduras
+9461,AS,American Samoa
+9461,IL,Israel
+9461,IM,Isle of Man
+9461,BH,Bahrain
+9461,CX,Christmas Island
+9461,MCI-OO,Mozambique Channel Is.
+9461,FM,"Micronesia, Federated States of"
+9461,HAW-MI,Midway Is.
+9461,TF,French Southern Territories
+9461,MF,Saint Martin (French part)
+9461,NLA-BO,Bonaire
+9461,NLA-SE,Sint Eustatius
+9461,NLA-SA,Saba
+9461,SX,Sint Maarten (Dutch part)
+9561,NO,Norway
+9561,FI,Finland
+9561,CN,China
+9561,EE,Estonia
+9561,CA,Canada
+9561,MN,Mongolia
+9561,SE,Sweden
+9561,RU,Russian Federation
+9561,US,United States of America
+9660,IE,Ireland
+9660,FI,Finland
+9660,LV,Latvia
+9660,SE,Sweden
+9660,LT,Lithuania
+9660,GB,United Kingdom of Great Britain and Northern Ireland
+9660,IS,Iceland
+9660,CA,Canada
+9660,NO,Norway
+9660,PL,Poland
+9660,FR,France
+9660,RU,Russian Federation
+9660,FO,Faroe Islands
+9660,DE,Germany
+9660,EE,Estonia
+9660,DK,Denmark
+9660,GL,Greenland
+9660,BE,Belgium
+9660,NL,Netherlands
+9660,US,United States of America
+9660,PT,Portugal
+10303,RU,Russian Federation
+10303,US,United States of America
+10340,CL,Chile
+10340,CK,Cook Islands
+10340,SGE-OO,South Georgia
+10340,SSA-OO,South Sandwich Is.
+10340,WAU-WA,Western Australia
+10340,QLD-QU,Queensland
+10340,GS,South Georgia and the South Sandwich Islands
+10340,CPP-EC,Eastern Cape Province
+10340,CPP-WC,Western Cape
+10340,MPE-OO,Marion-Prince Edward Is.
+10340,CLS-MG,Magellanes
+10340,NZN-OO,North Is.
+10340,MAQ-OO,Macquarie Is.
+10340,NSW-NS,New South Wales
+10340,VIC-OO,Victoria
+10340,HM,Heard Island and McDonald Islands
+10340,BR,Brazil
+10340,ZA,South Africa
+10340,NZ,New Zealand
+10340,ASP-OO,Amsterdam-St. Paul Is.
+10340,TF,French Southern Territories
+10340,BV,Bouvet Island
+10340,NZS-OO,South Is.
+10340,FK,Falkland Islands (Malvinas)
+10340,AQ,Antarctica
+10340,SH,"Saint Helena, Ascension and Tristan da Cunha"
+10340,AU,Australia
+10340,KEG-OO,Kerguelen
+10340,TDC-OO,Tristan da Cunha
+10340,NFK-LH,Lord Howe Is.
+10340,SOA-OO,South Australia
+10340,JNF-OO,Juan Fernández Is.
+10340,ATP-OO,Antipodean Is.
+10340,CRZ-OO,Crozet Is.
+10340,PN,Pitcairn
+10707,IE,Ireland
+10707,GL,Greenland
+10707,US,United States of America
+10707,CV,Cabo Verde
+10707,SJ,Svalbard and Jan Mayen
+10707,GB,United Kingdom of Great Britain and Northern Ireland
+10707,IS,Iceland
+10707,CA,Canada
+10707,NO,Norway
+10707,PT,Portugal
+10707,FR,France
+10707,RU,Russian Federation
+10707,FO,Faroe Islands
+10707,NL,Netherlands
+10707,DE,Germany
+10707,DK,Denmark
+10707,MA,Morocco
+10707,EH,Western Sahara
+10707,ES,Spain
+10707,SE,Sweden
+10707,MR,Mauritania
+10707,MDR-OO,Madeira
+10707,CNY-OO,Canary Is.
+10707,BE,Belgium
+10707,AZO-OO,Azores
+10708,CL,Chile
+10708,UY,Uruguay
+10708,FK,Falkland Islands (Malvinas)
+10708,AU,Australia
+10708,BR,Brazil
+10708,AQ,Antarctica
+10708,NZ,New Zealand
+10708,ZA,South Africa
+10708,AR,Argentina
+10831,CO,Colombia
+10831,PE,Peru
+10831,BO,"Bolivia, Plurinational State of"
+10831,EC,Ecuador
+10831,BR,Brazil
+10831,GF,French Guiana
+10831,VE,"Venezuela, Bolivarian Republic of"
+10831,GY,Guyana
+11140,SB,Solomon Islands
+11140,CK,Cook Islands
+11140,CN,China
+11140,CM,Cameroon
+11140,LK,Sri Lanka
+11140,CO,Colombia
+11140,CR,Costa Rica
+11140,CD,"Congo, The Democratic Republic of the"
+11140,CG,Congo
+11140,LC,Saint Lucia
+11140,PE,Peru
+11140,GN,Guinea
+11140,PK,Pakistan
+11140,WF,Wallis and Futuna
+11140,GQ,Equatorial Guinea
+11140,PH,Philippines
+11140,PN,Pitcairn
+11140,GT,Guatemala
+11140,GU,Guam
+11140,PM,Saint Pierre and Miquelon
+11140,GW,Guinea-Bissau
+11140,GY,Guyana
+11140,WS,Samoa
+11140,FM,"Micronesia, Federated States of"
+11140,FJ,Fiji
+11140,OM,Oman
+11140,NR,Nauru
+11140,NU,Niue
+11140,GA,Gabon
+11140,GF,French Guiana
+11140,GD,Grenada
+11140,TW,"Taiwan, Province of China"
+11140,TT,Trinidad and Tobago
+11140,NA,Namibia
+11140,MA,Morocco
+11140,DO,Dominican Republic
+11140,VC,Saint Vincent and the Grenadines
+11140,MH,Marshall Islands
+11140,DM,Dominica
+11140,MG,Madagascar
+11140,VE,"Venezuela, Bolivarian Republic of"
+11140,VG,"Virgin Islands, British"
+11140,LR,Liberia
+11140,VI,"Virgin Islands, U.S."
+11140,VN,Viet Nam
+11140,EC,Ecuador
+11140,VU,Vanuatu
+11140,DJ,Djibouti
+11140,MV,Maldives
+11140,MX,Mexico
+11140,US,United States of America
+11140,UM,United States Minor Outlying Islands
+11140,MZ,Mozambique
+11140,MY,Malaysia
+11140,MM,Myanmar
+11140,MP,Northern Mariana Islands
+11140,MR,Mauritania
+11140,EH,Western Sahara
+11140,TZ,"Tanzania, United Republic of"
+11140,GM,Gambia
+11140,PF,French Polynesia
+11140,PG,Papua New Guinea
+11140,PA,Panama
+11140,GH,Ghana
+11140,ZA,South Africa
+11140,HN,Honduras
+11140,HT,Haiti
+11140,ID,Indonesia
+11140,AS,American Samoa
+11140,IN,India
+11140,AW,Aruba
+11140,AU,Australia
+11140,IR,"Iran, Islamic Republic of"
+11140,YE,Yemen
+11140,PW,Palau
+11140,AG,Antigua and Barbuda
+11140,PR,Puerto Rico
+11140,AI,Anguilla
+11140,AO,Angola
+11140,TG,Togo
+11140,JP,Japan
+11140,BS,Bahamas
+11140,BR,Brazil
+11140,JM,Jamaica
+11140,TH,Thailand
+11140,TO,Tonga
+11140,TL,Timor-Leste
+11140,BZ,Belize
+11140,SV,El Salvador
+11140,BB,Barbados
+11140,BD,Bangladesh
+11140,BN,Brunei Darussalam
+11140,KI,Kiribati
+11140,KH,Cambodia
+11140,BJ,Benin
+11140,KE,Kenya
+11140,BM,Bermuda
+11140,SG,Singapore
+11140,CU,Cuba
+11140,KN,Saint Kitts and Nevis
+11140,SL,Sierra Leone
+11140,SN,Senegal
+11140,KY,Cayman Islands
+11140,SO,Somalia
+11140,SR,Suriname
+11140,CI,Côte d'Ivoire
+11140,SX,Sint Maarten (Dutch part)
+11140,MF,Saint Martin (French part)
+11140,CW,Curaçao
+11140,BQ,"Bonaire, Sint Eustatius and Saba"
+11140,GB,United Kingdom of Great Britain and Northern Ireland
+11140,TV,Tuvalu
+11140,UY,Uruguay
+11140,HK,Hong Kong
+11140,AR,Argentina
+11140,SC,Seychelles
+11140,KR,"Korea, Republic of"
+11140,CNY-OO,Canary Is.
+11140,CV,Cabo Verde
+11140,KM,Comoros
+11140,YT,Mayotte
+11140,RE,Réunion
+11140,MDR-OO,Madeira
+11140,AZO-OO,Azores
+11140,BH,Bahrain
+11140,EG,Egypt
+11140,ER,Eritrea
+11140,ET,Ethiopia
+11140,GP,Guadeloupe
+11140,IQ,Iraq
+11140,IL,Israel
+11140,JO,Jordan
+11140,MQ,Martinique
+11140,KW,Kuwait
+11140,MU,Mauritius
+11140,NC,New Caledonia
+11140,NI,Nicaragua
+11140,QA,Qatar
+11140,SH,"Saint Helena, Ascension and Tristan da Cunha"
+11140,ST,Sao Tome and Principe
+11140,SD,Sudan
+11140,SA,Saudi Arabia
+11140,TC,Turks and Caicos Islands
+11140,AE,United Arab Emirates
+11140,FR,France
+11140,PT,Portugal
+11140,ES,Spain
+11140,NLA-SA,Saba
+11140,NLA-SE,Sint Eustatius
+11140,NLA-BO,Bonaire
+11141,IE,Ireland
+11141,DK,Denmark
+11141,GL,Greenland
+11141,US,United States of America
+11141,SE,Sweden
+11141,GB,United Kingdom of Great Britain and Northern Ireland
+11141,IS,Iceland
+11141,CA,Canada
+11141,NO,Norway
+11141,PT,Portugal
+11141,FR,France
+11141,RU,Russian Federation
+11141,FO,Faroe Islands
+11141,ES,Spain
+11141,NL,Netherlands
+11141,BE,Belgium
+11141,GI,Gibraltar
+11142,IE,Ireland
+11142,DK,Denmark
+11142,GL,Greenland
+11142,DE,Germany
+11142,BE,Belgium
+11142,US,United States of America
+11142,SE,Sweden
+11142,GB,United Kingdom of Great Britain and Northern Ireland
+11142,IS,Iceland
+11142,CA,Canada
+11142,NO,Norway
+11142,PL,Poland
+11142,PT,Portugal
+11142,FR,France
+11142,RU,Russian Federation
+11142,FO,Faroe Islands
+11142,ES,Spain
+11142,NL,Netherlands
+11142,GG,Guernsey
+11142,EE,Estonia
+11142,FI,Finland
+11142,LT,Lithuania
+11142,LV,Latvia
+11142,IM,Isle of Man
+11142,SJ,Svalbard and Jan Mayen
+11142,PM,Saint Pierre and Miquelon
+11142,JE,Jersey
+11143,CL,Chile
+11143,FK,Falkland Islands (Malvinas)
+11143,AR,Argentina
+11144,BV,Bouvet Island
+11144,TF,French Southern Territories
+11144,AR,Argentina
+11144,AQ,Antarctica
+11144,NZ,New Zealand
+11144,ZA,South Africa
+11144,AU,Australia
+11144,KEG-OO,Kerguelen
+11144,CRZ-OO,Crozet Is.
+11144,GS,South Georgia and the South Sandwich Islands
+11144,MPE-OO,Marion-Prince Edward Is.
+11144,FK,Falkland Islands (Malvinas)
+11144,CL,Chile
+11145,CN,China
+11145,CA,Canada
+11145,RU,Russian Federation
+11145,KR,"Korea, Republic of"
+11145,US,United States of America
+11145,MX,Mexico
+11145,KP,"Korea, Democratic People's Republic of"
+11145,JP,Japan
+11145,TW,"Taiwan, Province of China"
+11145,TAI-OO,"Taiwan, Province of China (main island)"
+11146,SH,"Saint Helena, Ascension and Tristan da Cunha"
+11146,CL,Chile
+11146,TF,French Southern Territories
+11146,AR,Argentina
+11146,ASP-OO,Amsterdam-St. Paul Is.
+11146,NZ,New Zealand
+11146,ZA,South Africa
+11146,AU,Australia
+11146,TDC-OO,Tristan da Cunha
+11146,CPP-WC,Western Cape
+11146,CPP-NC,Northern Cape Province
+11146,MPE-OO,Marion-Prince Edward Is.
+11146,FK,Falkland Islands (Malvinas)
+11146,PE,Peru
+11146,NA,Namibia
+11146,AO,Angola
+11146,STH-OO,Saint Helena (main island)
+11146,ASC-OO,Ascension
+11696,CL,Chile
+11696,UY,Uruguay
+11696,FK,Falkland Islands (Malvinas)
+11696,MPE-OO,Marion-Prince Edward Is.
+11696,GS,South Georgia and the South Sandwich Islands
+11696,BV,Bouvet Island
+11696,TF,French Southern Territories
+11696,AR,Argentina
+11696,AQ,Antarctica
+11696,NZ,New Zealand
+11696,ZA,South Africa
+11696,KEG-OO,Kerguelen
+11696,AU,Australia
+11696,HM,Heard Island and McDonald Islands
+11696,JNF-OO,Juan Fernández Is.
+11696,SOA-OO,South Australia
+11696,ATP-OO,Antipodean Is.
+11696,NZN-OO,North Is.
+11696,SGE-OO,South Georgia
+11696,SSA-OO,South Sandwich Is.
+12125,CA,Canada
+12125,KR,"Korea, Republic of"
+12125,RU,Russian Federation
+12125,MX,Mexico
+12125,US,United States of America
+12125,KP,"Korea, Democratic People's Republic of"
+12125,JP,Japan
+12125,RU-CA,Central Asian Russia
+12125,KUR-OO,Kuril Is.
+12126,CL,Chile
+12126,NA,Namibia
+12126,UY,Uruguay
+12126,PE,Peru
+12126,BV,Bouvet Island
+12126,TF,French Southern Territories
+12126,AR,Argentina
+12126,NZ,New Zealand
+12126,ZA,South Africa
+12126,MZ,Mozambique
+12126,SH,"Saint Helena, Ascension and Tristan da Cunha"
+12126,BR,Brazil
+12126,AU,Australia
+12126,TDC-OO,Tristan da Cunha
+12126,ASC-OO,Ascension
+12126,GS,South Georgia and the South Sandwich Islands
+12126,FK,Falkland Islands (Malvinas)
+12246,UY,Uruguay
+12246,FK,Falkland Islands (Malvinas)
+12246,HM,Heard Island and McDonald Islands
+12246,AU,Australia
+12246,BR,Brazil
+12246,GS,South Georgia and the South Sandwich Islands
+12246,ZA,South Africa
+12246,NZ,New Zealand
+12246,AQ,Antarctica
+12246,AR,Argentina
+12246,BV,Bouvet Island
+12246,CL,Chile
+12302,LOU-OO,Louisiana
+12302,ARI-OO,Arizona
+12302,PEN-OO,Pennsylvania
+12302,MNT-OO,Montana
+12302,NEB-OO,Nebraska
+12302,MIC-OO,Michigan
+12302,OKL-OO,Oklahoma
+12302,ALA-OO,Alabama
+12302,WVA-OO,West Virginia
+12302,ILL-OO,Illinois
+12302,ABT-OO,Alberta
+12302,NCA-OO,North Carolina
+12302,TEN-OO,Tennessee
+12302,WAS-OO,Washington
+12302,SDA-OO,South Dakota
+12302,FLA-OO,Florida
+12302,BRC-OO,British Columbia
+12302,INI-OO,Indiana
+12302,LAB-OO,Labrador
+12302,CNT-OO,Connecticut
+12302,ORE-OO,Oregon
+12302,MRY-OO,Maryland
+12302,SCA-OO,South Carolina
+12302,WDC-OO,District of Columbia
+12302,NWY-OO,New York
+12302,MX,Mexico
+12302,US,United States of America
+12302,GEO-OO,Georgia
+12302,NWH-OO,New Hampshire
+12302,MAS-OO,Massachusetts
+12302,WYO-OO,Wyoming
+12302,YUK-OO,Yukon
+12302,NWJ-OO,New Jersey
+12302,SAS-OO,Saskatchewan
+12302,KAN-OO,Kansas
+12302,COL-OO,Colorado
+12302,MIN-OO,Minnesota
+12302,VRG-OO,Virginia
+12302,NDA-OO,North Dakota
+12302,OHI-OO,Ohio
+12302,MSO-OO,Missouri
+12302,KTY-OO,Kentucky
+12302,NBR-OO,New Brunswick
+12302,QUE-OO,Québec
+12302,IDA-OO,Idaho
+12302,VER-OO,Vermont
+12302,MAI-OO,Maine
+12302,ASK-OO,Alaska
+12302,NWM-OO,New Mexico
+12302,NFL-NE,Newfoundland I
+12302,CA,Canada
+12302,RHO-OO,Rhode Island
+12302,NWT-OO,Northwest Territories
+12302,NSC-OO,Nova Scotia
+12302,WIS-OO,Wisconsin
+12302,UTA-OO,Utah
+12302,MSI-OO,Mississippi
+12302,TEX-OO,Texas
+12302,DEL-OO,Delaware
+12302,ONT-OO,Ontario
+12302,ARK-OO,Arkansas
+12302,IOW-OO,Iowa
+12302,MAN-OO,Manitoba
+12302,NEV-OO,Nevada
+12302,NUN-OO,Nunavut
+12302,CAL-OO,California
+12302,PEI-OO,Prince Edward I.
+12302,HAW-HI,Hawaiian Is.
+12303,PE,Peru
+12303,CL,Chile
+12303,AR,Argentina
+12304,PA,Panama
+12304,PY,Paraguay
+12304,UY,Uruguay
+12304,CO,Colombia
+12304,CR,Costa Rica
+12304,BO,"Bolivia, Plurinational State of"
+12304,PE,Peru
+12304,AR,Argentina
+12304,MX,Mexico
+12304,GF,French Guiana
+12304,HN,Honduras
+12304,BR,Brazil
+12304,EC,Ecuador
+12304,GY,Guyana
+12304,BZ,Belize
+12304,SR,Suriname
+12304,VE,"Venezuela, Bolivarian Republic of"
+12304,SV,El Salvador
+12304,GT,Guatemala
+12304,NI,Nicaragua
+12305,CL,Chile
+12305,AR,Argentina
+12419,CN,China
+12419,GI,Gibraltar
+12419,LK,Sri Lanka
+12419,LI,Liechtenstein
+12419,PK,Pakistan
+12419,GR,Greece
+12419,LB,Lebanon
+12419,RU,Russian Federation
+12419,CH,Switzerland
+12419,RS,Serbia
+12419,LA,Lao People's Democratic Republic
+12419,PL,Poland
+12419,KZ,Kazakhstan
+12419,SM,San Marino
+12419,SK,Slovakia
+12419,SI,Slovenia
+12419,KR,"Korea, Republic of"
+12419,SE,Sweden
+12419,KP,"Korea, Democratic People's Republic of"
+12419,CZ,Czechia
+12419,FI,Finland
+12419,KG,Kyrgyzstan
+12419,KH,Cambodia
+12419,BE,Belgium
+12419,BD,Bangladesh
+12419,SY,Syrian Arab Republic
+12419,BG,Bulgaria
+12419,FR,France
+12419,NO,Norway
+12419,NP,Nepal
+12419,IR,"Iran, Islamic Republic of"
+12419,MM,Myanmar
+12419,MN,Mongolia
+12419,IQ,Iraq
+12419,IN,India
+12419,IL,Israel
+12419,AT,Austria
+12419,IE,Ireland
+12419,DK,Denmark
+12419,MA,Morocco
+12419,MD,"Moldova, Republic of"
+12419,UZ,Uzbekistan
+12419,HK,Hong Kong
+12419,LV,Latvia
+12419,LU,Luxembourg
+12419,LT,Lithuania
+12419,VN,Viet Nam
+12419,HR,Croatia
+12419,RO,Romania
+12419,DZ,Algeria
+12419,HU,Hungary
+12419,ME,Montenegro
+12419,MK,North Macedonia
+12419,DE,Germany
+12419,ID,Indonesia
+12419,AZ,Azerbaijan
+12419,IT,Italy
+12419,BA,Bosnia and Herzegovina
+12419,PT,Portugal
+12419,UA,Ukraine
+12419,AD,Andorra
+12419,ES,Spain
+12419,NL,Netherlands
+12419,AF,Afghanistan
+12419,AL,Albania
+12419,EE,Estonia
+12419,TW,"Taiwan, Province of China"
+12419,AM,Armenia
+12419,JP,Japan
+12419,GE,Georgia
+12419,BY,Belarus
+12419,JO,Jordan
+12419,TJ,Tajikistan
+12419,GB,United Kingdom of Great Britain and Northern Ireland
+12419,TH,Thailand
+12419,BT,Bhutan
+12419,TN,Tunisia
+12419,TM,Turkmenistan
+12419,TR,Türkiye
+12419,PS,"Palestine, State of"
+12419,MY,Malaysia
+12420,NE,Niger
+12420,GH,Ghana
+12420,AO,Angola
+12420,CM,Cameroon
+12420,NA,Namibia
+12420,TZ,"Tanzania, United Republic of"
+12420,GN,Guinea
+12420,CD,"Congo, The Democratic Republic of the"
+12420,ER,Eritrea
+12420,CF,Central African Republic
+12420,GQ,Equatorial Guinea
+12420,BJ,Benin
+12420,ZW,Zimbabwe
+12420,ZM,Zambia
+12420,ML,Mali
+12420,BI,Burundi
+12420,BF,Burkina Faso
+12420,LR,Liberia
+12420,LS,Lesotho
+12420,GA,Gabon
+12420,TD,Chad
+12420,ZA,South Africa
+12420,BW,Botswana
+12420,TG,Togo
+12420,KE,Kenya
+12420,SD,Sudan
+12420,MW,Malawi
+12420,MZ,Mozambique
+12420,SL,Sierra Leone
+12420,UG,Uganda
+12420,GW,Guinea-Bissau
+12420,CI,Côte d'Ivoire
+12420,NG,Nigeria
+12420,CG,Congo
+12420,ET,Ethiopia
+12420,RW,Rwanda
+12420,SS,South Sudan
+12420,EG,Egypt
+12421,LA,Lao People's Democratic Republic
+12421,ID,Indonesia
+12421,KH,Cambodia
+12421,BN,Brunei Darussalam
+12421,BOR-KA,Kalimantan
+12421,SUM-OO,Sumatera
+12421,MLY-PM,Peninsular Malaysia
+12421,BOR-SB,Sabah
+12421,BOR-SR,Sarawak
+12421,SG,Singapore
+12421,TH,Thailand
+12421,VN,Viet Nam
+12421,MY,Malaysia
+12421,MM,Myanmar
+12421,IN,India
+12427,CN,China
+12427,IN,India
+12427,KH,Cambodia
+12427,BT,Bhutan
+12427,BD,Bangladesh
+12427,JAW-OO,Jawa
+12427,BOR-KA,Kalimantan
+12427,SUM-OO,Sumatera
+12427,MLY-PM,Peninsular Malaysia
+12427,IQ,Iraq
+12427,NP,Nepal
+12427,MM,Myanmar
+12427,BOR-SR,Sarawak
+12427,BOR-SB,Sabah
+12427,PK,Pakistan
+12427,VN,Viet Nam
+12427,TH,Thailand
+12427,MY,Malaysia
+12427,LA,Lao People's Democratic Republic
+12427,BN,Brunei Darussalam
+12427,ID,Indonesia
+12427,SG,Singapore
+12847,IN,India
+12848,EE,Estonia
+12848,AL,Albania
+12848,LI,Liechtenstein
+12848,NL,Netherlands
+12848,ES,Spain
+12848,GR,Greece
+12848,RU,Russian Federation
+12848,CH,Switzerland
+12848,UA,Ukraine
+12848,RS,Serbia
+12848,BAL-OO,Baleares
+12848,PL,Poland
+12848,PT,Portugal
+12848,BA,Bosnia and Herzegovina
+12848,IT,Italy
+12848,IR,"Iran, Islamic Republic of"
+12848,SK,Slovakia
+12848,BG,Bulgaria
+12848,FR,France
+12848,HU,Hungary
+12848,NO,Norway
+12848,TR,Türkiye
+12848,RO,Romania
+12848,HR,Croatia
+12848,GB,United Kingdom of Great Britain and Northern Ireland
+12848,LT,Lithuania
+12848,LU,Luxembourg
+12848,BY,Belarus
+12848,GE,Georgia
+12848,LV,Latvia
+12848,ME,Montenegro
+12848,MK,North Macedonia
+12848,BE,Belgium
+12848,DE,Germany
+12848,MD,"Moldova, Republic of"
+12848,FI,Finland
+12848,DK,Denmark
+12848,IE,Ireland
+12848,CZ,Czechia
+12848,AT,Austria
+12848,SE,Sweden
+12848,SI,Slovenia
+12848,SPA-SP,Spain (mainland)
+12848,KZ,Kazakhstan
+12848,AM,Armenia
+13006,CL,Chile
+13006,SB,Solomon Islands
+13006,CK,Cook Islands
+13006,PA,Panama
+13006,GL,Greenland
+13006,LK,Sri Lanka
+13006,PE,Peru
+13006,JP,Japan
+13006,NC,New Caledonia
+13006,AO,Angola
+13006,TZ,"Tanzania, United Republic of"
+13006,IS,Iceland
+13006,MP,Northern Mariana Islands
+13006,IQ,Iraq
+13006,AU,Australia
+13006,IN,India
+13006,MY,Malaysia
+13006,MZ,Mozambique
+13006,VU,Vanuatu
+13006,ZA,South Africa
+13006,EC,Ecuador
+13006,VE,"Venezuela, Bolivarian Republic of"
+13006,MG,Madagascar
+13006,MH,Marshall Islands
+13006,DO,Dominican Republic
+13006,VC,Saint Vincent and the Grenadines
+13006,ID,Indonesia
+13006,AS,American Samoa
+13006,US,United States of America
+13006,AR,Argentina
+13006,MX,Mexico
+13006,NZ,New Zealand
+13006,BR,Brazil
+13006,GB,United Kingdom of Great Britain and Northern Ireland
+13006,TO,Tonga
+13006,CA,Canada
+13006,NO,Norway
+13006,FR,France
+13006,BD,Bangladesh
+13006,FK,Falkland Islands (Malvinas)
+13006,FJ,Fiji
+13006,BJ,Benin
+13006,KE,Kenya
+13006,BM,Bermuda
+13006,KP,"Korea, Democratic People's Republic of"
+13006,KR,"Korea, Republic of"
+13006,WS,Samoa
+13006,CV,Cabo Verde
+13006,SJ,Svalbard and Jan Mayen
+13006,PL,Poland
+13006,CG,Congo
+13006,LC,Saint Lucia
+13006,RU,Russian Federation
+13006,CD,"Congo, The Democratic Republic of the"
+13006,PK,Pakistan
+13006,SX,Sint Maarten (Dutch part)
+13006,MF,Saint Martin (French part)
+13006,BQ,"Bonaire, Sint Eustatius and Saba"
+13006,AW,Aruba
+13006,CW,Curaçao
+13006,CM,Cameroon
+13006,CO,Colombia
+13006,CR,Costa Rica
+13006,CC,Cocos (Keeling) Islands
+13006,CI,Côte d'Ivoire
+13006,SO,Somalia
+13006,KY,Cayman Islands
+13006,SN,Senegal
+13006,TDC-OO,Tristan da Cunha
+13006,KN,Saint Kitts and Nevis
+13006,KM,Comoros
+13006,CU,Cuba
+13006,SH,"Saint Helena, Ascension and Tristan da Cunha"
+13006,SC,Seychelles
+13006,TC,Turks and Caicos Islands
+13006,KI,Kiribati
+13006,BB,Barbados
+13006,ST,Sao Tome and Principe
+13006,SV,El Salvador
+13006,PM,Saint Pierre and Miquelon
+13006,FO,Faroe Islands
+13006,OM,Oman
+13006,NR,Nauru
+13006,NU,Niue
+13006,GA,Gabon
+13006,GD,Grenada
+13006,TV,Tuvalu
+13006,TW,"Taiwan, Province of China"
+13006,TT,Trinidad and Tobago
+13006,NA,Namibia
+13006,EH,Western Sahara
+13006,ES,Spain
+13006,NI,Nicaragua
+13006,NG,Nigeria
+13006,DK,Denmark
+13006,UY,Uruguay
+13006,DM,Dominica
+13006,VG,"Virgin Islands, British"
+13006,VI,"Virgin Islands, U.S."
+13006,VN,Viet Nam
+13006,MA,Morocco
+13006,DJ,Djibouti
+13006,MV,Maldives
+13006,MU,Mauritius
+13006,MM,Myanmar
+13006,MR,Mauritania
+13006,MQ,Martinique
+13006,GU,Guam
+13006,PN,Pitcairn
+13006,GT,Guatemala
+13006,GS,South Georgia and the South Sandwich Islands
+13006,PH,Philippines
+13006,GQ,Equatorial Guinea
+13006,WF,Wallis and Futuna
+13006,GP,Guadeloupe
+13006,GM,Gambia
+13006,PF,French Polynesia
+13006,PG,Papua New Guinea
+13006,GH,Ghana
+13006,RE,Réunion
+13006,HN,Honduras
+13006,HT,Haiti
+13006,IE,Ireland
+13006,IR,"Iran, Islamic Republic of"
+13006,YE,Yemen
+13006,PT,Portugal
+13006,PW,Palau
+13006,AG,Antigua and Barbuda
+13006,AE,United Arab Emirates
+13006,PR,Puerto Rico
+13006,AI,Anguilla
+13006,TG,Togo
+13006,TF,French Southern Territories
+13006,BS,Bahamas
+13006,JM,Jamaica
+13006,TN,Tunisia
+13006,TL,Timor-Leste
+13006,NLA-SE,Sint Eustatius
+13006,NLA-SA,Saba
+13006,NLA-BO,Bonaire
+13006,AQ,Antarctica
+13006,BV,Bouvet Island
+13006,HM,Heard Island and McDonald Islands
+13006,CN,China
+13006,BE,Belgium
+13006,DE,Germany
+13006,NL,Netherlands
+13006,CNY-OO,Canary Is.
+13006,SE,Sweden
+13006,BZ,Belize
+13006,ASK-OO,Alaska
+13006,HAW-HI,Hawaiian Is.
+13006,CX,Christmas Island
+13006,NF,Norfolk Island
+13006,FM,"Micronesia, Federated States of"
+13006,TK,Tokelau
+13006,GAL-OO,Galápagos
+13006,GF,French Guiana
+13006,GY,Guyana
+13006,SR,Suriname
+13006,IO,British Indian Ocean Territory
+13006,BN,Brunei Darussalam
+13006,SG,Singapore
+13006,GN,Guinea
+13006,GW,Guinea-Bissau
+13006,LR,Liberia
+13006,YT,Mayotte
+13006,SL,Sierra Leone
+13006,MPE-OO,Marion-Prince Edward Is.
+13006,BH,Bahrain
+13006,QA,Qatar
+13006,KW,Kuwait
+13006,SA,Saudi Arabia
+13006,JO,Jordan
+13006,IL,Israel
+13006,EG,Egypt
+13006,UM,United States Minor Outlying Islands
+13006,AZO-OO,Azores
+13006,MDR-OO,Madeira
+13006,KAM-OO,Kamchatka
+13006,KUR-OO,Kuril Is.
+13006,MAG-OO,Magadan
+13006,PRM-OO,Primoryi
+13006,SAK-OO,Sakhalin
+13006,BL,Saint Barthélemy
+13006,MS,Montserrat
+13110,ID,Indonesia
+13110,MY,Malaysia
+13110,BOR-SB,Sabah
+13241,IE,Ireland
+13241,US,United States of America
+13241,GB,United Kingdom of Great Britain and Northern Ireland
+13241,IS,Iceland
+13241,CA,Canada
+13241,NO,Norway
+13241,PT,Portugal
+13241,FR,France
+13241,ES,Spain
+13241,NL,Netherlands
+13241,BE,Belgium
+13241,DE,Germany
+13241,GI,Gibraltar
+13241,DK,Denmark
+13241,MA,Morocco
+13241,GL,Greenland
+13241,SE,Sweden
+13241,IT,Italy
+13241,GR,Greece
+13241,AZO-OO,Azores
+13241,CNY-OO,Canary Is.
+13241,BR,Brazil
+13241,MDR-OO,Madeira
+13242,UY,Uruguay
+13242,TAS-OO,Tasmania
+13242,CTM-OO,Chatham Is.
+13242,AR,Argentina
+13242,NZ,New Zealand
+13242,SH,"Saint Helena, Ascension and Tristan da Cunha"
+13242,AU,Australia
+13242,TDC-OO,Tristan da Cunha
+13242,NSW-NS,New South Wales
+13242,VIC-OO,Victoria
+13242,ATP-OO,Antipodean Is.
+13242,NZN-OO,North Is.
+13242,NZS-OO,South Is.
+13242,WAU-WA,Western Australia
+13242,FK,Falkland Islands (Malvinas)
+13243,CA,Canada
+13243,US,United States of America
+13243,JP,Japan
+13244,SB,Solomon Islands
+13244,CL,Chile
+13244,PA,Panama
+13244,CN,China
+13244,CM,Cameroon
+13244,PG,Papua New Guinea
+13244,CO,Colombia
+13244,LK,Sri Lanka
+13244,HAW-MI,Midway Is.
+13244,CR,Costa Rica
+13244,PE,Peru
+13244,PK,Pakistan
+13244,CC,Cocos (Keeling) Islands
+13244,WF,Wallis and Futuna
+13244,QLD-QU,Queensland
+13244,PH,Philippines
+13244,GT,Guatemala
+13244,GU,Guam
+13244,SO,Somalia
+13244,GY,Guyana
+13244,SOA-OO,South Australia
+13244,KY,Cayman Islands
+13244,BZS-RS,Rio Grande do Sul
+13244,CAL-OO,California
+13244,KM,Comoros
+13244,CV,Cabo Verde
+13244,SH,"Saint Helena, Ascension and Tristan da Cunha"
+13244,SC,Seychelles
+13244,KE,Kenya
+13244,FM,"Micronesia, Federated States of"
+13244,KI,Kiribati
+13244,FJ,Fiji
+13244,NSC-OO,Nova Scotia
+13244,ST,Sao Tome and Principe
+13244,OM,Oman
+13244,BZ,Belize
+13244,NR,Nauru
+13244,CA,Canada
+13244,NSW-NS,New South Wales
+13244,MP,Northern Mariana Islands
+13244,MM,Myanmar
+13244,AU,Australia
+13244,MY,Malaysia
+13244,IN,India
+13244,UM,United States Minor Outlying Islands
+13244,MZ,Mozambique
+13244,US,United States of America
+13244,MU,Mauritius
+13244,CTM-OO,Chatham Is.
+13244,HAW-HI,Hawaiian Is.
+13244,MA,Morocco
+13244,VU,Vanuatu
+13244,ZA,South Africa
+13244,HN,Honduras
+13244,RE,Réunion
+13244,VN,Viet Nam
+13244,EC,Ecuador
+13244,VE,"Venezuela, Bolivarian Republic of"
+13244,MG,Madagascar
+13244,AZO-OO,Azores
+13244,MH,Marshall Islands
+13244,NTA-OO,Northern Territory
+13244,ID,Indonesia
+13244,UY,Uruguay
+13244,YE,Yemen
+13244,ASC-OO,Ascension
+13244,MR,Mauritania
+13244,PT,Portugal
+13244,NG,Nigeria
+13244,PW,Palau
+13244,NI,Nicaragua
+13244,ES,Spain
+13244,WAU-WA,Western Australia
+13244,TAS-OO,Tasmania
+13244,EH,Western Sahara
+13244,TZ,"Tanzania, United Republic of"
+13244,NA,Namibia
+13244,YT,Mayotte
+13244,AO,Angola
+13244,NC,New Caledonia
+13244,TW,"Taiwan, Province of China"
+13244,JP,Japan
+13244,NZ,New Zealand
+13244,TK,Tokelau
+13244,BS,Bahamas
+13244,BR,Brazil
+13244,GB,United Kingdom of Great Britain and Northern Ireland
+13244,TO,Tonga
+13244,CK,Cook Islands
+13244,CD,"Congo, The Democratic Republic of the"
+13244,CG,Congo
+13244,LC,Saint Lucia
+13244,CI,Côte d'Ivoire
+13244,SR,Suriname
+13244,SN,Senegal
+13244,SL,Sierra Leone
+13244,KN,Saint Kitts and Nevis
+13244,CU,Cuba
+13244,SG,Singapore
+13244,BM,Bermuda
+13244,TC,Turks and Caicos Islands
+13244,BJ,Benin
+13244,KH,Cambodia
+13244,BN,Brunei Darussalam
+13244,BD,Bangladesh
+13244,BB,Barbados
+13244,SV,El Salvador
+13244,TL,Timor-Leste
+13244,TH,Thailand
+13244,JM,Jamaica
+13244,NU,Niue
+13244,GA,Gabon
+13244,GF,French Guiana
+13244,GD,Grenada
+13244,TV,Tuvalu
+13244,TT,Trinidad and Tobago
+13244,ER,Eritrea
+13244,MS,Montserrat
+13244,DO,Dominican Republic
+13244,VC,Saint Vincent and the Grenadines
+13244,DM,Dominica
+13244,VG,"Virgin Islands, British"
+13244,LR,Liberia
+13244,VI,"Virgin Islands, U.S."
+13244,POR-OO,Portugal (mainland)
+13244,DJ,Djibouti
+13244,MV,Maldives
+13244,MX,Mexico
+13244,FR,France
+13244,WS,Samoa
+13244,GW,Guinea-Bissau
+13244,GQ,Equatorial Guinea
+13244,GP,Guadeloupe
+13244,GN,Guinea
+13244,GM,Gambia
+13244,PF,French Polynesia
+13244,GI,Gibraltar
+13244,GH,Ghana
+13244,HK,Hong Kong
+13244,NZN-OO,North Is.
+13244,HT,Haiti
+13244,IE,Ireland
+13244,AR,Argentina
+13244,AW,Aruba
+13244,IO,British Indian Ocean Territory
+13244,IR,"Iran, Islamic Republic of"
+13244,AG,Antigua and Barbuda
+13244,AI,Anguilla
+13244,SX,Sint Maarten (Dutch part)
+13244,MF,Saint Martin (French part)
+13244,BQ,"Bonaire, Sint Eustatius and Saba"
+13244,CW,Curaçao
+13244,MQ,Martinique
+13244,PR,Puerto Rico
+13244,BL,Saint Barthélemy
+13245,US,United States of America
+13245,BS,Bahamas
+13245,SH,"Saint Helena, Ascension and Tristan da Cunha"
+13245,CU,Cuba
+13245,JM,Jamaica
+13245,CNY-OO,Canary Is.
+13245,GB,United Kingdom of Great Britain and Northern Ireland
+13245,MR,Mauritania
+13245,ASC-OO,Ascension
+13245,GW,Guinea-Bissau
+13245,ES,Spain
+13245,TT,Trinidad and Tobago
+13245,IE,Ireland
+13245,GH,Ghana
+13245,PA,Panama
+13245,CM,Cameroon
+13245,CO,Colombia
+13245,GM,Gambia
+13245,CR,Costa Rica
+13245,GN,Guinea
+13245,CD,"Congo, The Democratic Republic of the"
+13245,GP,Guadeloupe
+13245,GQ,Equatorial Guinea
+13245,GT,Guatemala
+13245,CG,Congo
+13245,LC,Saint Lucia
+13245,CI,Côte d'Ivoire
+13245,SR,Suriname
+13245,GY,Guyana
+13245,SN,Senegal
+13245,SL,Sierra Leone
+13245,TDC-OO,Tristan da Cunha
+13245,SPA-SP,Spain (mainland)
+13245,AG,Antigua and Barbuda
+13245,NI,Nicaragua
+13245,NG,Nigeria
+13245,PT,Portugal
+13245,MS,Montserrat
+13245,MQ,Martinique
+13245,IT,Italy
+13245,AW,Aruba
+13245,HN,Honduras
+13245,VI,"Virgin Islands, U.S."
+13245,LR,Liberia
+13245,HT,Haiti
+13245,VG,"Virgin Islands, British"
+13245,VE,"Venezuela, Bolivarian Republic of"
+13245,DM,Dominica
+13245,VC,Saint Vincent and the Grenadines
+13245,DO,Dominican Republic
+13245,UY,Uruguay
+13245,MA,Morocco
+13245,PR,Puerto Rico
+13245,EH,Western Sahara
+13245,AI,Anguilla
+13245,AO,Angola
+13245,TG,Togo
+13245,GD,Grenada
+13245,GF,French Guiana
+13245,BR,Brazil
+13245,GA,Gabon
+13245,BZ,Belize
+13245,FR,France
+13245,ST,Sao Tome and Principe
+13245,BB,Barbados
+13245,BJ,Benin
+13245,BM,Bermuda
+13245,CV,Cabo Verde
+13245,KN,Saint Kitts and Nevis
+13245,SX,Sint Maarten (Dutch part)
+13245,MF,Saint Martin (French part)
+13245,CW,Curaçao
+13245,BQ,"Bonaire, Sint Eustatius and Saba"
+13245,TC,Turks and Caicos Islands
+13245,BL,Saint Barthélemy
+13245,KY,Cayman Islands
+13246,CL,Chile
+13246,CK,Cook Islands
+13246,CN,China
+13246,PA,Panama
+13246,PG,Papua New Guinea
+13246,LK,Sri Lanka
+13246,PF,French Polynesia
+13246,CO,Colombia
+13246,CR,Costa Rica
+13246,PE,Peru
+13246,HAW-MI,Midway Is.
+13246,WF,Wallis and Futuna
+13246,QLD-QU,Queensland
+13246,PH,Philippines
+13246,GT,Guatemala
+13246,PN,Pitcairn
+13246,GU,Guam
+13246,GAL-OO,Galápagos
+13246,SOA-OO,South Australia
+13246,CAL-OO,California
+13246,SG,Singapore
+13246,WS,Samoa
+13246,KR,"Korea, Republic of"
+13246,KP,"Korea, Democratic People's Republic of"
+13246,MXN-BS,Baja California Sur
+13246,KE,Kenya
+13246,FM,"Micronesia, Federated States of"
+13246,PW,Palau
+13246,NI,Nicaragua
+13246,MO,Macao
+13246,MP,Northern Mariana Islands
+13246,MM,Myanmar
+13246,AU,Australia
+13246,IN,India
+13246,MY,Malaysia
+13246,UM,United States Minor Outlying Islands
+13246,LIN-US,US Line Is.
+13246,US,United States of America
+13246,MX,Mexico
+13246,VU,Vanuatu
+13246,HK,Hong Kong
+13246,HN,Honduras
+13246,VN,Viet Nam
+13246,EC,Ecuador
+13246,MXI-RG,Revillagigedo Is.
+13246,NZN-OO,North Is.
+13246,MH,Marshall Islands
+13246,NTA-OO,Northern Territory
+13246,ID,Indonesia
+13246,HAW-HI,Hawaiian Is.
+13246,CTM-OO,Chatham Is.
+13246,AS,American Samoa
+13246,WAU-WA,Western Australia
+13246,TAS-OO,Tasmania
+13246,TZ,"Tanzania, United Republic of"
+13246,NC,New Caledonia
+13246,TW,"Taiwan, Province of China"
+13246,TV,Tuvalu
+13246,JP,Japan
+13246,NZ,New Zealand
+13246,TK,Tokelau
+13246,TH,Thailand
+13246,NU,Niue
+13246,TO,Tonga
+13246,NSW-NS,New South Wales
+13246,NR,Nauru
+13246,TL,Timor-Leste
+13246,WAK-OO,Wake Is.
+13246,MXI-GU,Guadalupe I.
+13246,SV,El Salvador
+13246,BD,Bangladesh
+13246,BN,Brunei Darussalam
+13246,KI,Kiribati
+13246,FJ,Fiji
+13246,KH,Cambodia
+13246,HBI-OO,Howland-Baker Is.
+13246,SO,Somalia
+13246,PK,Pakistan
+13246,GM,Gambia
+13247,TF,French Southern Territories
+13247,CL,Chile
+13247,SGE-OO,South Georgia
+13247,PE,Peru
+13247,TAS-OO,Tasmania
+13247,NL,Netherlands
+13247,AR,Argentina
+13247,CTM-OO,Chatham Is.
+13247,MV,Maldives
+13247,UY,Uruguay
+13247,FK,Falkland Islands (Malvinas)
+13247,MPE-OO,Marion-Prince Edward Is.
+13247,VIC-OO,Victoria
+13247,NSW-NS,New South Wales
+13247,HM,Heard Island and McDonald Islands
+13247,BR,Brazil
+13247,NZ,New Zealand
+13247,ZA,South Africa
+13247,ASP-OO,Amsterdam-St. Paul Is.
+13247,AQ,Antarctica
+13247,AGS-CB,Chubut
+13247,KER-OO,Kermadec Is.
+13247,AU,Australia
+13247,KEG-OO,Kerguelen
+13247,SOA-OO,South Australia
+13247,AGS-TF,Tierra del Fuego
+13247,ATP-OO,Antipodean Is.
+13247,CRZ-OO,Crozet Is.
+13247,GS,South Georgia and the South Sandwich Islands
+13247,AGE-BA,Buenos Aires
+13247,WAU-WA,Western Australia
+13247,NA,Namibia
+13247,MG,Madagascar
+13247,RE,Réunion
+13247,MU,Mauritius
+13247,SC,Seychelles
+13247,MZ,Mozambique
+13247,KM,Comoros
+13248,CL,Chile
+13248,UY,Uruguay
+13248,TAS-OO,Tasmania
+13248,FK,Falkland Islands (Malvinas)
+13248,NZS-OO,South Is.
+13248,CPP-EC,Eastern Cape Province
+13248,CPP-WC,Western Cape
+13248,NZN-OO,North Is.
+13248,ATP-OO,Antipodean Is.
+13248,CTM-OO,Chatham Is.
+13248,US,United States of America
+13248,AR,Argentina
+13248,NZ,New Zealand
+13248,ZA,South Africa
+13248,AGS-CB,Chubut
+13248,BR,Brazil
+13248,CAL-OO,California
+13248,KER-OO,Kermadec Is.
+13248,AU,Australia
+13248,BZS-RS,Rio Grande do Sul
+13248,QLD-CS,Coral Sea Is. Territory
+13248,NFK-LH,Lord Howe Is.
+13248,NC,New Caledonia
+13248,NA,Namibia
+13248,FJ,Fiji
+13248,MG,Madagascar
+13248,TO,Tonga
+13248,VU,Vanuatu
+13248,MZ,Mozambique
+13249,CL,Chile
+13249,TAS-OO,Tasmania
+13249,WAU-WA,Western Australia
+13249,CTM-OO,Chatham Is.
+13249,UY,Uruguay
+13249,FK,Falkland Islands (Malvinas)
+13249,NZS-OO,South Is.
+13249,CLS-MG,Magellanes
+13249,NZN-OO,North Is.
+13249,NSW-NS,New South Wales
+13249,VIC-OO,Victoria
+13249,HM,Heard Island and McDonald Islands
+13249,BR,Brazil
+13249,ZA,South Africa
+13249,NZ,New Zealand
+13249,TF,French Southern Territories
+13249,AR,Argentina
+13249,AQ,Antarctica
+13249,AGS-CB,Chubut
+13249,AU,Australia
+13249,KEG-OO,Kerguelen
+13249,SOA-OO,South Australia
+13249,AGS-TF,Tierra del Fuego
+13249,ATP-OO,Antipodean Is.
+13249,NAT-OO,KwaZulu-Natal
+13249,CPP-WC,Western Cape
+13249,CPP-EC,Eastern Cape Province
+13249,QLD-QU,Queensland
+13249,NA,Namibia
+13249,MG,Madagascar
+13249,MZ,Mozambique
+13249,MAQ-OO,Macquarie Is.
+13249,MM,Myanmar
+13249,SGE-OO,South Georgia
+13249,GS,South Georgia and the South Sandwich Islands
+13250,IE,Ireland
+13250,MA,Morocco
+13250,US,United States of America
+13250,ZA,South Africa
+13250,BS,Bahamas
+13250,MZ,Mozambique
+13250,CNY-OO,Canary Is.
+13250,CU,Cuba
+13250,AU,Australia
+13250,GB,United Kingdom of Great Britain and Northern Ireland
+13250,CA,Canada
+13250,MG,Madagascar
+13250,PT,Portugal
+13250,FR,France
+13250,ES,Spain
+13250,BM,Bermuda
+13250,UY,Uruguay
+13250,EH,Western Sahara
+13250,POR-OO,Portugal (mainland)
+13250,AZO-OO,Azores
+13250,AR,Argentina
+13250,CV,Cabo Verde
+13250,BR,Brazil
+13250,SPA-SP,Spain (mainland)
+13250,TDC-OO,Tristan da Cunha
+13250,SH,"Saint Helena, Ascension and Tristan da Cunha"
+13251,PA,Panama
+13251,CO,Colombia
+13251,CR,Costa Rica
+13251,PE,Peru
+13251,EC,Ecuador
+13251,HN,Honduras
+13251,NI,Nicaragua
+13251,NZ,New Zealand
+13251,NZS-OO,South Is.
+13251,GT,Guatemala
+13251,MX,Mexico
+13251,SV,El Salvador
+13251,CAL-OO,California
+13251,CL,Chile
+13251,US,United States of America
+13252,CA,Canada
+13252,WAS-OO,Washington
+13252,BRC-OO,British Columbia
+13252,CAL-OO,California
+13252,ASK-OO,Alaska
+13252,RU,Russian Federation
+13252,KR,"Korea, Republic of"
+13252,US,United States of America
+13252,KP,"Korea, Democratic People's Republic of"
+13252,JP,Japan
+13581,CA,Canada
+13581,US,United States of America
+13581,MX,Mexico
+13581,JP,Japan
+13583,CL,Chile
+13583,AO,Angola
+13583,NA,Namibia
+13583,PE,Peru
+13583,GS,South Georgia and the South Sandwich Islands
+13583,CRZ-OO,Crozet Is.
+13583,ATP-OO,Antipodean Is.
+13583,NZS-OO,South Is.
+13583,MPE-OO,Marion-Prince Edward Is.
+13583,OM,Oman
+13583,NZN-OO,North Is.
+13583,MAQ-OO,Macquarie Is.
+13583,VIC-OO,Victoria
+13583,NSW-NS,New South Wales
+13583,HM,Heard Island and McDonald Islands
+13583,BR,Brazil
+13583,ZA,South Africa
+13583,NZ,New Zealand
+13583,BV,Bouvet Island
+13583,TF,French Southern Territories
+13583,FK,Falkland Islands (Malvinas)
+13583,UY,Uruguay
+13583,CTM-OO,Chatham Is.
+13583,MU,Mauritius
+13583,AR,Argentina
+13583,AQ,Antarctica
+13583,MZ,Mozambique
+13583,SH,"Saint Helena, Ascension and Tristan da Cunha"
+13583,AU,Australia
+13583,KEG-OO,Kerguelen
+13583,TDC-OO,Tristan da Cunha
+13583,SOA-OO,South Australia
+13583,STH-OO,Saint Helena (main island)
+13583,EC,Ecuador
+13583,TAS-OO,Tasmania
+13583,JNF-OO,Juan Fernández Is.
+13583,CPP-EC,Eastern Cape Province
+13583,NAT-OO,KwaZulu-Natal
+13583,CPP-NC,Northern Cape Province
+13583,CPP-WC,Western Cape
+13583,WAU-WA,Western Australia
+13653,SAR-OO,Sardegna
+13653,GM,Gambia
+13653,EG,Egypt
+13653,AL,Albania
+13653,EH,Western Sahara
+13653,ES,Spain
+13653,GR,Greece
+13653,LB,Lebanon
+13653,RU,Russian Federation
+13653,BAL-OO,Baleares
+13653,UA,Ukraine
+13653,PT,Portugal
+13653,SIC-SI,Sicilia
+13653,MT,Malta
+13653,MR,Mauritania
+13653,BA,Bosnia and Herzegovina
+13653,IT,Italy
+13653,ME,Montenegro
+13653,AZO-OO,Azores
+13653,FR,France
+13653,BG,Bulgaria
+13653,MDR-OO,Madeira
+13653,DZ,Algeria
+13653,TR,Türkiye
+13653,RO,Romania
+13653,TN,Tunisia
+13653,HR,Croatia
+13653,LY,Libya
+13653,CNY-OO,Canary Is.
+13653,GE,Georgia
+13653,SY,Syrian Arab Republic
+13653,POR-OO,Portugal (mainland)
+13653,ITA-IT,Italy (mainland)
+13653,FRA-FR,France (mainland)
+13653,MA,Morocco
+13653,CY,Cyprus
+13653,IL,Israel
+13653,CV,Cabo Verde
+13653,SI,Slovenia
+13653,SPA-SP,Spain (mainland)
+13653,COR-OO,Corsica
+13653,SN,Senegal
+13654,HAW-HI,Hawaiian Is.
+13654,US,United States of America
+13654,WAK-OO,Wake Is.
+13654,UM,United States Minor Outlying Islands
+13654,HAW-JI,Johnston I.
+13654,LIN-US,US Line Is.
+13655,MX,Mexico
+13655,US,United States of America
+13655,SWC-HC,Honduran Caribbean Is.
+13655,BS,Bahamas
+13655,HN,Honduras
+13655,CU,Cuba
+13655,JM,Jamaica
+13655,HON-OO,Honduras (mainland)
+13655,HT,Haiti
+13655,DO,Dominican Republic
+13655,GP,Guadeloupe
+13655,CO,Colombia
+13655,SWC-CC,Colombian Caribbean Is.
+13655,NI,Nicaragua
+13655,AG,Antigua and Barbuda
+13655,BZ,Belize
+13655,CR,Costa Rica
+13655,MXG-VC,Veracruz
+13655,MXT-YU,Yucatán
+13655,FLA-OO,Florida
+13655,GEO-OO,Georgia
+13655,DM,Dominica
+13655,PR,Puerto Rico
+13655,SWC-NC,Nicaraguan Caribbean Is.
+13704,NO,Norway
+13704,CA,Canada
+13704,GL,Greenland
+13704,IS,Iceland
+13704,DE,Germany
+13704,GB,United Kingdom of Great Britain and Northern Ireland
+13704,NL,Netherlands
+13704,SJ,Svalbard and Jan Mayen
+13704,RU,Russian Federation
+13704,US,United States of America
+13704,NFL-NE,Newfoundland I
+14018,FI,Finland
+14018,MD,"Moldova, Republic of"
+14018,DE,Germany
+14018,ME,Montenegro
+14018,BG,Bulgaria
+14018,FR,France
+14018,HU,Hungary
+14018,RO,Romania
+14018,HR,Croatia
+14018,LT,Lithuania
+14018,BY,Belarus
+14018,GE,Georgia
+14018,LV,Latvia
+14018,CZ,Czechia
+14018,AT,Austria
+14018,SK,Slovakia
+14018,KZ,Kazakhstan
+14018,PL,Poland
+14018,UA,Ukraine
+14018,RS,Serbia
+14018,RU,Russian Federation
+14018,CH,Switzerland
+14018,ES,Spain
+14018,NL,Netherlands
+14018,EE,Estonia
+14018,GR,Greece
+14019,ID,Indonesia
+14019,JAW-OO,Jawa
+14019,SUM-OO,Sumatera
+14020,CA,Canada
+14020,MX,Mexico
+14020,US,United States of America
+14021,CN,China
+14021,LI,Liechtenstein
+14021,GR,Greece
+14021,LB,Lebanon
+14021,RU,Russian Federation
+14021,CH,Switzerland
+14021,RS,Serbia
+14021,PL,Poland
+14021,KZ,Kazakhstan
+14021,SM,San Marino
+14021,SK,Slovakia
+14021,SI,Slovenia
+14021,KR,"Korea, Republic of"
+14021,SE,Sweden
+14021,KP,"Korea, Democratic People's Republic of"
+14021,CZ,Czechia
+14021,FI,Finland
+14021,KG,Kyrgyzstan
+14021,BA,Bosnia and Herzegovina
+14021,IT,Italy
+14021,AZ,Azerbaijan
+14021,IR,"Iran, Islamic Republic of"
+14021,MN,Mongolia
+14021,IQ,Iraq
+14021,IL,Israel
+14021,US,United States of America
+14021,AT,Austria
+14021,MA,Morocco
+14021,DK,Denmark
+14021,MD,"Moldova, Republic of"
+14021,LV,Latvia
+14021,LU,Luxembourg
+14021,LT,Lithuania
+14021,VN,Viet Nam
+14021,HR,Croatia
+14021,RO,Romania
+14021,DZ,Algeria
+14021,HU,Hungary
+14021,ME,Montenegro
+14021,MK,North Macedonia
+14021,DE,Germany
+14021,UZ,Uzbekistan
+14021,MC,Monaco
+14021,MT,Malta
+14021,PT,Portugal
+14021,UA,Ukraine
+14021,AD,Andorra
+14021,ES,Spain
+14021,NL,Netherlands
+14021,AF,Afghanistan
+14021,AL,Albania
+14021,EE,Estonia
+14021,AM,Armenia
+14021,JP,Japan
+14021,GE,Georgia
+14021,BY,Belarus
+14021,NZ,New Zealand
+14021,TJ,Tajikistan
+14021,GB,United Kingdom of Great Britain and Northern Ireland
+14021,TM,Turkmenistan
+14021,CA,Canada
+14021,TR,Türkiye
+14021,NO,Norway
+14021,FR,France
+14021,BG,Bulgaria
+14021,SY,Syrian Arab Republic
+14021,BE,Belgium
+14021,EG,Egypt
+14021,JO,Jordan
+14025,CO,Colombia
+14025,BO,"Bolivia, Plurinational State of"
+14025,PE,Peru
+14025,EC,Ecuador
+14025,BR,Brazil
+14026,CO,Colombia
+14026,EC,Ecuador
+14027,CN,China
+14027,MM,Myanmar
+14027,TH,Thailand
+14027,VN,Viet Nam
+14027,IN,India
+14027,LA,Lao People's Democratic Republic
+14027,BT,Bhutan
+14028,CN,China
+14028,RU,Russian Federation
+14549,AU,Australia
+14549,SOA-OO,South Australia
+14549,TAS-OO,Tasmania
+14549,WAU-WA,Western Australia
+15106,IE,Ireland
+15106,DK,Denmark
+15106,FI,Finland
+15106,GL,Greenland
+15106,DE,Germany
+15106,JP,Japan
+15106,US,United States of America
+15106,SE,Sweden
+15106,SJ,Svalbard and Jan Mayen
+15106,GB,United Kingdom of Great Britain and Northern Ireland
+15106,IS,Iceland
+15106,CA,Canada
+15106,NO,Norway
+15106,FR,France
+15106,RU,Russian Federation
+15106,ES,Spain
+15106,NL,Netherlands
+15106,BE,Belgium
+15106,ASK-OO,Alaska
+15106,MAI-OO,Maine
+15106,MAS-OO,Massachusetts
+15269,FK,Falkland Islands (Malvinas)
+15269,KEG-OO,Kerguelen
+15269,HM,Heard Island and McDonald Islands
+15269,AU,Australia
+15269,GS,South Georgia and the South Sandwich Islands
+15269,AQ,Antarctica
+15269,TF,French Southern Territories
+15269,SSA-OO,South Sandwich Is.
+15419,KH,Cambodia
+15419,MM,Myanmar
+15419,BN,Brunei Darussalam
+15419,ID,Indonesia
+15419,TH,Thailand
+15419,VN,Viet Nam
+15419,BD,Bangladesh
+15419,SG,Singapore
+15419,MY,Malaysia
+15419,IN,India
+15419,PH,Philippines
+15419,LA,Lao People's Democratic Republic
+15419,PG,Papua New Guinea
+15419,AU,Australia
+15419,TL,Timor-Leste
+15421,CL,Chile
+15421,PA,Panama
+15421,PG,Papua New Guinea
+15421,LK,Sri Lanka
+15421,GL,Greenland
+15421,PE,Peru
+15421,CR,Costa Rica
+15421,GN,Guinea
+15421,RU,Russian Federation
+15421,GS,South Georgia and the South Sandwich Islands
+15421,GT,Guatemala
+15421,GU,Guam
+15421,CI,Côte d'Ivoire
+15421,GAL-OO,Galápagos
+15421,SN,Senegal
+15421,KEG-OO,Kerguelen
+15421,KM,Comoros
+15421,CU,Cuba
+15421,KR,"Korea, Republic of"
+15421,SC,Seychelles
+15421,IT,Italy
+15421,IS,Iceland
+15421,AU,Australia
+15421,IN,India
+15421,MY,Malaysia
+15421,MZ,Mozambique
+15421,AQ,Antarctica
+15421,US,United States of America
+15421,AR,Argentina
+15421,MX,Mexico
+15421,IE,Ireland
+15421,MA,Morocco
+15421,ZA,South Africa
+15421,HN,Honduras
+15421,EC,Ecuador
+15421,VN,Viet Nam
+15421,HM,Heard Island and McDonald Islands
+15421,DZ,Algeria
+15421,MG,Madagascar
+15421,VC,Saint Vincent and the Grenadines
+15421,ID,Indonesia
+15421,DE,Germany
+15421,UY,Uruguay
+15421,DK,Denmark
+15421,HAW-HI,Hawaiian Is.
+15421,MR,Mauritania
+15421,NI,Nicaragua
+15421,ES,Spain
+15421,EH,Western Sahara
+15421,TZ,"Tanzania, United Republic of"
+15421,NA,Namibia
+15421,TW,"Taiwan, Province of China"
+15421,JP,Japan
+15421,TF,French Southern Territories
+15421,NZ,New Zealand
+15421,ALU-OO,Aleutian Is.
+15421,BS,Bahamas
+15421,JM,Jamaica
+15421,BR,Brazil
+15421,NFL-NE,Newfoundland I
+15421,GB,United Kingdom of Great Britain and Northern Ireland
+15421,TN,Tunisia
+15421,CA,Canada
+15421,NO,Norway
+15421,FR,France
+15421,FO,Faroe Islands
+15421,FK,Falkland Islands (Malvinas)
+15421,KE,Kenya
+15421,KP,"Korea, Democratic People's Republic of"
+15421,SB,Solomon Islands
+15421,CK,Cook Islands
+15421,SA,Saudi Arabia
+15421,CN,China
+15421,CM,Cameroon
+15421,CO,Colombia
+15421,CD,"Congo, The Democratic Republic of the"
+15421,CC,Cocos (Keeling) Islands
+15421,LB,Lebanon
+15421,CG,Congo
+15421,LC,Saint Lucia
+15421,SR,Suriname
+15421,SO,Somalia
+15421,KY,Cayman Islands
+15421,KW,Kuwait
+15421,SL,Sierra Leone
+15421,KN,Saint Kitts and Nevis
+15421,SJ,Svalbard and Jan Mayen
+15421,SG,Singapore
+15421,CV,Cabo Verde
+15421,SH,"Saint Helena, Ascension and Tristan da Cunha"
+15421,SE,Sweden
+15421,CX,Christmas Island
+15421,CY,Cyprus
+15421,SD,Sudan
+15421,BM,Bermuda
+15421,TC,Turks and Caicos Islands
+15421,BJ,Benin
+15421,KH,Cambodia
+15421,KI,Kiribati
+15421,BN,Brunei Darussalam
+15421,BE,Belgium
+15421,BD,Bangladesh
+15421,BB,Barbados
+15421,SY,Syrian Arab Republic
+15421,ST,Sao Tome and Principe
+15421,BH,Bahrain
+15421,SV,El Salvador
+15421,BZ,Belize
+15421,TR,Türkiye
+15421,TL,Timor-Leste
+15421,TO,Tonga
+15421,TH,Thailand
+15421,TK,Tokelau
+15421,TG,Togo
+15421,AO,Angola
+15421,YT,Mayotte
+15421,AI,Anguilla
+15421,AL,Albania
+15421,PR,Puerto Rico
+15421,AE,United Arab Emirates
+15421,AG,Antigua and Barbuda
+15421,PW,Palau
+15421,PT,Portugal
+15421,YE,Yemen
+15421,IR,"Iran, Islamic Republic of"
+15421,IO,British Indian Ocean Territory
+15421,AW,Aruba
+15421,QA,Qatar
+15421,IL,Israel
+15421,GF,French Guiana
+15421,GD,Grenada
+15421,TV,Tuvalu
+15421,NC,New Caledonia
+15421,TT,Trinidad and Tobago
+15421,EG,Egypt
+15421,ER,Eritrea
+15421,NL,Netherlands
+15421,NG,Nigeria
+15421,NF,Norfolk Island
+15421,MS,Montserrat
+15421,MT,Malta
+15421,MQ,Martinique
+15421,MP,Northern Mariana Islands
+15421,MM,Myanmar
+15421,ME,Montenegro
+15421,MH,Marshall Islands
+15421,DM,Dominica
+15421,VE,"Venezuela, Bolivarian Republic of"
+15421,VG,"Virgin Islands, British"
+15421,LR,Liberia
+15421,VI,"Virgin Islands, U.S."
+15421,LY,Libya
+15421,VU,Vanuatu
+15421,DO,Dominican Republic
+15421,MC,Monaco
+15421,DJ,Djibouti
+15421,MV,Maldives
+15421,UM,United States Minor Outlying Islands
+15421,GA,Gabon
+15421,NU,Niue
+15421,NR,Nauru
+15421,OM,Oman
+15421,FJ,Fiji
+15421,FM,"Micronesia, Federated States of"
+15421,FI,Finland
+15421,WS,Samoa
+15421,GY,Guyana
+15421,GW,Guinea-Bissau
+15421,PM,Saint Pierre and Miquelon
+15421,PN,Pitcairn
+15421,PH,Philippines
+15421,GR,Greece
+15421,GQ,Equatorial Guinea
+15421,WF,Wallis and Futuna
+15421,GP,Guadeloupe
+15421,PK,Pakistan
+15421,GM,Gambia
+15421,PF,French Polynesia
+15421,GI,Gibraltar
+15421,GH,Ghana
+15421,HK,Hong Kong
+15421,RE,Réunion
+15421,HR,Croatia
+15421,HT,Haiti
+15421,AS,American Samoa
+15421,CW,Curaçao
+15421,BQ,"Bonaire, Sint Eustatius and Saba"
+15421,MF,Saint Martin (French part)
+15421,SX,Sint Maarten (Dutch part)
+15421,NLA-BO,Bonaire
+15421,NLA-SE,Sint Eustatius
+15421,NLA-SA,Saba
+15421,BL,Saint Barthélemy
+16564,PG,Papua New Guinea
+16564,LK,Sri Lanka
+16564,PF,French Polynesia
+16564,CR,Costa Rica
+16564,GN,Guinea
+16564,ID,Indonesia
+16564,PK,Pakistan
+16564,BD,Bangladesh
+16564,PH,Philippines
+16564,VC,Saint Vincent and the Grenadines
+16564,GT,Guatemala
+16564,JP,Japan
+16564,MV,Maldives
+16564,SC,Seychelles
+16564,US,United States of America
+16564,MX,Mexico
+16564,ZA,South Africa
+16564,BR,Brazil
+16564,IN,India
+16564,MY,Malaysia
+16564,VN,Viet Nam
+16564,AU,Australia
+16564,SN,Senegal
+16564,GU,Guam
+16564,SB,Solomon Islands
+16564,CK,Cook Islands
+16564,CM,Cameroon
+16564,CO,Colombia
+16564,CD,"Congo, The Democratic Republic of the"
+16564,CC,Cocos (Keeling) Islands
+16564,CG,Congo
+16564,LC,Saint Lucia
+16564,CI,Côte d'Ivoire
+16564,SR,Suriname
+16564,SO,Somalia
+16564,KY,Cayman Islands
+16564,SL,Sierra Leone
+16564,KN,Saint Kitts and Nevis
+16564,KM,Comoros
+16564,CU,Cuba
+16564,SG,Singapore
+16564,CV,Cabo Verde
+16564,SH,"Saint Helena, Ascension and Tristan da Cunha"
+16564,KR,"Korea, Republic of"
+16564,KP,"Korea, Democratic People's Republic of"
+16564,BM,Bermuda
+16564,KE,Kenya
+16564,PN,Pitcairn
+16564,GW,Guinea-Bissau
+16564,GY,Guyana
+16564,WS,Samoa
+16564,FM,"Micronesia, Federated States of"
+16564,FJ,Fiji
+16564,FR,France
+16564,OM,Oman
+16564,NR,Nauru
+16564,NU,Niue
+16564,GA,Gabon
+16564,GF,French Guiana
+16564,GD,Grenada
+16564,TV,Tuvalu
+16564,TW,"Taiwan, Province of China"
+16564,NC,New Caledonia
+16564,TT,Trinidad and Tobago
+16564,NA,Namibia
+16564,TZ,"Tanzania, United Republic of"
+16564,EH,Western Sahara
+16564,NI,Nicaragua
+16564,NG,Nigeria
+16564,UY,Uruguay
+16564,DO,Dominican Republic
+16564,MH,Marshall Islands
+16564,MG,Madagascar
+16564,DM,Dominica
+16564,VE,"Venezuela, Bolivarian Republic of"
+16564,VG,"Virgin Islands, British"
+16564,LR,Liberia
+16564,VI,"Virgin Islands, U.S."
+16564,EC,Ecuador
+16564,VU,Vanuatu
+16564,MA,Morocco
+16564,DJ,Djibouti
+16564,MU,Mauritius
+16564,MZ,Mozambique
+16564,MM,Myanmar
+16564,MP,Northern Mariana Islands
+16564,MR,Mauritania
+16564,MQ,Martinique
+16564,GQ,Equatorial Guinea
+16564,WF,Wallis and Futuna
+16564,GP,Guadeloupe
+16564,GM,Gambia
+16564,PE,Peru
+16564,PA,Panama
+16564,GH,Ghana
+16564,HK,Hong Kong
+16564,RE,Réunion
+16564,HN,Honduras
+16564,HT,Haiti
+16564,AS,American Samoa
+16564,AW,Aruba
+16564,IR,"Iran, Islamic Republic of"
+16564,YE,Yemen
+16564,PW,Palau
+16564,AG,Antigua and Barbuda
+16564,PR,Puerto Rico
+16564,AI,Anguilla
+16564,AO,Angola
+16564,YT,Mayotte
+16564,TG,Togo
+16564,BS,Bahamas
+16564,JM,Jamaica
+16564,TH,Thailand
+16564,TO,Tonga
+16564,TL,Timor-Leste
+16564,BZ,Belize
+16564,SV,El Salvador
+16564,ST,Sao Tome and Principe
+16564,BB,Barbados
+16564,BN,Brunei Darussalam
+16564,KI,Kiribati
+16564,KH,Cambodia
+16564,BJ,Benin
+16564,SX,Sint Maarten (Dutch part)
+16564,MF,Saint Martin (French part)
+16564,CW,Curaçao
+16564,NLA-SA,Saba
+16564,NLA-SE,Sint Eustatius
+16564,BQ,"Bonaire, Sint Eustatius and Saba"
+16564,NLA-BO,Bonaire
+16564,BL,Saint Barthélemy
+16564,MS,Montserrat
+16564,TC,Turks and Caicos Islands
+17013,IE,Ireland
+17013,DK,Denmark
+17013,CN,China
+17013,GL,Greenland
+17013,DE,Germany
+17013,BE,Belgium
+17013,NL,Netherlands
+17013,ES,Spain
+17013,RU,Russian Federation
+17013,JP,Japan
+17013,KP,"Korea, Democratic People's Republic of"
+17013,US,United States of America
+17013,MX,Mexico
+17013,SE,Sweden
+17013,KR,"Korea, Republic of"
+17013,GB,United Kingdom of Great Britain and Northern Ireland
+17013,IS,Iceland
+17013,CA,Canada
+17013,NO,Norway
+17013,PT,Portugal
+17013,PL,Poland
+17013,FR,France
+17013,EE,Estonia
+17013,QUE-OO,Québec
+17013,NBR-OO,New Brunswick
+17013,NSC-OO,Nova Scotia
+17013,FO,Faroe Islands
+17013,NFL-NE,Newfoundland I
+17013,LT,Lithuania
+17013,LV,Latvia
+17013,FI,Finland
+17013,PEI-OO,Prince Edward I.
+17013,NUN-OO,Nunavut
+17013,SJ,Svalbard and Jan Mayen
+17013,LAB-OO,Labrador
+17023,CN,China
+17023,CA,Canada
+17023,RU,Russian Federation
+17023,KR,"Korea, Republic of"
+17023,US,United States of America
+17023,KP,"Korea, Democratic People's Republic of"
+17023,JP,Japan
+17026,NZS-OO,South Is.
+17026,NZ,New Zealand
+17026,MAQ-OO,Macquarie Is.
+17026,AU,Australia
+17026,ATP-OO,Antipodean Is.
+17027,GI,Gibraltar
+17027,CN,China
+17027,EE,Estonia
+17027,GL,Greenland
+17027,EH,Western Sahara
+17027,NL,Netherlands
+17027,ES,Spain
+17027,RU,Russian Federation
+17027,UA,Ukraine
+17027,PL,Poland
+17027,PT,Portugal
+17027,MR,Mauritania
+17027,SN,Senegal
+17027,IS,Iceland
+17027,FO,Faroe Islands
+17027,FR,France
+17027,BG,Bulgaria
+17027,NO,Norway
+17027,TR,Türkiye
+17027,CA,Canada
+17027,RO,Romania
+17027,TN,Tunisia
+17027,GB,United Kingdom of Great Britain and Northern Ireland
+17027,LT,Lithuania
+17027,GE,Georgia
+17027,LV,Latvia
+17027,JP,Japan
+17027,BE,Belgium
+17027,DE,Germany
+17027,FI,Finland
+17027,DK,Denmark
+17027,MA,Morocco
+17027,IE,Ireland
+17027,KP,"Korea, Democratic People's Republic of"
+17027,US,United States of America
+17027,MX,Mexico
+17027,SE,Sweden
+17027,KR,"Korea, Republic of"
+17027,CV,Cabo Verde
+17027,AZO-OO,Azores
+17028,MXN-BC,Baja California
+17028,MXN-SO,Sonora
+17028,MX,Mexico
+17029,CL,Chile
+17029,UY,Uruguay
+17029,PE,Peru
+17029,BR,Brazil
+17029,AR,Argentina
+17032,CA,Canada
+17032,RU,Russian Federation
+17032,KR,"Korea, Republic of"
+17032,US,United States of America
+17032,MX,Mexico
+17032,KP,"Korea, Democratic People's Republic of"
+17032,JP,Japan
+17032,CN,China
+18596,CL,Chile
+18596,TW,"Taiwan, Province of China"
+18596,CN,China
+18596,TZ,"Tanzania, United Republic of"
+18596,LK,Sri Lanka
+18596,PE,Peru
+18596,ES,Spain
+18596,RU,Russian Federation
+18596,PT,Portugal
+18596,MT,Malta
+18596,IT,Italy
+18596,IQ,Iraq
+18596,ID,Indonesia
+18596,VC,Saint Vincent and the Grenadines
+18596,FR,France
+18596,VE,"Venezuela, Bolivarian Republic of"
+18596,OM,Oman
+18596,NO,Norway
+18596,CA,Canada
+18596,GB,United Kingdom of Great Britain and Northern Ireland
+18596,EC,Ecuador
+18596,BR,Brazil
+18596,ZA,South Africa
+18596,NZ,New Zealand
+18596,JP,Japan
+18596,DE,Germany
+18596,UY,Uruguay
+18596,KE,Kenya
+18596,DK,Denmark
+18596,US,United States of America
+18596,AR,Argentina
+18596,MX,Mexico
+18596,SE,Sweden
+18596,SH,"Saint Helena, Ascension and Tristan da Cunha"
+18596,IN,India
+18596,CU,Cuba
+18596,AU,Australia
+18596,SB,Solomon Islands
+18596,CK,Cook Islands
+18596,SA,Saudi Arabia
+18596,CM,Cameroon
+18596,CO,Colombia
+18596,CR,Costa Rica
+18596,CD,"Congo, The Democratic Republic of the"
+18596,CC,Cocos (Keeling) Islands
+18596,LB,Lebanon
+18596,CG,Congo
+18596,LC,Saint Lucia
+18596,CI,Côte d'Ivoire
+18596,SR,Suriname
+18596,SO,Somalia
+18596,KY,Cayman Islands
+18596,SN,Senegal
+18596,KW,Kuwait
+18596,SL,Sierra Leone
+18596,SI,Slovenia
+18596,KN,Saint Kitts and Nevis
+18596,KM,Comoros
+18596,SG,Singapore
+18596,CV,Cabo Verde
+18596,KR,"Korea, Republic of"
+18596,CX,Christmas Island
+18596,CY,Cyprus
+18596,KP,"Korea, Democratic People's Republic of"
+18596,SC,Seychelles
+18596,SD,Sudan
+18596,BM,Bermuda
+18596,TC,Turks and Caicos Islands
+18596,BJ,Benin
+18596,KH,Cambodia
+18596,KI,Kiribati
+18596,BN,Brunei Darussalam
+18596,BE,Belgium
+18596,BD,Bangladesh
+18596,BB,Barbados
+18596,SY,Syrian Arab Republic
+18596,ST,Sao Tome and Principe
+18596,SV,El Salvador
+18596,BZ,Belize
+18596,TL,Timor-Leste
+18596,TM,Turkmenistan
+18596,TN,Tunisia
+18596,TO,Tonga
+18596,TH,Thailand
+18596,JM,Jamaica
+18596,BS,Bahamas
+18596,TK,Tokelau
+18596,JO,Jordan
+18596,TG,Togo
+18596,AO,Angola
+18596,YT,Mayotte
+18596,AI,Anguilla
+18596,PS,"Palestine, State of"
+18596,PR,Puerto Rico
+18596,AE,United Arab Emirates
+18596,AG,Antigua and Barbuda
+18596,PW,Palau
+18596,BA,Bosnia and Herzegovina
+18596,YE,Yemen
+18596,IR,"Iran, Islamic Republic of"
+18596,GF,French Guiana
+18596,GD,Grenada
+18596,TV,Tuvalu
+18596,NC,New Caledonia
+18596,TT,Trinidad and Tobago
+18596,NA,Namibia
+18596,EG,Egypt
+18596,EH,Western Sahara
+18596,ER,Eritrea
+18596,NL,Netherlands
+18596,NI,Nicaragua
+18596,NG,Nigeria
+18596,NF,Norfolk Island
+18596,MS,Montserrat
+18596,MQ,Martinique
+18596,MR,Mauritania
+18596,MP,Northern Mariana Islands
+18596,MM,Myanmar
+18596,MY,Malaysia
+18596,ME,Montenegro
+18596,MH,Marshall Islands
+18596,DM,Dominica
+18596,MG,Madagascar
+18596,VG,"Virgin Islands, British"
+18596,LR,Liberia
+18596,VI,"Virgin Islands, U.S."
+18596,LY,Libya
+18596,VN,Viet Nam
+18596,VU,Vanuatu
+18596,DO,Dominican Republic
+18596,MC,Monaco
+18596,MA,Morocco
+18596,DJ,Djibouti
+18596,MV,Maldives
+18596,MU,Mauritius
+18596,MZ,Mozambique
+18596,GA,Gabon
+18596,NU,Niue
+18596,NR,Nauru
+18596,FJ,Fiji
+18596,FM,"Micronesia, Federated States of"
+18596,WS,Samoa
+18596,GY,Guyana
+18596,GW,Guinea-Bissau
+18596,PL,Poland
+18596,PM,Saint Pierre and Miquelon
+18596,GU,Guam
+18596,PN,Pitcairn
+18596,GT,Guatemala
+18596,PH,Philippines
+18596,GR,Greece
+18596,GQ,Equatorial Guinea
+18596,WF,Wallis and Futuna
+18596,GP,Guadeloupe
+18596,PK,Pakistan
+18596,GN,Guinea
+18596,GM,Gambia
+18596,PF,French Polynesia
+18596,PG,Papua New Guinea
+18596,PA,Panama
+18596,GI,Gibraltar
+18596,GH,Ghana
+18596,HK,Hong Kong
+18596,RE,Réunion
+18596,HN,Honduras
+18596,HR,Croatia
+18596,HT,Haiti
+18596,IE,Ireland
+18596,AS,American Samoa
+18596,IL,Israel
+18596,QA,Qatar
+18596,AW,Aruba
+18596,IO,British Indian Ocean Territory
+18596,SX,Sint Maarten (Dutch part)
+18596,MF,Saint Martin (French part)
+18596,NLA-BO,Bonaire
+18596,BQ,"Bonaire, Sint Eustatius and Saba"
+18596,NLA-SE,Sint Eustatius
+18596,NLA-SA,Saba
+18596,CW,Curaçao
+18711,GY,Guyana
+18711,GF,French Guiana
+18711,EC,Ecuador
+18711,CO,Colombia
+18711,BR,Brazil
+18711,BO,"Bolivia, Plurinational State of"
+18711,AR,Argentina
+18711,PY,Paraguay
+18711,PE,Peru
+18711,SR,Suriname
+18711,UY,Uruguay
+18711,VE,"Venezuela, Bolivarian Republic of"
+20424,TW,"Taiwan, Province of China"
+20424,SA,Saudi Arabia
+20424,CN,China
+20424,PG,Papua New Guinea
+20424,TZ,"Tanzania, United Republic of"
+20424,LK,Sri Lanka
+20424,EG,Egypt
+20424,PK,Pakistan
+20424,AE,United Arab Emirates
+20424,ET,Ethiopia
+20424,PH,Philippines
+20424,SO,Somalia
+20424,YE,Yemen
+20424,IR,"Iran, Islamic Republic of"
+20424,KE,Kenya
+20424,KH,Cambodia
+20424,BN,Brunei Darussalam
+20424,ID,Indonesia
+20424,BD,Bangladesh
+20424,BH,Bahrain
+20424,MG,Madagascar
+20424,OM,Oman
+20424,TL,Timor-Leste
+20424,TH,Thailand
+20424,VN,Viet Nam
+20424,ZA,South Africa
+20424,HK,Hong Kong
+20424,DJ,Djibouti
+20424,SD,Sudan
+20424,IL,Israel
+20424,MZ,Mozambique
+20424,QA,Qatar
+20424,MY,Malaysia
+20424,IN,India
+20424,SG,Singapore
+20424,AU,Australia
+20424,KW,Kuwait
+20424,IQ,Iraq
+20424,MM,Myanmar
+20424,ER,Eritrea
+20424,MO,Macao
+20424,KM,Comoros
+20425,GH,Ghana
+20425,CM,Cameroon
+20425,AO,Angola
+20425,BJ,Benin
+20425,GM,Gambia
+20425,EH,Western Sahara
+20425,TG,Togo
+20425,GA,Gabon
+20425,SL,Sierra Leone
+20425,SN,Senegal
+20425,MR,Mauritania
+20425,LR,Liberia
+20425,GW,Guinea-Bissau
+20425,CI,Côte d'Ivoire
+20425,NG,Nigeria
+20425,CG,Congo
+20425,GQ,Equatorial Guinea
+20425,CD,"Congo, The Democratic Republic of the"
+20425,GN,Guinea
+20425,ANG-OO,Angola
+20425,CAB-OO,Cabinda
+20729,SB,Solomon Islands
+20729,CK,Cook Islands
+20729,SA,Saudi Arabia
+20729,CN,China
+20729,CM,Cameroon
+20729,CO,Colombia
+20729,LK,Sri Lanka
+20729,CR,Costa Rica
+20729,CD,"Congo, The Democratic Republic of the"
+20729,CC,Cocos (Keeling) Islands
+20729,CG,Congo
+20729,LC,Saint Lucia
+20729,CI,Côte d'Ivoire
+20729,SR,Suriname
+20729,SO,Somalia
+20729,KY,Cayman Islands
+20729,SN,Senegal
+20729,SL,Sierra Leone
+20729,KW,Kuwait
+20729,KN,Saint Kitts and Nevis
+20729,KM,Comoros
+20729,CU,Cuba
+20729,SG,Singapore
+20729,CV,Cabo Verde
+20729,SH,"Saint Helena, Ascension and Tristan da Cunha"
+20729,KR,"Korea, Republic of"
+20729,KP,"Korea, Democratic People's Republic of"
+20729,SC,Seychelles
+20729,SD,Sudan
+20729,BM,Bermuda
+20729,TC,Turks and Caicos Islands
+20729,KE,Kenya
+20729,BJ,Benin
+20729,KH,Cambodia
+20729,KI,Kiribati
+20729,BN,Brunei Darussalam
+20729,BD,Bangladesh
+20729,BB,Barbados
+20729,ST,Sao Tome and Principe
+20729,PN,Pitcairn
+20729,GU,Guam
+20729,GW,Guinea-Bissau
+20729,GY,Guyana
+20729,WS,Samoa
+20729,FM,"Micronesia, Federated States of"
+20729,FJ,Fiji
+20729,OM,Oman
+20729,NR,Nauru
+20729,NU,Niue
+20729,GA,Gabon
+20729,GF,French Guiana
+20729,NZ,New Zealand
+20729,GD,Grenada
+20729,TV,Tuvalu
+20729,TW,"Taiwan, Province of China"
+20729,TT,Trinidad and Tobago
+20729,NC,New Caledonia
+20729,TZ,"Tanzania, United Republic of"
+20729,EG,Egypt
+20729,EH,Western Sahara
+20729,ER,Eritrea
+20729,NI,Nicaragua
+20729,NG,Nigeria
+20729,UY,Uruguay
+20729,DO,Dominican Republic
+20729,VC,Saint Vincent and the Grenadines
+20729,MH,Marshall Islands
+20729,VE,"Venezuela, Bolivarian Republic of"
+20729,DM,Dominica
+20729,MG,Madagascar
+20729,VG,"Virgin Islands, British"
+20729,VI,"Virgin Islands, U.S."
+20729,LR,Liberia
+20729,EC,Ecuador
+20729,VN,Viet Nam
+20729,VU,Vanuatu
+20729,DJ,Djibouti
+20729,MV,Maldives
+20729,MU,Mauritius
+20729,US,United States of America
+20729,MX,Mexico
+20729,MZ,Mozambique
+20729,MY,Malaysia
+20729,MM,Myanmar
+20729,MP,Northern Mariana Islands
+20729,MR,Mauritania
+20729,MQ,Martinique
+20729,MS,Montserrat
+20729,GT,Guatemala
+20729,PH,Philippines
+20729,GQ,Equatorial Guinea
+20729,GP,Guadeloupe
+20729,WF,Wallis and Futuna
+20729,PK,Pakistan
+20729,GN,Guinea
+20729,GM,Gambia
+20729,PE,Peru
+20729,PF,French Polynesia
+20729,PG,Papua New Guinea
+20729,PA,Panama
+20729,GH,Ghana
+20729,HK,Hong Kong
+20729,ZA,South Africa
+20729,RE,Réunion
+20729,HN,Honduras
+20729,HT,Haiti
+20729,ID,Indonesia
+20729,AS,American Samoa
+20729,AR,Argentina
+20729,IL,Israel
+20729,AW,Aruba
+20729,IN,India
+20729,AU,Australia
+20729,IQ,Iraq
+20729,IR,"Iran, Islamic Republic of"
+20729,YE,Yemen
+20729,PW,Palau
+20729,AG,Antigua and Barbuda
+20729,AE,United Arab Emirates
+20729,PR,Puerto Rico
+20729,AI,Anguilla
+20729,AO,Angola
+20729,TG,Togo
+20729,JP,Japan
+20729,JO,Jordan
+20729,BS,Bahamas
+20729,TK,Tokelau
+20729,BR,Brazil
+20729,JM,Jamaica
+20729,TH,Thailand
+20729,TO,Tonga
+20729,TL,Timor-Leste
+20729,BZ,Belize
+20729,SV,El Salvador
+20729,BH,Bahrain
+20729,SX,Sint Maarten (Dutch part)
+20729,MF,Saint Martin (French part)
+20729,CW,Curaçao
+20729,BQ,"Bonaire, Sint Eustatius and Saba"
+20729,NLA-SA,Saba
+20729,NLA-SE,Sint Eustatius
+20729,NLA-BO,Bonaire
+20729,YT,Mayotte
+20730,GH,Ghana
+20730,PA,Panama
+20730,CM,Cameroon
+20730,CO,Colombia
+20730,GM,Gambia
+20730,CR,Costa Rica
+20730,GN,Guinea
+20730,CD,"Congo, The Democratic Republic of the"
+20730,GP,Guadeloupe
+20730,GQ,Equatorial Guinea
+20730,LC,Saint Lucia
+20730,GD,Grenada
+20730,TG,Togo
+20730,TT,Trinidad and Tobago
+20730,AO,Angola
+20730,AI,Anguilla
+20730,PR,Puerto Rico
+20730,AG,Antigua and Barbuda
+20730,NI,Nicaragua
+20730,NG,Nigeria
+20730,MS,Montserrat
+20730,MQ,Martinique
+20730,HN,Honduras
+20730,VI,"Virgin Islands, U.S."
+20730,LR,Liberia
+20730,HT,Haiti
+20730,VG,"Virgin Islands, British"
+20730,VE,"Venezuela, Bolivarian Republic of"
+20730,DM,Dominica
+20730,VC,Saint Vincent and the Grenadines
+20730,DO,Dominican Republic
+20730,US,United States of America
+20730,MX,Mexico
+20730,AW,Aruba
+20730,MR,Mauritania
+20730,GF,French Guiana
+20730,BS,Bahamas
+20730,BR,Brazil
+20730,JM,Jamaica
+20730,GA,Gabon
+20730,BZ,Belize
+20730,ST,Sao Tome and Principe
+20730,BB,Barbados
+20730,BJ,Benin
+20730,TC,Turks and Caicos Islands
+20730,BM,Bermuda
+20730,CV,Cabo Verde
+20730,SH,"Saint Helena, Ascension and Tristan da Cunha"
+20730,CU,Cuba
+20730,KN,Saint Kitts and Nevis
+20730,SL,Sierra Leone
+20730,KY,Cayman Islands
+20730,SN,Senegal
+20730,GY,Guyana
+20730,GW,Guinea-Bissau
+20730,SR,Suriname
+20730,CI,Côte d'Ivoire
+20730,GT,Guatemala
+20730,CG,Congo
+20730,SX,Sint Maarten (Dutch part)
+20730,MF,Saint Martin (French part)
+20730,BQ,"Bonaire, Sint Eustatius and Saba"
+20730,CW,Curaçao
+20730,NLA-BO,Bonaire
+20730,NLA-SE,Sint Eustatius
+20730,NLA-SA,Saba
+20731,SB,Solomon Islands
+20731,CN,China
+20731,GI,Gibraltar
+20731,PA,Panama
+20731,GL,Greenland
+20731,LK,Sri Lanka
+20731,CR,Costa Rica
+20731,NL,Netherlands
+20731,ES,Spain
+20731,GR,Greece
+20731,RU,Russian Federation
+20731,CI,Côte d'Ivoire
+20731,PT,Portugal
+20731,IT,Italy
+20731,SN,Senegal
+20731,AU,Australia
+20731,IN,India
+20731,BE,Belgium
+20731,VC,Saint Vincent and the Grenadines
+20731,FR,France
+20731,OM,Oman
+20731,CA,Canada
+20731,GB,United Kingdom of Great Britain and Northern Ireland
+20731,JM,Jamaica
+20731,BR,Brazil
+20731,HN,Honduras
+20731,NZ,New Zealand
+20731,ZA,South Africa
+20731,VU,Vanuatu
+20731,JP,Japan
+20731,ID,Indonesia
+20731,UY,Uruguay
+20731,MC,Monaco
+20731,IE,Ireland
+20731,MV,Maldives
+20731,SC,Seychelles
+20731,CY,Cyprus
+20731,US,United States of America
+20731,AR,Argentina
+20731,MX,Mexico
+20731,MZ,Mozambique
+20731,CU,Cuba
+20731,CK,Cook Islands
+20731,SA,Saudi Arabia
+20731,CM,Cameroon
+20731,CO,Colombia
+20731,CD,"Congo, The Democratic Republic of the"
+20731,CC,Cocos (Keeling) Islands
+20731,CG,Congo
+20731,LC,Saint Lucia
+20731,RS,Serbia
+20731,SR,Suriname
+20731,SO,Somalia
+20731,KY,Cayman Islands
+20731,KW,Kuwait
+20731,SL,Sierra Leone
+20731,SI,Slovenia
+20731,KN,Saint Kitts and Nevis
+20731,KM,Comoros
+20731,SG,Singapore
+20731,CV,Cabo Verde
+20731,SH,"Saint Helena, Ascension and Tristan da Cunha"
+20731,SE,Sweden
+20731,KR,"Korea, Republic of"
+20731,KP,"Korea, Democratic People's Republic of"
+20731,SD,Sudan
+20731,BM,Bermuda
+20731,KE,Kenya
+20731,TC,Turks and Caicos Islands
+20731,BJ,Benin
+20731,KH,Cambodia
+20731,KI,Kiribati
+20731,BN,Brunei Darussalam
+20731,BD,Bangladesh
+20731,BB,Barbados
+20731,ST,Sao Tome and Principe
+20731,SV,El Salvador
+20731,BZ,Belize
+20731,TL,Timor-Leste
+20731,TO,Tonga
+20731,TH,Thailand
+20731,BS,Bahamas
+20731,TG,Togo
+20731,AO,Angola
+20731,AI,Anguilla
+20731,PR,Puerto Rico
+20731,AE,United Arab Emirates
+20731,AG,Antigua and Barbuda
+20731,PW,Palau
+20731,NU,Niue
+20731,GA,Gabon
+20731,GF,French Guiana
+20731,GD,Grenada
+20731,TV,Tuvalu
+20731,TW,"Taiwan, Province of China"
+20731,NC,New Caledonia
+20731,TT,Trinidad and Tobago
+20731,NA,Namibia
+20731,TZ,"Tanzania, United Republic of"
+20731,EG,Egypt
+20731,EH,Western Sahara
+20731,ER,Eritrea
+20731,ET,Ethiopia
+20731,NI,Nicaragua
+20731,NG,Nigeria
+20731,MQ,Martinique
+20731,MR,Mauritania
+20731,MP,Northern Mariana Islands
+20731,MM,Myanmar
+20731,MH,Marshall Islands
+20731,DM,Dominica
+20731,MG,Madagascar
+20731,VE,"Venezuela, Bolivarian Republic of"
+20731,VG,"Virgin Islands, British"
+20731,DZ,Algeria
+20731,LR,Liberia
+20731,VI,"Virgin Islands, U.S."
+20731,EC,Ecuador
+20731,VN,Viet Nam
+20731,LT,Lithuania
+20731,DO,Dominican Republic
+20731,DE,Germany
+20731,MA,Morocco
+20731,DK,Denmark
+20731,DJ,Djibouti
+20731,MY,Malaysia
+20731,NR,Nauru
+20731,NO,Norway
+20731,FJ,Fiji
+20731,FM,"Micronesia, Federated States of"
+20731,WS,Samoa
+20731,GY,Guyana
+20731,GW,Guinea-Bissau
+20731,PL,Poland
+20731,PM,Saint Pierre and Miquelon
+20731,GU,Guam
+20731,PN,Pitcairn
+20731,GT,Guatemala
+20731,PH,Philippines
+20731,GQ,Equatorial Guinea
+20731,WF,Wallis and Futuna
+20731,GP,Guadeloupe
+20731,PK,Pakistan
+20731,GN,Guinea
+20731,PE,Peru
+20731,GM,Gambia
+20731,PF,French Polynesia
+20731,PG,Papua New Guinea
+20731,HK,Hong Kong
+20731,HT,Haiti
+20731,AS,American Samoa
+20731,IL,Israel
+20731,QA,Qatar
+20731,AW,Aruba
+20731,IO,British Indian Ocean Territory
+20731,IQ,Iraq
+20731,IR,"Iran, Islamic Republic of"
+20731,YE,Yemen
+20731,BA,Bosnia and Herzegovina
+20731,SX,Sint Maarten (Dutch part)
+20731,MF,Saint Martin (French part)
+20731,NLA-BO,Bonaire
+20731,BQ,"Bonaire, Sint Eustatius and Saba"
+20731,NLA-SE,Sint Eustatius
+20731,NLA-SA,Saba
+20731,CW,Curaçao
+20731,AL,Albania
+20731,HR,Croatia
+20731,ME,Montenegro
+20731,YT,Mayotte
+20731,BL,Saint Barthélemy
+20731,MS,Montserrat
+20732,GH,Ghana
+20732,PA,Panama
+20732,CM,Cameroon
+20732,CO,Colombia
+20732,GM,Gambia
+20732,CR,Costa Rica
+20732,GN,Guinea
+20732,CD,"Congo, The Democratic Republic of the"
+20732,GP,Guadeloupe
+20732,GQ,Equatorial Guinea
+20732,CG,Congo
+20732,LC,Saint Lucia
+20732,GT,Guatemala
+20732,CI,Côte d'Ivoire
+20732,GW,Guinea-Bissau
+20732,SR,Suriname
+20732,GY,Guyana
+20732,KY,Cayman Islands
+20732,SN,Senegal
+20732,PR,Puerto Rico
+20732,ES,Spain
+20732,AG,Antigua and Barbuda
+20732,NI,Nicaragua
+20732,NG,Nigeria
+20732,PT,Portugal
+20732,MS,Montserrat
+20732,MQ,Martinique
+20732,MR,Mauritania
+20732,AR,Argentina
+20732,US,United States of America
+20732,MX,Mexico
+20732,HN,Honduras
+20732,CNY-OO,Canary Is.
+20732,VI,"Virgin Islands, U.S."
+20732,LR,Liberia
+20732,HT,Haiti
+20732,VG,"Virgin Islands, British"
+20732,VE,"Venezuela, Bolivarian Republic of"
+20732,DM,Dominica
+20732,AZO-OO,Azores
+20732,DO,Dominican Republic
+20732,VC,Saint Vincent and the Grenadines
+20732,UY,Uruguay
+20732,MA,Morocco
+20732,EH,Western Sahara
+20732,NA,Namibia
+20732,AO,Angola
+20732,TT,Trinidad and Tobago
+20732,TG,Togo
+20732,GD,Grenada
+20732,GF,French Guiana
+20732,BS,Bahamas
+20732,BR,Brazil
+20732,JM,Jamaica
+20732,GA,Gabon
+20732,CA,Canada
+20732,BZ,Belize
+20732,MDR-OO,Madeira
+20732,ST,Sao Tome and Principe
+20732,BB,Barbados
+20732,BJ,Benin
+20732,TC,Turks and Caicos Islands
+20732,BM,Bermuda
+20732,CV,Cabo Verde
+20732,SH,"Saint Helena, Ascension and Tristan da Cunha"
+20732,CU,Cuba
+20732,SL,Sierra Leone
+20732,SX,Sint Maarten (Dutch part)
+20732,MF,Saint Martin (French part)
+20732,BQ,"Bonaire, Sint Eustatius and Saba"
+20732,CW,Curaçao
+20732,DZ,Algeria
+20732,NLA-BO,Bonaire
+20732,NLA-SE,Sint Eustatius
+20732,NLA-SA,Saba
+20732,AW,Aruba
+20733,SB,Solomon Islands
+20733,SA,Saudi Arabia
+20733,CK,Cook Islands
+20733,CN,China
+20733,CM,Cameroon
+20733,LK,Sri Lanka
+20733,CO,Colombia
+20733,CR,Costa Rica
+20733,CD,"Congo, The Democratic Republic of the"
+20733,CC,Cocos (Keeling) Islands
+20733,NCB-OO,Nicobar Is.
+20733,CG,Congo
+20733,LC,Saint Lucia
+20733,JAP-HN,Honshu
+20733,CI,Côte d'Ivoire
+20733,SR,Suriname
+20733,GAL-OO,Galápagos
+20733,SO,Somalia
+20733,KY,Cayman Islands
+20733,SN,Senegal
+20733,SL,Sierra Leone
+20733,KN,Saint Kitts and Nevis
+20733,KM,Comoros
+20733,SG,Singapore
+20733,CU,Cuba
+20733,SH,"Saint Helena, Ascension and Tristan da Cunha"
+20733,CV,Cabo Verde
+20733,KR,"Korea, Republic of"
+20733,SC,Seychelles
+20733,KP,"Korea, Democratic People's Republic of"
+20733,AND-AN,Andaman Is.
+20733,SD,Sudan
+20733,BM,Bermuda
+20733,KE,Kenya
+20733,BJ,Benin
+20733,KH,Cambodia
+20733,KI,Kiribati
+20733,BN,Brunei Darussalam
+20733,BD,Bangladesh
+20733,BB,Barbados
+20733,ST,Sao Tome and Principe
+20733,SV,El Salvador
+20733,BZ,Belize
+20733,TL,Timor-Leste
+20733,WS,Samoa
+20733,SOC-OO,Socotra
+20733,FM,"Micronesia, Federated States of"
+20733,FJ,Fiji
+20733,OM,Oman
+20733,NR,Nauru
+20733,NU,Niue
+20733,GA,Gabon
+20733,GF,French Guiana
+20733,NZ,New Zealand
+20733,GD,Grenada
+20733,TV,Tuvalu
+20733,TW,"Taiwan, Province of China"
+20733,NC,New Caledonia
+20733,TT,Trinidad and Tobago
+20733,TZ,"Tanzania, United Republic of"
+20733,NA,Namibia
+20733,EG,Egypt
+20733,EH,Western Sahara
+20733,ER,Eritrea
+20733,NI,Nicaragua
+20733,NG,Nigeria
+20733,MQ,Martinique
+20733,MR,Mauritania
+20733,VC,Saint Vincent and the Grenadines
+20733,DO,Dominican Republic
+20733,MH,Marshall Islands
+20733,DM,Dominica
+20733,VE,"Venezuela, Bolivarian Republic of"
+20733,MG,Madagascar
+20733,VG,"Virgin Islands, British"
+20733,LR,Liberia
+20733,VI,"Virgin Islands, U.S."
+20733,NWJ-OO,New Jersey
+20733,VN,Viet Nam
+20733,EC,Ecuador
+20733,VU,Vanuatu
+20733,UY,Uruguay
+20733,MA,Morocco
+20733,DJ,Djibouti
+20733,MV,Maldives
+20733,MX,Mexico
+20733,US,United States of America
+20733,MZ,Mozambique
+20733,UM,United States Minor Outlying Islands
+20733,MY,Malaysia
+20733,MM,Myanmar
+20733,MP,Northern Mariana Islands
+20733,GY,Guyana
+20733,GW,Guinea-Bissau
+20733,GU,Guam
+20733,GT,Guatemala
+20733,PN,Pitcairn
+20733,PH,Philippines
+20733,GQ,Equatorial Guinea
+20733,GP,Guadeloupe
+20733,WF,Wallis and Futuna
+20733,PK,Pakistan
+20733,GN,Guinea
+20733,GM,Gambia
+20733,PE,Peru
+20733,PF,French Polynesia
+20733,PG,Papua New Guinea
+20733,PA,Panama
+20733,GH,Ghana
+20733,HK,Hong Kong
+20733,ZA,South Africa
+20733,HN,Honduras
+20733,NZN-OO,North Is.
+20733,HT,Haiti
+20733,ID,Indonesia
+20733,HAW-HI,Hawaiian Is.
+20733,AS,American Samoa
+20733,IN,India
+20733,AW,Aruba
+20733,KER-OO,Kermadec Is.
+20733,IO,British Indian Ocean Territory
+20733,AU,Australia
+20733,IR,"Iran, Islamic Republic of"
+20733,YE,Yemen
+20733,NAT-OO,KwaZulu-Natal
+20733,PW,Palau
+20733,AE,United Arab Emirates
+20733,PR,Puerto Rico
+20733,AI,Anguilla
+20733,AO,Angola
+20733,TG,Togo
+20733,JP,Japan
+20733,BS,Bahamas
+20733,JM,Jamaica
+20733,BR,Brazil
+20733,TH,Thailand
+20733,TO,Tonga
+20733,AG,Antigua and Barbuda
+20733,AR,Argentina
+20733,MU,Mauritius
+20733,RE,Réunion
+20733,IQ,Iraq
+20733,IL,Israel
+20733,JO,Jordan
+20733,KW,Kuwait
+20733,TC,Turks and Caicos Islands
+20733,TK,Tokelau
+20733,MS,Montserrat
+20733,SX,Sint Maarten (Dutch part)
+20733,MF,Saint Martin (French part)
+20733,CW,Curaçao
+20733,BQ,"Bonaire, Sint Eustatius and Saba"
+20733,CL,Chile
+20733,BZS-PR,Paraná
+20733,QLD-QU,Queensland
+20733,BH,Bahrain
+20733,NLA-SA,Saba
+20733,NLA-SE,Sint Eustatius
+20733,NLA-BO,Bonaire
+20738,PA,Panama
+20738,GI,Gibraltar
+20738,CN,China
+20738,PG,Papua New Guinea
+20738,CO,Colombia
+20738,LK,Sri Lanka
+20738,PF,French Polynesia
+20738,CR,Costa Rica
+20738,PE,Peru
+20738,PK,Pakistan
+20738,GR,Greece
+20738,PH,Philippines
+20738,GT,Guatemala
+20738,CI,Côte d'Ivoire
+20738,KRI-OO,Kriti
+20738,SR,Suriname
+20738,SO,Somalia
+20738,GY,Guyana
+20738,SN,Senegal
+20738,COR-OO,Corsica
+20738,CU,Cuba
+20738,SH,"Saint Helena, Ascension and Tristan da Cunha"
+20738,KR,"Korea, Republic of"
+20738,KP,"Korea, Democratic People's Republic of"
+20738,KE,Kenya
+20738,TC,Turks and Caicos Islands
+20738,FM,"Micronesia, Federated States of"
+20738,KI,Kiribati
+20738,BD,Bangladesh
+20738,BB,Barbados
+20738,SV,El Salvador
+20738,FR,France
+20738,OM,Oman
+20738,TN,Tunisia
+20738,YE,Yemen
+20738,MM,Myanmar
+20738,AU,Australia
+20738,IN,India
+20738,MY,Malaysia
+20738,MZ,Mozambique
+20738,IL,Israel
+20738,US,United States of America
+20738,MX,Mexico
+20738,MA,Morocco
+20738,UY,Uruguay
+20738,ID,Indonesia
+20738,ZA,South Africa
+20738,HN,Honduras
+20738,CNY-OO,Canary Is.
+20738,LY,Libya
+20738,EC,Ecuador
+20738,VI,"Virgin Islands, U.S."
+20738,DZ,Algeria
+20738,VG,"Virgin Islands, British"
+20738,MG,Madagascar
+20738,VE,"Venezuela, Bolivarian Republic of"
+20738,DM,Dominica
+20738,VC,Saint Vincent and the Grenadines
+20738,DO,Dominican Republic
+20738,IT,Italy
+20738,MR,Mauritania
+20738,SIC-SI,Sicilia
+20738,PT,Portugal
+20738,BAL-OO,Baleares
+20738,NG,Nigeria
+20738,NI,Nicaragua
+20738,ET,Ethiopia
+20738,ES,Spain
+20738,PR,Puerto Rico
+20738,EH,Western Sahara
+20738,EG,Egypt
+20738,SAR-OO,Sardegna
+20738,NA,Namibia
+20738,TZ,"Tanzania, United Republic of"
+20738,AO,Angola
+20738,TT,Trinidad and Tobago
+20738,JP,Japan
+20738,NZ,New Zealand
+20738,GF,French Guiana
+20738,BS,Bahamas
+20738,BR,Brazil
+20738,JM,Jamaica
+20738,TH,Thailand
+20738,CL,Chile
+20738,SB,Solomon Islands
+20738,CK,Cook Islands
+20738,SA,Saudi Arabia
+20738,CM,Cameroon
+20738,CD,"Congo, The Democratic Republic of the"
+20738,CC,Cocos (Keeling) Islands
+20738,LB,Lebanon
+20738,CG,Congo
+20738,LC,Saint Lucia
+20738,KY,Cayman Islands
+20738,SL,Sierra Leone
+20738,KW,Kuwait
+20738,KN,Saint Kitts and Nevis
+20738,SI,Slovenia
+20738,KM,Comoros
+20738,SG,Singapore
+20738,CV,Cabo Verde
+20738,CX,Christmas Island
+20738,CY,Cyprus
+20738,SC,Seychelles
+20738,SD,Sudan
+20738,BJ,Benin
+20738,KH,Cambodia
+20738,BN,Brunei Darussalam
+20738,SY,Syrian Arab Republic
+20738,ST,Sao Tome and Principe
+20738,BH,Bahrain
+20738,BZ,Belize
+20738,TR,Türkiye
+20738,TL,Timor-Leste
+20738,TO,Tonga
+20738,JO,Jordan
+20738,TG,Togo
+20738,YT,Mayotte
+20738,AI,Anguilla
+20738,AL,Albania
+20738,AE,United Arab Emirates
+20738,AG,Antigua and Barbuda
+20738,PW,Palau
+20738,GD,Grenada
+20738,TV,Tuvalu
+20738,TW,"Taiwan, Province of China"
+20738,NC,New Caledonia
+20738,ER,Eritrea
+20738,NF,Norfolk Island
+20738,MS,Montserrat
+20738,MT,Malta
+20738,MQ,Martinique
+20738,MO,Macao
+20738,MP,Northern Mariana Islands
+20738,MH,Marshall Islands
+20738,LR,Liberia
+20738,VN,Viet Nam
+20738,VU,Vanuatu
+20738,ME,Montenegro
+20738,MC,Monaco
+20738,DJ,Djibouti
+20738,MV,Maldives
+20738,MU,Mauritius
+20738,GA,Gabon
+20738,NU,Niue
+20738,NR,Nauru
+20738,FJ,Fiji
+20738,WS,Samoa
+20738,GW,Guinea-Bissau
+20738,GU,Guam
+20738,PN,Pitcairn
+20738,GQ,Equatorial Guinea
+20738,GP,Guadeloupe
+20738,WF,Wallis and Futuna
+20738,GN,Guinea
+20738,GM,Gambia
+20738,GH,Ghana
+20738,HK,Hong Kong
+20738,RE,Réunion
+20738,HR,Croatia
+20738,HT,Haiti
+20738,AS,American Samoa
+20738,AW,Aruba
+20738,QA,Qatar
+20738,IO,British Indian Ocean Territory
+20738,IQ,Iraq
+20738,IR,"Iran, Islamic Republic of"
+20738,BA,Bosnia and Herzegovina
+20738,SX,Sint Maarten (Dutch part)
+20738,MF,Saint Martin (French part)
+20738,BQ,"Bonaire, Sint Eustatius and Saba"
+20738,CW,Curaçao
+20738,NLA-BO,Bonaire
+20738,NLA-SE,Sint Eustatius
+20738,NLA-SA,Saba
+20738,BL,Saint Barthélemy
+20738,BM,Bermuda
+21500,CL,Chile
+21500,NZN-OO,North Is.
+21500,UY,Uruguay
+21500,JNF-OO,Juan Fernández Is.
+21500,TDC-OO,Tristan da Cunha
+21500,AU,Australia
+21500,SH,"Saint Helena, Ascension and Tristan da Cunha"
+21500,NZ,New Zealand
+21500,ZA,South Africa
+21500,NZS-OO,South Is.
+21500,AR,Argentina
+21500,CTM-OO,Chatham Is.
+22102,CO,Colombia
+22102,PE,Peru
+22102,EC,Ecuador
+22102,BR,Brazil
+22102,GY,Guyana
+22103,PA,Panama
+22103,TT,Trinidad and Tobago
+22103,AI,Anguilla
+22103,CO,Colombia
+22103,CR,Costa Rica
+22103,CW,Curaçao
+22103,GP,Guadeloupe
+22103,PR,Puerto Rico
+22103,AG,Antigua and Barbuda
+22103,NI,Nicaragua
+22103,GT,Guatemala
+22103,LC,Saint Lucia
+22103,MS,Montserrat
+22103,SR,Suriname
+22103,MQ,Martinique
+22103,GY,Guyana
+22103,DM,Dominica
+22103,VE,"Venezuela, Bolivarian Republic of"
+22103,NLA-BO,Bonaire
+22103,VG,"Virgin Islands, British"
+22103,HT,Haiti
+22103,BZ,Belize
+22103,VI,"Virgin Islands, U.S."
+22103,JM,Jamaica
+22103,BR,Brazil
+22103,HN,Honduras
+22103,BS,Bahamas
+22103,GF,French Guiana
+22103,GD,Grenada
+22103,VC,Saint Vincent and the Grenadines
+22103,DO,Dominican Republic
+22103,MF,Saint Martin (French part)
+22103,BB,Barbados
+22103,TC,Turks and Caicos Islands
+22103,BL,Saint Barthélemy
+22103,US,United States of America
+22103,MX,Mexico
+22103,CU,Cuba
+22103,AW,Aruba
+22103,KN,Saint Kitts and Nevis
+22103,KY,Cayman Islands
+22103,NLA-SA,Saba
+22103,BQ,"Bonaire, Sint Eustatius and Saba"
+22103,NLA-SE,Sint Eustatius
+22103,SX,Sint Maarten (Dutch part)
+22104,NE,Niger
+22104,GH,Ghana
+22104,BJ,Benin
+22104,CM,Cameroon
+22104,AO,Angola
+22104,GM,Gambia
+22104,GN,Guinea
+22104,CD,"Congo, The Democratic Republic of the"
+22104,TG,Togo
+22104,TD,Chad
+22104,GA,Gabon
+22104,SL,Sierra Leone
+22104,SN,Senegal
+22104,MR,Mauritania
+22104,LR,Liberia
+22104,GW,Guinea-Bissau
+22104,CI,Côte d'Ivoire
+22104,NG,Nigeria
+22104,CG,Congo
+22104,ML,Mali
+22104,GQ,Equatorial Guinea
+22563,CL,Chile
+22563,CN,China
+22563,LK,Sri Lanka
+22563,NA,Namibia
+22563,PR,Puerto Rico
+22563,NL,Netherlands
+22563,UA,Ukraine
+22563,PT,Portugal
+22563,MT,Malta
+22563,IT,Italy
+22563,AU,Australia
+22563,IN,India
+22563,MY,Malaysia
+22563,MZ,Mozambique
+22563,AR,Argentina
+22563,ZA,South Africa
+22563,HN,Honduras
+22563,LY,Libya
+22563,RO,Romania
+22563,VE,"Venezuela, Bolivarian Republic of"
+22563,VC,Saint Vincent and the Grenadines
+22563,ID,Indonesia
+22563,DE,Germany
+22563,UY,Uruguay
+22563,DK,Denmark
+22563,IE,Ireland
+22563,MX,Mexico
+22563,US,United States of America
+22563,TZ,"Tanzania, United Republic of"
+22563,TW,"Taiwan, Province of China"
+22563,JP,Japan
+22563,GE,Georgia
+22563,BR,Brazil
+22563,TH,Thailand
+22563,GB,United Kingdom of Great Britain and Northern Ireland
+22563,TN,Tunisia
+22563,CA,Canada
+22563,TR,Türkiye
+22563,BG,Bulgaria
+22563,FR,France
+22563,BB,Barbados
+22563,BD,Bangladesh
+22563,KE,Kenya
+22563,FI,Finland
+22563,SC,Seychelles
+22563,WS,Samoa
+22563,SH,"Saint Helena, Ascension and Tristan da Cunha"
+22563,SN,Senegal
+22563,PL,Poland
+22563,RU,Russian Federation
+22563,PK,Pakistan
+22563,GL,Greenland
+22563,SB,Solomon Islands
+22563,SA,Saudi Arabia
+22563,CK,Cook Islands
+22563,CM,Cameroon
+22563,CO,Colombia
+22563,CR,Costa Rica
+22563,CD,"Congo, The Democratic Republic of the"
+22563,CC,Cocos (Keeling) Islands
+22563,LB,Lebanon
+22563,LC,Saint Lucia
+22563,CG,Congo
+22563,CI,Côte d'Ivoire
+22563,SR,Suriname
+22563,SO,Somalia
+22563,KY,Cayman Islands
+22563,SL,Sierra Leone
+22563,KW,Kuwait
+22563,SI,Slovenia
+22563,KN,Saint Kitts and Nevis
+22563,KM,Comoros
+22563,SG,Singapore
+22563,CU,Cuba
+22563,CV,Cabo Verde
+22563,KR,"Korea, Republic of"
+22563,SE,Sweden
+22563,CX,Christmas Island
+22563,CY,Cyprus
+22563,KP,"Korea, Democratic People's Republic of"
+22563,SD,Sudan
+22563,BM,Bermuda
+22563,TC,Turks and Caicos Islands
+22563,BJ,Benin
+22563,KH,Cambodia
+22563,KI,Kiribati
+22563,BN,Brunei Darussalam
+22563,BE,Belgium
+22563,SY,Syrian Arab Republic
+22563,ST,Sao Tome and Principe
+22563,BH,Bahrain
+22563,SV,El Salvador
+22563,BZ,Belize
+22563,TL,Timor-Leste
+22563,TO,Tonga
+22563,JM,Jamaica
+22563,TK,Tokelau
+22563,BS,Bahamas
+22563,JO,Jordan
+22563,TG,Togo
+22563,YT,Mayotte
+22563,AO,Angola
+22563,JE,Jersey
+22563,AI,Anguilla
+22563,AL,Albania
+22563,AE,United Arab Emirates
+22563,AG,Antigua and Barbuda
+22563,PW,Palau
+22563,BA,Bosnia and Herzegovina
+22563,YE,Yemen
+22563,IR,"Iran, Islamic Republic of"
+22563,IQ,Iraq
+22563,IO,British Indian Ocean Territory
+22563,QA,Qatar
+22563,AW,Aruba
+22563,IM,Isle of Man
+22563,IL,Israel
+22563,AS,American Samoa
+22563,TV,Tuvalu
+22563,TT,Trinidad and Tobago
+22563,NC,New Caledonia
+22563,EG,Egypt
+22563,EH,Western Sahara
+22563,ER,Eritrea
+22563,ES,Spain
+22563,NI,Nicaragua
+22563,NG,Nigeria
+22563,NF,Norfolk Island
+22563,MS,Montserrat
+22563,MQ,Martinique
+22563,MR,Mauritania
+22563,MO,Macao
+22563,MP,Northern Mariana Islands
+22563,MM,Myanmar
+22563,MH,Marshall Islands
+22563,DM,Dominica
+22563,MG,Madagascar
+22563,VG,"Virgin Islands, British"
+22563,DZ,Algeria
+22563,VI,"Virgin Islands, U.S."
+22563,LR,Liberia
+22563,VN,Viet Nam
+22563,EC,Ecuador
+22563,VU,Vanuatu
+22563,DO,Dominican Republic
+22563,ME,Montenegro
+22563,MC,Monaco
+22563,MA,Morocco
+22563,DJ,Djibouti
+22563,MV,Maldives
+22563,MU,Mauritius
+22563,GD,Grenada
+22563,GF,French Guiana
+22563,NZ,New Zealand
+22563,GA,Gabon
+22563,NU,Niue
+22563,NR,Nauru
+22563,NO,Norway
+22563,OM,Oman
+22563,FO,Faroe Islands
+22563,FK,Falkland Islands (Malvinas)
+22563,FJ,Fiji
+22563,FM,"Micronesia, Federated States of"
+22563,GY,Guyana
+22563,GW,Guinea-Bissau
+22563,PM,Saint Pierre and Miquelon
+22563,GU,Guam
+22563,PN,Pitcairn
+22563,GT,Guatemala
+22563,PH,Philippines
+22563,GR,Greece
+22563,GQ,Equatorial Guinea
+22563,WF,Wallis and Futuna
+22563,GP,Guadeloupe
+22563,GN,Guinea
+22563,GM,Gambia
+22563,PE,Peru
+22563,PF,French Polynesia
+22563,PG,Papua New Guinea
+22563,GI,Gibraltar
+22563,PA,Panama
+22563,GH,Ghana
+22563,GG,Guernsey
+22563,HK,Hong Kong
+22563,RE,Réunion
+22563,HR,Croatia
+22563,HT,Haiti
+22563,CW,Curaçao
+22563,BQ,"Bonaire, Sint Eustatius and Saba"
+22563,MF,Saint Martin (French part)
+22563,SX,Sint Maarten (Dutch part)
+22563,NFL-NE,Newfoundland I
+22563,NLA-BO,Bonaire
+22563,NLA-SE,Sint Eustatius
+22563,NLA-SA,Saba
+23211,CL,Chile
+23211,TW,"Taiwan, Province of China"
+23211,CN,China
+23211,PA,Panama
+23211,NA,Namibia
+23211,LK,Sri Lanka
+23211,ES,Spain
+23211,RU,Russian Federation
+23211,PT,Portugal
+23211,FK,Falkland Islands (Malvinas)
+23211,BB,Barbados
+23211,VC,Saint Vincent and the Grenadines
+23211,FR,France
+23211,VE,"Venezuela, Bolivarian Republic of"
+23211,CA,Canada
+23211,GB,United Kingdom of Great Britain and Northern Ireland
+23211,EC,Ecuador
+23211,BR,Brazil
+23211,BS,Bahamas
+23211,ZA,South Africa
+23211,NZ,New Zealand
+23211,JP,Japan
+23211,ID,Indonesia
+23211,UY,Uruguay
+23211,MA,Morocco
+23211,IE,Ireland
+23211,SC,Seychelles
+23211,US,United States of America
+23211,AR,Argentina
+23211,MX,Mexico
+23211,CU,Cuba
+23211,KM,Comoros
+23211,AU,Australia
+23211,IT,Italy
+23211,SX,Sint Maarten (Dutch part)
+23211,MF,Saint Martin (French part)
+23211,CW,Curaçao
+23211,AW,Aruba
+23211,BQ,"Bonaire, Sint Eustatius and Saba"
+23211,SB,Solomon Islands
+23211,CK,Cook Islands
+23211,SA,Saudi Arabia
+23211,CM,Cameroon
+23211,CO,Colombia
+23211,CR,Costa Rica
+23211,CD,"Congo, The Democratic Republic of the"
+23211,CC,Cocos (Keeling) Islands
+23211,LB,Lebanon
+23211,CG,Congo
+23211,LC,Saint Lucia
+23211,CI,Côte d'Ivoire
+23211,SR,Suriname
+23211,SO,Somalia
+23211,KY,Cayman Islands
+23211,SN,Senegal
+23211,KW,Kuwait
+23211,SL,Sierra Leone
+23211,SI,Slovenia
+23211,KN,Saint Kitts and Nevis
+23211,SG,Singapore
+23211,CV,Cabo Verde
+23211,SH,"Saint Helena, Ascension and Tristan da Cunha"
+23211,SE,Sweden
+23211,KR,"Korea, Republic of"
+23211,CY,Cyprus
+23211,KP,"Korea, Democratic People's Republic of"
+23211,SD,Sudan
+23211,BM,Bermuda
+23211,KE,Kenya
+23211,TC,Turks and Caicos Islands
+23211,BJ,Benin
+23211,KH,Cambodia
+23211,KI,Kiribati
+23211,BN,Brunei Darussalam
+23211,BE,Belgium
+23211,BD,Bangladesh
+23211,SY,Syrian Arab Republic
+23211,ST,Sao Tome and Principe
+23211,SV,El Salvador
+23211,BZ,Belize
+23211,TR,Türkiye
+23211,TL,Timor-Leste
+23211,TN,Tunisia
+23211,TO,Tonga
+23211,TH,Thailand
+23211,JM,Jamaica
+23211,TK,Tokelau
+23211,TG,Togo
+23211,AO,Angola
+23211,YT,Mayotte
+23211,AI,Anguilla
+23211,AL,Albania
+23211,PS,"Palestine, State of"
+23211,PR,Puerto Rico
+23211,AE,United Arab Emirates
+23211,AG,Antigua and Barbuda
+23211,PW,Palau
+23211,BA,Bosnia and Herzegovina
+23211,IS,Iceland
+23211,YE,Yemen
+23211,IR,"Iran, Islamic Republic of"
+23211,GD,Grenada
+23211,TV,Tuvalu
+23211,NC,New Caledonia
+23211,TT,Trinidad and Tobago
+23211,TZ,"Tanzania, United Republic of"
+23211,EG,Egypt
+23211,EH,Western Sahara
+23211,ER,Eritrea
+23211,NL,Netherlands
+23211,NI,Nicaragua
+23211,NG,Nigeria
+23211,NF,Norfolk Island
+23211,MS,Montserrat
+23211,MT,Malta
+23211,MQ,Martinique
+23211,MR,Mauritania
+23211,MP,Northern Mariana Islands
+23211,MM,Myanmar
+23211,MY,Malaysia
+23211,MZ,Mozambique
+23211,ME,Montenegro
+23211,MH,Marshall Islands
+23211,DM,Dominica
+23211,MG,Madagascar
+23211,VG,"Virgin Islands, British"
+23211,DZ,Algeria
+23211,LR,Liberia
+23211,VI,"Virgin Islands, U.S."
+23211,LY,Libya
+23211,VN,Viet Nam
+23211,VU,Vanuatu
+23211,DO,Dominican Republic
+23211,DE,Germany
+23211,MC,Monaco
+23211,DK,Denmark
+23211,DJ,Djibouti
+23211,MV,Maldives
+23211,MU,Mauritius
+23211,GF,French Guiana
+23211,GA,Gabon
+23211,NU,Niue
+23211,NR,Nauru
+23211,NO,Norway
+23211,OM,Oman
+23211,FO,Faroe Islands
+23211,FJ,Fiji
+23211,FM,"Micronesia, Federated States of"
+23211,WS,Samoa
+23211,GY,Guyana
+23211,GW,Guinea-Bissau
+23211,PM,Saint Pierre and Miquelon
+23211,GU,Guam
+23211,PN,Pitcairn
+23211,GT,Guatemala
+23211,PH,Philippines
+23211,GR,Greece
+23211,GQ,Equatorial Guinea
+23211,WF,Wallis and Futuna
+23211,GP,Guadeloupe
+23211,PK,Pakistan
+23211,GN,Guinea
+23211,PE,Peru
+23211,GM,Gambia
+23211,PF,French Polynesia
+23211,PG,Papua New Guinea
+23211,GI,Gibraltar
+23211,GH,Ghana
+23211,RE,Réunion
+23211,HN,Honduras
+23211,HR,Croatia
+23211,HT,Haiti
+23211,AS,American Samoa
+23211,AQ,Antarctica
+23211,IL,Israel
+23211,QA,Qatar
+23211,IN,India
+23211,IO,British Indian Ocean Territory
+23211,NLA-BO,Bonaire
+23211,NLA-SE,Sint Eustatius
+23211,NLA-SA,Saba
+29672,CN,China
+29672,LI,Liechtenstein
+29672,PK,Pakistan
+29672,GR,Greece
+29672,RU,Russian Federation
+29672,LB,Lebanon
+29672,CH,Switzerland
+29672,RS,Serbia
+29672,ES,Spain
+29672,UA,Ukraine
+29672,PT,Portugal
+29672,BA,Bosnia and Herzegovina
+29672,IT,Italy
+29672,AZ,Azerbaijan
+29672,IR,"Iran, Islamic Republic of"
+29672,IQ,Iraq
+29672,MN,Mongolia
+29672,IN,India
+29672,IL,Israel
+29672,US,United States of America
+29672,LV,Latvia
+29672,LU,Luxembourg
+29672,LT,Lithuania
+29672,HR,Croatia
+29672,RO,Romania
+29672,HU,Hungary
+29672,ME,Montenegro
+29672,MK,North Macedonia
+29672,DE,Germany
+29672,UZ,Uzbekistan
+29672,MD,"Moldova, Republic of"
+29672,DK,Denmark
+29672,AT,Austria
+29672,NL,Netherlands
+29672,AF,Afghanistan
+29672,EG,Egypt
+29672,AL,Albania
+29672,EE,Estonia
+29672,AM,Armenia
+29672,GE,Georgia
+29672,BY,Belarus
+29672,JO,Jordan
+29672,TJ,Tajikistan
+29672,BT,Bhutan
+29672,TM,Turkmenistan
+29672,TR,Türkiye
+29672,NP,Nepal
+29672,FR,France
+29672,BG,Bulgaria
+29672,SY,Syrian Arab Republic
+29672,BE,Belgium
+29672,KG,Kyrgyzstan
+29672,CZ,Czechia
+29672,SI,Slovenia
+29672,SK,Slovakia
+29672,KZ,Kazakhstan
+29672,PL,Poland
+29673,CN,China
+29673,EE,Estonia
+29673,AL,Albania
+29673,AF,Afghanistan
+29673,NL,Netherlands
+29673,ES,Spain
+29673,GR,Greece
+29673,RU,Russian Federation
+29673,CH,Switzerland
+29673,UA,Ukraine
+29673,RS,Serbia
+29673,PL,Poland
+29673,PT,Portugal
+29673,BA,Bosnia and Herzegovina
+29673,IT,Italy
+29673,DE,Germany
+29673,BE,Belgium
+29673,MK,North Macedonia
+29673,BG,Bulgaria
+29673,FR,France
+29673,HU,Hungary
+29673,NO,Norway
+29673,RO,Romania
+29673,HR,Croatia
+29673,GB,United Kingdom of Great Britain and Northern Ireland
+29673,LT,Lithuania
+29673,LU,Luxembourg
+29673,LV,Latvia
+29673,MD,"Moldova, Republic of"
+29673,FI,Finland
+29673,DK,Denmark
+29673,IE,Ireland
+29673,CZ,Czechia
+29673,AT,Austria
+29673,SE,Sweden
+29673,IL,Israel
+29673,SI,Slovenia
+29673,IQ,Iraq
+29673,SK,Slovakia
+29673,IR,"Iran, Islamic Republic of"
+29673,LI,Liechtenstein
+29673,AM,Armenia
+29673,AZ,Azerbaijan
+29673,JP,Japan
+29673,GE,Georgia
+29673,BY,Belarus
+29673,JO,Jordan
+29673,TM,Turkmenistan
+29673,TR,Türkiye
+29673,SY,Syrian Arab Republic
+29673,KP,"Korea, Democratic People's Republic of"
+29673,KR,"Korea, Republic of"
+29673,KZ,Kazakhstan
+29673,LB,Lebanon
+29673,UZ,Uzbekistan
+29673,KG,Kyrgyzstan
+29673,SIN-OO,Sinai
+29673,EG,Egypt
+29673,ME,Montenegro
+29674,CN,China
+29674,LI,Liechtenstein
+29674,PK,Pakistan
+29674,GR,Greece
+29674,AL,Albania
+29674,AF,Afghanistan
+29674,NL,Netherlands
+29674,ES,Spain
+29674,UA,Ukraine
+29674,PT,Portugal
+29674,BA,Bosnia and Herzegovina
+29674,IT,Italy
+29674,AZ,Azerbaijan
+29674,MN,Mongolia
+29674,IN,India
+29674,US,United States of America
+29674,LV,Latvia
+29674,LU,Luxembourg
+29674,LT,Lithuania
+29674,HR,Croatia
+29674,RO,Romania
+29674,HU,Hungary
+29674,MK,North Macedonia
+29674,DE,Germany
+29674,UZ,Uzbekistan
+29674,MD,"Moldova, Republic of"
+29674,DK,Denmark
+29674,IE,Ireland
+29674,AT,Austria
+29674,EE,Estonia
+29674,JP,Japan
+29674,GE,Georgia
+29674,BY,Belarus
+29674,NZ,New Zealand
+29674,TJ,Tajikistan
+29674,GB,United Kingdom of Great Britain and Northern Ireland
+29674,CA,Canada
+29674,TR,Türkiye
+29674,NO,Norway
+29674,FR,France
+29674,BG,Bulgaria
+29674,BE,Belgium
+29674,KG,Kyrgyzstan
+29674,FI,Finland
+29674,CZ,Czechia
+29674,SE,Sweden
+29674,SI,Slovenia
+29674,SK,Slovakia
+29674,KZ,Kazakhstan
+29674,PL,Poland
+29674,RS,Serbia
+29674,RU,Russian Federation
+29674,CH,Switzerland
+29674,AD,Andorra
+29674,ME,Montenegro
+29679,MD,"Moldova, Republic of"
+29679,CN,China
+29679,KG,Kyrgyzstan
+29679,UZ,Uzbekistan
+29679,RU,Russian Federation
+29679,ME,Montenegro
+29679,RS,Serbia
+29679,UA,Ukraine
+29679,BG,Bulgaria
+29679,AT,Austria
+29679,CZ,Czechia
+29679,GE,Georgia
+29679,BY,Belarus
+29679,IN,India
+29679,TJ,Tajikistan
+29679,MN,Mongolia
+29679,SK,Slovakia
+29679,TM,Turkmenistan
+29679,RO,Romania
+29679,KZ,Kazakhstan
+29679,HU,Hungary
+29679,PL,Poland
+29679,AM,Armenia
+29679,AZ,Azerbaijan
+29679,NP,Nepal
+29680,AM,Armenia
+29680,CN,China
+29680,UZ,Uzbekistan
+29680,PK,Pakistan
+29680,AF,Afghanistan
+29680,SY,Syrian Arab Republic
+29680,GR,Greece
+29680,MK,North Macedonia
+29680,RU,Russian Federation
+29680,LB,Lebanon
+29680,ME,Montenegro
+29680,GE,Georgia
+29680,IL,Israel
+29680,MN,Mongolia
+29680,IQ,Iraq
+29680,IR,"Iran, Islamic Republic of"
+29680,TM,Turkmenistan
+29680,RO,Romania
+29680,AZ,Azerbaijan
+29680,KZ,Kazakhstan
+29680,TR,Türkiye
+29680,RS,Serbia
+29680,UA,Ukraine
+29680,BG,Bulgaria
+29680,EG,Egypt
+29680,SIN-OO,Sinai
+40635,TW,"Taiwan, Province of China"
+40635,MY,Malaysia
+40635,MZ,Mozambique
+40635,US,United States of America
+40635,MX,Mexico
+40635,MV,Maldives
+40635,HAW-HI,Hawaiian Is.
+40635,KE,Kenya
+40635,ID,Indonesia
+40635,MG,Madagascar
+40635,TH,Thailand
+40635,VN,Viet Nam
+40635,ZA,South Africa
+40635,JP,Japan
+40635,IN,India
+40635,KM,Comoros
+40635,AU,Australia
+40635,SO,Somalia
+40635,PH,Philippines
+40635,PK,Pakistan
+40635,LK,Sri Lanka
+40635,TZ,"Tanzania, United Republic of"
+40635,YT,Mayotte
+40635,CN,China
+40635,NC,New Caledonia
+40635,SA,Saudi Arabia
+40635,MM,Myanmar
+40784,MAS-OO,Massachusetts
+40784,MAI-OO,Maine
+40784,US,United States of America
+40784,CA,Canada
+40784,NBR-OO,New Brunswick
+40784,NFL-NE,Newfoundland I
+41625,CN,China
+41625,MY,Malaysia
+41625,IN,India
+41625,VN,Viet Nam
+41625,TH,Thailand
+41625,BT,Bhutan
+41625,MN,Mongolia
+41625,MM,Myanmar
+41625,LA,Lao People's Democratic Republic
+41625,SUM-OO,Sumatera
+41625,MLY-PM,Peninsular Malaysia
+41625,ID,Indonesia
+41625,ASS-AS,Assam
+41625,KH,Cambodia
+41626,TW,"Taiwan, Province of China"
+41626,CN,China
+41626,MM,Myanmar
+41626,VN,Viet Nam
+41626,IN,India
+41626,LA,Lao People's Democratic Republic
+41626,BT,Bhutan
+41627,CN,China
+41627,KH,Cambodia
+41627,MM,Myanmar
+41627,TH,Thailand
+41627,VN,Viet Nam
+41627,IN,India
+41627,LA,Lao People's Democratic Republic
+41627,NP,Nepal
+41627,MY,Malaysia
+41627,BD,Bangladesh
+41629,GH,Ghana
+41629,SA,Saudi Arabia
+41629,CM,Cameroon
+41629,GM,Gambia
+41629,CD,"Congo, The Democratic Republic of the"
+41629,PK,Pakistan
+41629,GQ,Equatorial Guinea
+41629,CF,Central African Republic
+41629,RW,Rwanda
+41629,LB,Lebanon
+41629,CG,Congo
+41629,NA,Namibia
+41629,EG,Egypt
+41629,EH,Western Sahara
+41629,AF,Afghanistan
+41629,ER,Eritrea
+41629,AE,United Arab Emirates
+41629,ET,Ethiopia
+41629,NG,Nigeria
+41629,UG,Uganda
+41629,MR,Mauritania
+41629,YE,Yemen
+41629,IR,"Iran, Islamic Republic of"
+41629,ZA,South Africa
+41629,LR,Liberia
+41629,DZ,Algeria
+41629,ML,Mali
+41629,ZM,Zambia
+41629,ZW,Zimbabwe
+41629,MA,Morocco
+41629,DJ,Djibouti
+41629,MW,Malawi
+41629,IL,Israel
+41629,MZ,Mozambique
+41629,IN,India
+41629,IQ,Iraq
+41629,TZ,"Tanzania, United Republic of"
+41629,AO,Angola
+41629,NE,Niger
+41629,BW,Botswana
+41629,TG,Togo
+41629,TD,Chad
+41629,JO,Jordan
+41629,GA,Gabon
+41629,TM,Turkmenistan
+41629,NP,Nepal
+41629,BF,Burkina Faso
+41629,OM,Oman
+41629,BI,Burundi
+41629,SY,Syrian Arab Republic
+41629,SZ,Eswatini
+41629,BJ,Benin
+41629,KE,Kenya
+41629,SD,Sudan
+41629,KW,Kuwait
+41629,SL,Sierra Leone
+41629,SN,Senegal
+41629,SO,Somalia
+41629,GW,Guinea-Bissau
+41629,CI,Côte d'Ivoire
+41629,GN,Guinea
+41629,UZ,Uzbekistan
+41629,KZ,Kazakhstan
+41629,SS,South Sudan
+41629,QA,Qatar
+41639,CL,Chile
+41639,PY,Paraguay
+41639,PE,Peru
+41639,BO,"Bolivia, Plurinational State of"
+41639,BR,Brazil
+41639,AR,Argentina
+41640,PA,Panama
+41640,CO,Colombia
+41640,CR,Costa Rica
+41640,BO,"Bolivia, Plurinational State of"
+41640,MX,Mexico
+41640,GF,French Guiana
+41640,HN,Honduras
+41640,BR,Brazil
+41640,EC,Ecuador
+41640,GY,Guyana
+41640,BZ,Belize
+41640,SR,Suriname
+41640,VE,"Venezuela, Bolivarian Republic of"
+41640,SV,El Salvador
+41640,GT,Guatemala
+41640,NI,Nicaragua
+41640,PE,Peru
+41644,PA,Panama
+41644,TT,Trinidad and Tobago
+41644,PY,Paraguay
+41644,CO,Colombia
+41644,CR,Costa Rica
+41644,BO,"Bolivia, Plurinational State of"
+41644,PE,Peru
+41644,AR,Argentina
+41644,MX,Mexico
+41644,GF,French Guiana
+41644,HN,Honduras
+41644,BR,Brazil
+41644,EC,Ecuador
+41644,GY,Guyana
+41644,BZ,Belize
+41644,SR,Suriname
+41644,VE,"Venezuela, Bolivarian Republic of"
+41644,SV,El Salvador
+41644,GT,Guatemala
+41644,NI,Nicaragua
+41645,NE,Niger
+41645,DZ,Algeria
+41645,MA,Morocco
+41645,MR,Mauritania
+41645,TN,Tunisia
+41645,EG,Egypt
+41645,EH,Western Sahara
+41645,LY,Libya
+41645,ML,Mali
+41645,TD,Chad
+41645,NG,Nigeria
+41645,SD,Sudan
+41645,SN,Senegal
+41645,BF,Burkina Faso
+41645,ER,Eritrea
+41646,NE,Niger
+41646,GH,Ghana
+41646,AO,Angola
+41646,CM,Cameroon
+41646,NA,Namibia
+41646,TZ,"Tanzania, United Republic of"
+41646,GM,Gambia
+41646,GN,Guinea
+41646,CD,"Congo, The Democratic Republic of the"
+41646,ER,Eritrea
+41646,CF,Central African Republic
+41646,RW,Rwanda
+41646,ET,Ethiopia
+41646,KE,Kenya
+41646,BJ,Benin
+41646,ZW,Zimbabwe
+41646,ZM,Zambia
+41646,ML,Mali
+41646,SZ,Eswatini
+41646,BI,Burundi
+41646,BF,Burkina Faso
+41646,LS,Lesotho
+41646,TD,Chad
+41646,ZA,South Africa
+41646,BW,Botswana
+41646,TG,Togo
+41646,DJ,Djibouti
+41646,SD,Sudan
+41646,MW,Malawi
+41646,MZ,Mozambique
+41646,SN,Senegal
+41646,MR,Mauritania
+41646,SO,Somalia
+41646,UG,Uganda
+41646,GW,Guinea-Bissau
+41646,CI,Côte d'Ivoire
+41646,NG,Nigeria
+41646,CG,Congo
+41646,SS,South Sudan
+41646,EG,Egypt
+41646,GQ,Equatorial Guinea
+41646,LR,Liberia
+41646,GA,Gabon
+41646,SL,Sierra Leone
+41647,CL,Chile
+41647,AR,Argentina
+41648,CA,Canada
+41648,US,United States of America
+41649,KP,"Korea, Democratic People's Republic of"
+41649,BOR-KA,Kalimantan
+41649,KH,Cambodia
+41649,ID,Indonesia
+41649,BN,Brunei Darussalam
+41649,MLY-PM,Peninsular Malaysia
+41649,SUM-OO,Sumatera
+41649,BD,Bangladesh
+41649,NP,Nepal
+41649,TH,Thailand
+41649,BT,Bhutan
+41649,VN,Viet Nam
+41649,BOR-SB,Sabah
+41649,KR,"Korea, Republic of"
+41649,IN,India
+41649,MY,Malaysia
+41649,SG,Singapore
+41649,MM,Myanmar
+41649,LA,Lao People's Democratic Republic
+41649,RU,Russian Federation
+41649,JAW-OO,Jawa
+41649,PK,Pakistan
+41649,CN,China
+41649,TW,"Taiwan, Province of China"
+41649,BOR-SR,Sarawak
+41649,AF,Afghanistan
+41650,JAP-SH,Shikoku
+41650,KR,"Korea, Republic of"
+41650,JAP-KY,Kyushu
+41650,JAP-HN,Honshu
+41650,KP,"Korea, Democratic People's Republic of"
+41650,JP,Japan
+41651,CA,Canada
+41651,US,United States of America
+41652,FI,Finland
+41652,CN,China
+41652,JAP-HK,Hokkaido
+41652,MN,Mongolia
+41652,RU,Russian Federation
+41652,KP,"Korea, Democratic People's Republic of"
+41652,PL,Poland
+41652,JP,Japan
+41652,KZ,Kazakhstan
+41653,CN,China
+41653,KZ,Kazakhstan
+41653,KG,Kyrgyzstan
+41653,MN,Mongolia
+41653,PK,Pakistan
+41653,BT,Bhutan
+41653,IN,India
+41653,TJ,Tajikistan
+41653,RU,Russian Federation
+41653,KP,"Korea, Democratic People's Republic of"
+41653,KR,"Korea, Republic of"
+41653,NP,Nepal
+41653,AF,Afghanistan
+41654,PA,Panama
+41654,CO,Colombia
+41654,BO,"Bolivia, Plurinational State of"
+41654,US,United States of America
+41654,MX,Mexico
+41654,HN,Honduras
+41654,BR,Brazil
+41654,EC,Ecuador
+41654,CA,Canada
+41654,BZ,Belize
+41654,VE,"Venezuela, Bolivarian Republic of"
+41654,SV,El Salvador
+41654,GT,Guatemala
+41654,NI,Nicaragua
+41654,CR,Costa Rica
+41654,PE,Peru
+41654,GY,Guyana
+41655,CN,China
+41655,NP,Nepal
+41655,MM,Myanmar
+41655,BT,Bhutan
+41655,TH,Thailand
+41655,VN,Viet Nam
+41655,IN,India
+41655,LA,Lao People's Democratic Republic
+41655,TW,"Taiwan, Province of China"
+41655,PK,Pakistan
+41655,KH,Cambodia
+41656,JP,Japan
+41656,RU,Russian Federation
+41657,BOR-SR,Sarawak
+41657,BOR-KA,Kalimantan
+41657,ID,Indonesia
+41657,BN,Brunei Darussalam
+41657,TH,Thailand
+41657,MLY-PM,Peninsular Malaysia
+41657,SUM-OO,Sumatera
+41657,MY,Malaysia
+41657,BOR-SB,Sabah
+41658,GI,Gibraltar
+41658,EE,Estonia
+41658,AL,Albania
+41658,LI,Liechtenstein
+41658,NL,Netherlands
+41658,ES,Spain
+41658,GR,Greece
+41658,RU,Russian Federation
+41658,CH,Switzerland
+41658,AD,Andorra
+41658,UA,Ukraine
+41658,RS,Serbia
+41658,PL,Poland
+41658,PT,Portugal
+41658,BA,Bosnia and Herzegovina
+41658,IT,Italy
+41658,SK,Slovakia
+41658,BG,Bulgaria
+41658,FR,France
+41658,HU,Hungary
+41658,NO,Norway
+41658,TR,Türkiye
+41658,RO,Romania
+41658,HR,Croatia
+41658,GB,United Kingdom of Great Britain and Northern Ireland
+41658,LT,Lithuania
+41658,NZ,New Zealand
+41658,LU,Luxembourg
+41658,BY,Belarus
+41658,LV,Latvia
+41658,ME,Montenegro
+41658,MK,North Macedonia
+41658,BE,Belgium
+41658,DE,Germany
+41658,MD,"Moldova, Republic of"
+41658,FI,Finland
+41658,DK,Denmark
+41658,MA,Morocco
+41658,CZ,Czechia
+41658,AT,Austria
+41658,SE,Sweden
+41658,SI,Slovenia
+41658,DZ,Algeria
+41659,KP,"Korea, Democratic People's Republic of"
+41659,KR,"Korea, Republic of"
+41659,IN,India
+41659,VN,Viet Nam
+41659,TH,Thailand
+41659,BT,Bhutan
+41659,MM,Myanmar
+41659,NP,Nepal
+41659,LA,Lao People's Democratic Republic
+41659,RU,Russian Federation
+41659,PK,Pakistan
+41659,CN,China
+41659,TW,"Taiwan, Province of China"
+41659,JP,Japan
+41659,MN,Mongolia
+41660,EG,Egypt
+41660,EGY-OO,Egypt (African part)
+41661,CZ,Czechia
+41661,DK,Denmark
+41661,FI,Finland
+41661,DE,Germany
+41661,BE,Belgium
+41661,ME,Montenegro
+41661,FR,France
+41661,NO,Norway
+41661,CA,Canada
+41661,GB,United Kingdom of Great Britain and Northern Ireland
+41661,LT,Lithuania
+41661,BY,Belarus
+41661,LV,Latvia
+41661,US,United States of America
+41661,SE,Sweden
+41661,IS,Iceland
+41661,IT,Italy
+41661,PL,Poland
+41661,PT,Portugal
+41661,UA,Ukraine
+41661,RS,Serbia
+41661,RU,Russian Federation
+41661,ES,Spain
+41661,NL,Netherlands
+41661,EE,Estonia
+41661,IR,"Iran, Islamic Republic of"
+41661,AR,Argentina
+41661,CL,Chile
+41661,IE,Ireland
+41661,RO,Romania
+41661,AT,Austria
+41661,GR,Greece
+41661,HU,Hungary
+41661,LU,Luxembourg
+41661,SI,Slovenia
+41661,SK,Slovakia
+41661,JP,Japan
+41662,KE,Kenya
+41662,AO,Angola
+41662,BW,Botswana
+41662,MW,Malawi
+41662,ZA,South Africa
+41662,MZ,Mozambique
+41662,UG,Uganda
+41662,BI,Burundi
+41662,RW,Rwanda
+41662,SZ,Eswatini
+41662,ZM,Zambia
+41662,CD,"Congo, The Democratic Republic of the"
+41662,ZW,Zimbabwe
+41662,NA,Namibia
+41662,TZ,"Tanzania, United Republic of"
+41662,LS,Lesotho
+41662,CG,Congo
+41663,CA,Canada
+41663,MX,Mexico
+41663,US,United States of America
+41664,NC,New Caledonia
+41664,AU,Australia
+41664,NZ,New Zealand
+41664,MAQ-OO,Macquarie Is.
+41664,SOA-OO,South Australia
+41664,WAU-WA,Western Australia
+41664,NZN-OO,North Is.
+41664,NZS-OO,South Is.
+41665,CL,Chile
+41665,UY,Uruguay
+41665,PE,Peru
+41665,FK,Falkland Islands (Malvinas)
+41665,EC,Ecuador
+41665,BR,Brazil
+41665,AR,Argentina
+41665,CO,Colombia
+41666,CA,Canada
+41666,US,United States of America
+41666,MX,Mexico
+41666,CR,Costa Rica
+41666,SV,El Salvador
+41666,GT,Guatemala
+41666,HN,Honduras
+41667,RU,Russian Federation
+41667,KR,"Korea, Republic of"
+41667,KP,"Korea, Democratic People's Republic of"
+41667,JP,Japan
+41668,GAL-OO,Galápagos
+41668,CO,Colombia
+41668,CR,Costa Rica
+41668,EC,Ecuador
+41668,ECU-OO,Ecuador (mainland)
+41668,CPI-CO,Cocos I.
+41669,KZ,Kazakhstan
+41669,TM,Turkmenistan
+41669,AZ,Azerbaijan
+41669,IR,"Iran, Islamic Republic of"
+41669,RU,Russian Federation
+41670,RU,Russian Federation
+41670,US,United States of America
+41670,JP,Japan
+41671,NO,Norway
+41671,FI,Finland
+41671,CA,Canada
+41671,GL,Greenland
+41671,SJ,Svalbard and Jan Mayen
+41671,RU,Russian Federation
+41671,DK,Denmark
+41671,US,United States of America
+41671,GB,United Kingdom of Great Britain and Northern Ireland
+41671,IS,Iceland
+41671,FR,France
+41671,FO,Faroe Islands
+41671,ES,Spain
+41671,DE,Germany
+41672,FI,Finland
+41672,CN,China
+41672,EE,Estonia
+41672,JP,Japan
+41672,LV,Latvia
+41672,KP,"Korea, Democratic People's Republic of"
+41672,US,United States of America
+41672,KR,"Korea, Republic of"
+41672,SE,Sweden
+41672,SJ,Svalbard and Jan Mayen
+41672,CA,Canada
+41672,NO,Norway
+41672,PT,Portugal
+41672,RU,Russian Federation
+41672,DE,Germany
+41672,GL,Greenland
+41672,DK,Denmark
+41672,FO,Faroe Islands
+41672,LT,Lithuania
+41672,GB,United Kingdom of Great Britain and Northern Ireland
+41672,IS,Iceland
+41672,PL,Poland
+41672,FR,France
+41676,RU,Russian Federation
+41697,ID,Indonesia
+41697,LSI-BA,Bali
+41697,JAW-OO,Jawa
+41711,HAW-HI,Hawaiian Is.
+41711,TW,"Taiwan, Province of China"
+41711,MXN-BS,Baja California Sur
+41711,CN,China
+41711,JP,Japan
+41711,KP,"Korea, Democratic People's Republic of"
+41711,MX,Mexico
+41711,US,United States of America
+41711,KR,"Korea, Republic of"
+41711,ASK-OO,Alaska
+41711,CAL-OO,California
+41711,BRC-OO,British Columbia
+41711,WAS-OO,Washington
+41711,CA,Canada
+41711,MXN-BC,Baja California
+41711,ORE-OO,Oregon
+41711,RU,Russian Federation
+41712,IE,Ireland
+41712,BM,Bermuda
+41712,MA,Morocco
+41712,GL,Greenland
+41712,EH,Western Sahara
+41712,POR-OO,Portugal (mainland)
+41712,ES,Spain
+41712,US,United States of America
+41712,CNY-OO,Canary Is.
+41712,GB,United Kingdom of Great Britain and Northern Ireland
+41712,SPA-SP,Spain (mainland)
+41712,IS,Iceland
+41712,CA,Canada
+41712,NO,Norway
+41712,MDR-OO,Madeira
+41712,PT,Portugal
+41712,AZO-OO,Azores
+41712,FR,France
+41712,FO,Faroe Islands
+41712,DZ,Algeria
+41712,IT,Italy
+41712,SAR-OO,Sardegna
+41712,PM,Saint Pierre and Miquelon
+41712,VRG-OO,Virginia
+41712,SCA-OO,South Carolina
+41712,RHO-OO,Rhode Island
+41712,CNT-OO,Connecticut
+41712,DEL-OO,Delaware
+41712,FLA-OO,Florida
+41712,GEO-OO,Georgia
+41712,MAI-OO,Maine
+41712,MAS-OO,Massachusetts
+41712,NWJ-OO,New Jersey
+41712,NWY-OO,New York
+41712,NCA-OO,North Carolina
+41714,SB,Solomon Islands
+41714,SA,Saudi Arabia
+41714,TW,"Taiwan, Province of China"
+41714,NC,New Caledonia
+41714,CN,China
+41714,YT,Mayotte
+41714,PG,Papua New Guinea
+41714,TZ,"Tanzania, United Republic of"
+41714,LK,Sri Lanka
+41714,EG,Egypt
+41714,PK,Pakistan
+41714,ER,Eritrea
+41714,AE,United Arab Emirates
+41714,PH,Philippines
+41714,SO,Somalia
+41714,MO,Macao
+41714,YE,Yemen
+41714,MM,Myanmar
+41714,IR,"Iran, Islamic Republic of"
+41714,IQ,Iraq
+41714,KW,Kuwait
+41714,AU,Australia
+41714,ID,Indonesia
+41714,BN,Brunei Darussalam
+41714,BD,Bangladesh
+41714,BH,Bahrain
+41714,MG,Madagascar
+41714,OM,Oman
+41714,TL,Timor-Leste
+41714,TH,Thailand
+41714,VN,Viet Nam
+41714,JO,Jordan
+41714,ZA,South Africa
+41714,HK,Hong Kong
+41714,JP,Japan
+41714,KH,Cambodia
+41714,KE,Kenya
+41714,DJ,Djibouti
+41714,SD,Sudan
+41714,CX,Christmas Island
+41714,KR,"Korea, Republic of"
+41714,MZ,Mozambique
+41714,MY,Malaysia
+41714,QA,Qatar
+41714,SG,Singapore
+41714,IN,India
+41714,KM,Comoros
+41714,MV,Maldives
+41714,MU,Mauritius
+41714,SC,Seychelles
+41715,CL,Chile
+41715,UY,Uruguay
+41715,TF,French Southern Territories
+41715,AR,Argentina
+41715,AQ,Antarctica
+41715,NZ,New Zealand
+41715,BR,Brazil
+41715,AU,Australia
+41715,HM,Heard Island and McDonald Islands
+41715,KEG-OO,Kerguelen
+41715,ATP-OO,Antipodean Is.
+41715,MAQ-OO,Macquarie Is.
+41715,GS,South Georgia and the South Sandwich Islands
+41715,TAS-OO,Tasmania
+41715,FK,Falkland Islands (Malvinas)
+41754,TW,"Taiwan, Province of China"
+41754,CN,China
+41754,KR,"Korea, Republic of"
+41754,KP,"Korea, Democratic People's Republic of"
+41754,JP,Japan
+41755,CL,Chile
+41755,PA,Panama
+41755,CN,China
+41755,TZ,"Tanzania, United Republic of"
+41755,LK,Sri Lanka
+41755,GL,Greenland
+41755,PF,French Polynesia
+41755,CO,Colombia
+41755,CR,Costa Rica
+41755,ER,Eritrea
+41755,NL,Netherlands
+41755,ES,Spain
+41755,PT,Portugal
+41755,SR,Suriname
+41755,MM,Myanmar
+41755,FK,Falkland Islands (Malvinas)
+41755,ID,Indonesia
+41755,BE,Belgium
+41755,VE,"Venezuela, Bolivarian Republic of"
+41755,NO,Norway
+41755,LR,Liberia
+41755,CA,Canada
+41755,GB,United Kingdom of Great Britain and Northern Ireland
+41755,TH,Thailand
+41755,BR,Brazil
+41755,ZA,South Africa
+41755,NZ,New Zealand
+41755,JP,Japan
+41755,UY,Uruguay
+41755,KE,Kenya
+41755,IE,Ireland
+41755,KP,"Korea, Democratic People's Republic of"
+41755,US,United States of America
+41755,AR,Argentina
+41755,MX,Mexico
+41755,KR,"Korea, Republic of"
+41755,SH,"Saint Helena, Ascension and Tristan da Cunha"
+41755,MZ,Mozambique
+41755,IN,India
+41755,AU,Australia
+41755,TW,"Taiwan, Province of China"
+41755,HK,Hong Kong
+41755,YE,Yemen
+41755,AE,United Arab Emirates
+41755,TR,Türkiye
+41755,SY,Syrian Arab Republic
+41755,SA,Saudi Arabia
+41755,QA,Qatar
+41755,PS,"Palestine, State of"
+41755,PK,Pakistan
+41755,OM,Oman
+41755,LB,Lebanon
+41755,IL,Israel
+41755,IR,"Iran, Islamic Republic of"
+41755,CY,Cyprus
+41755,TG,Togo
+41755,SD,Sudan
+41755,SO,Somalia
+41755,SL,Sierra Leone
+41755,SC,Seychelles
+41755,SN,Senegal
+41755,ST,Sao Tome and Principe
+41755,RE,Réunion
+41755,NG,Nigeria
+41755,NA,Namibia
+41755,YT,Mayotte
+41755,MU,Mauritius
+41755,MR,Mauritania
+41755,MG,Madagascar
+41755,GW,Guinea-Bissau
+41755,GN,Guinea
+41755,GH,Ghana
+41755,GM,Gambia
+41755,GA,Gabon
+41755,GQ,Equatorial Guinea
+41755,DJ,Djibouti
+41755,CI,Côte d'Ivoire
+41755,CD,"Congo, The Democratic Republic of the"
+41755,CG,Congo
+41755,KM,Comoros
+41755,CV,Cabo Verde
+41755,CM,Cameroon
+41755,BJ,Benin
+41755,AO,Angola
+41755,VN,Viet Nam
+41755,TL,Timor-Leste
+41755,SG,Singapore
+41755,PH,Philippines
+41755,MV,Maldives
+41755,MY,Malaysia
+41755,KH,Cambodia
+41755,BN,Brunei Darussalam
+41755,IO,British Indian Ocean Territory
+41755,BD,Bangladesh
+41755,PE,Peru
+41755,VI,"Virgin Islands, U.S."
+41755,GY,Guyana
+41755,GF,French Guiana
+41755,EC,Ecuador
+41755,VG,"Virgin Islands, British"
+41755,TC,Turks and Caicos Islands
+41755,TT,Trinidad and Tobago
+41755,SX,Sint Maarten (Dutch part)
+41755,VC,Saint Vincent and the Grenadines
+41755,MF,Saint Martin (French part)
+41755,LC,Saint Lucia
+41755,TN,Tunisia
+41755,MA,Morocco
+41755,LY,Libya
+41755,EG,Egypt
+41755,DZ,Algeria
+41755,NLA-SA,Saba
+41755,NI,Nicaragua
+41755,NLA-SE,Sint Eustatius
+41755,BQ,"Bonaire, Sint Eustatius and Saba"
+41755,AQ,Antarctica
+41755,BM,Bermuda
+41755,BB,Barbados
+41755,HN,Honduras
+41755,GT,Guatemala
+41755,SV,El Salvador
+41755,BZ,Belize
+41755,BS,Bahamas
+41755,SE,Sweden
+41755,AW,Aruba
+41755,GR,Greece
+41755,GI,Gibraltar
+41755,DE,Germany
+41755,FR,France
+41755,FO,Faroe Islands
+41755,DK,Denmark
+41755,HR,Croatia
+41755,BA,Bosnia and Herzegovina
+41755,AL,Albania
+41755,GS,South Georgia and the South Sandwich Islands
+41755,IS,Iceland
+41755,IT,Italy
+41755,AI,Anguilla
+41755,MT,Malta
+41755,MC,Monaco
+41755,ME,Montenegro
+41755,AG,Antigua and Barbuda
+41755,SI,Slovenia
+41755,EH,Western Sahara
+41755,KY,Cayman Islands
+41755,PM,Saint Pierre and Miquelon
+41755,CW,Curaçao
+41755,DM,Dominica
+41755,DO,Dominican Republic
+41755,GD,Grenada
+41755,GP,Guadeloupe
+41755,HT,Haiti
+41755,RU,Russian Federation
+41755,JM,Jamaica
+41755,MQ,Martinique
+41755,MS,Montserrat
+41755,AS,American Samoa
+41755,NLA-BO,Bonaire
+41755,CX,Christmas Island
+41755,CC,Cocos (Keeling) Islands
+41755,CK,Cook Islands
+41755,FJ,Fiji
+41755,GU,Guam
+41755,KI,Kiribati
+41755,PR,Puerto Rico
+41755,MH,Marshall Islands
+41755,FM,"Micronesia, Federated States of"
+41755,NR,Nauru
+41755,NC,New Caledonia
+41755,NU,Niue
+41755,NF,Norfolk Island
+41755,MP,Northern Mariana Islands
+41755,PW,Palau
+41755,PG,Papua New Guinea
+41755,PN,Pitcairn
+41755,WS,Samoa
+41755,SB,Solomon Islands
+41755,TK,Tokelau
+41755,TO,Tonga
+41755,TV,Tuvalu
+41755,UM,United States Minor Outlying Islands
+41755,TF,French Southern Territories
+41755,VU,Vanuatu
+41755,WF,Wallis and Futuna
+41755,KN,Saint Kitts and Nevis
+41759,CAL-OO,California
+41759,US,United States of America
+41759,MX,Mexico
+41760,CL,Chile
+41760,NZN-OO,North Is.
+41760,JNF-OO,Juan Fernández Is.
+41760,NZ,New Zealand
+41760,CTM-OO,Chatham Is.
+44166,CN,China
+44166,KH,Cambodia
+44166,BN,Brunei Darussalam
+44166,BT,Bhutan
+44166,BD,Bangladesh
+44166,IN,India
+44166,ID,Indonesia
+44166,MLY-PM,Peninsular Malaysia
+44166,BOR-SB,Sabah
+44166,TH,Thailand
+44166,VN,Viet Nam
+44166,BOR-SR,Sarawak
+44166,PH,Philippines
+44166,SG,Singapore
+44166,IND-TN,Tamil Nadu
+44166,TW,"Taiwan, Province of China"
+44166,EHM-AP,Arunachal Pradesh
+44166,ASS-AS,Assam
+44166,IND-KT,Karnataka
+44166,IND-WB,West Bengal
+44166,MY,Malaysia
+44166,MM,Myanmar
+44166,IND-KE,Kerala
+44166,NP,Nepal
+44166,WHM-HP,Himachal Pradesh
+44166,LA,Lao People's Democratic Republic
+44166,GRB-OO,Great Britain
+44166,GB,United Kingdom of Great Britain and Northern Ireland
+44166,SUM-OO,Sumatera
+44166,JAW-OO,Jawa
+44166,BOR-KA,Kalimantan
+136242,JP,Japan
+136315,PG,Papua New Guinea
+136315,ID,Indonesia
+136315,AU,Australia
+136385,CN,China
+136385,KZ,Kazakhstan
+136385,RU,Russian Federation
+136385,KR,"Korea, Republic of"
+136385,KP,"Korea, Democratic People's Republic of"
+136385,KG,Kyrgyzstan
+136385,UZ,Uzbekistan
+136385,MN,Mongolia
+136623,SB,Solomon Islands
+136623,ID,Indonesia
+136623,CC,Cocos (Keeling) Islands
+136623,MY,Malaysia
+136623,PH,Philippines
+136623,JP,Japan
+136623,MG,Madagascar
+136623,NC,New Caledonia
+136623,IR,"Iran, Islamic Republic of"
+136623,MR,Mauritania
+136623,EG,Egypt
+136623,AU,Australia
+136623,BR,Brazil
+136623,CN,China
+136623,LK,Sri Lanka
+136623,TH,Thailand
+136623,VN,Viet Nam
+181359,SR,Suriname
+181359,PA,Panama
+181359,TT,Trinidad and Tobago
+181359,GY,Guyana
+181359,CO,Colombia
+181359,CR,Costa Rica
+181359,BR,Brazil
+181359,HN,Honduras
+181359,GF,French Guiana
+181359,NI,Nicaragua
+181359,VE,"Venezuela, Bolivarian Republic of"
+181359,AW,Aruba
+181359,NLA-BO,Bonaire
+181359,CW,Curaçao
+181359,BQ,"Bonaire, Sint Eustatius and Saba"
+190871,CO,Colombia
+190871,PE,Peru
+190871,EC,Ecuador
+190871,BR,Brazil
+198920,SA,Saudi Arabia
+198920,TW,"Taiwan, Province of China"
+198920,CN,China
+198920,KH,Cambodia
+198920,LK,Sri Lanka
+198920,BN,Brunei Darussalam
+198920,ID,Indonesia
+198920,PK,Pakistan
+198920,AE,United Arab Emirates
+198920,BD,Bangladesh
+198920,BH,Bahrain
+198920,HK,Hong Kong
+198920,QA,Qatar
+198920,IN,India
+198920,MY,Malaysia
+198920,SG,Singapore
+198920,VN,Viet Nam
+198920,TH,Thailand
+198920,KW,Kuwait
+198920,IQ,Iraq
+198920,IR,"Iran, Islamic Republic of"
+198920,MM,Myanmar
+198920,MO,Macao
+198920,OM,Oman
+18817553,IE,Ireland
+18817553,BM,Bermuda
+18817553,MA,Morocco
+18817553,GL,Greenland
+18817553,DE,Germany
+18817553,BE,Belgium
+18817553,US,United States of America
+18817553,MX,Mexico
+18817553,BS,Bahamas
+18817553,SJ,Svalbard and Jan Mayen
+18817553,GB,United Kingdom of Great Britain and Northern Ireland
+18817553,IS,Iceland
+18817553,CA,Canada
+18817553,IT,Italy
+18817553,PT,Portugal
+18817553,FR,France
+18817553,FO,Faroe Islands
+18817553,ES,Spain
+18817553,NL,Netherlands
+68369199,VN,Viet Nam
+70205771,SUM-OO,Sumatera
+70205771,ID,Indonesia
+70206273,MN,Mongolia
+70206273,CN,China
+70206273,IN,India
+70206273,BT,Bhutan
+70207409,TW,"Taiwan, Province of China"
+70207409,MN,Mongolia
+70207409,KR,"Korea, Republic of"
+70207409,KP,"Korea, Democratic People's Republic of"
+70207409,JP,Japan
+70207409,UZ,Uzbekistan
+70207409,TM,Turkmenistan
+70207409,TR,Türkiye
+70207409,TJ,Tajikistan
+70207409,SY,Syrian Arab Republic
+70207409,LB,Lebanon
+70207409,KG,Kyrgyzstan
+70207409,KZ,Kazakhstan
+70207409,IR,"Iran, Islamic Republic of"
+70207409,GE,Georgia
+70207409,AZ,Azerbaijan
+70207409,AM,Armenia
+70207409,ME,Montenegro
+70207409,MC,Monaco
+70207409,MT,Malta
+70207409,MK,North Macedonia
+70207409,LU,Luxembourg
+70207409,LT,Lithuania
+70207409,LI,Liechtenstein
+70207409,LV,Latvia
+70207409,IT,Italy
+70207409,HU,Hungary
+70207409,GR,Greece
+70207409,DE,Germany
+70207409,AL,Albania
+70207409,AD,Andorra
+70207409,AT,Austria
+70207409,BE,Belgium
+70207409,BA,Bosnia and Herzegovina
+70207409,BG,Bulgaria
+70207409,HR,Croatia
+70207409,CZ,Czechia
+70207409,DK,Denmark
+70207409,EE,Estonia
+70207409,FI,Finland
+70207409,FR,France
+70207409,NL,Netherlands
+70207409,NO,Norway
+70207409,PL,Poland
+70207409,PT,Portugal
+70207409,RO,Romania
+70207409,SM,San Marino
+70207409,RS,Serbia
+70207409,SK,Slovakia
+70207409,SI,Slovenia
+70207409,ES,Spain
+70207409,SE,Sweden
+70207409,CH,Switzerland
+70207409,GB,United Kingdom of Great Britain and Northern Ireland
+70207409,DZ,Algeria
+70207409,MA,Morocco
+70207409,CA,Canada
+70207409,US,United States of America
+70207409,BY,Belarus
+70207409,MD,"Moldova, Republic of"
+70207409,RU,Russian Federation
+70207409,UA,Ukraine
+70207409,NZ,New Zealand
+70207409,CN,China
+70207409,AF,Afghanistan
+70207409,POR-OO,Portugal (mainland)
+70207409,AZO-OO,Azores
+70207409,ST,Sao Tome and Principe
+70207409,GGI-ST,Sâo Tomé
+70207817,CN,China
+70207949,VN,Viet Nam
+82031425,BN,Brunei Darussalam
+82031425,HK,Hong Kong
+82031425,VN,Viet Nam
+82031425,BD,Bangladesh
+82031425,SG,Singapore
+82031425,ID,Indonesia
+82031425,IN,India
+82031425,KH,Cambodia
+82031425,PH,Philippines
+82031425,TH,Thailand
+82031425,MY,Malaysia
+82031425,CN,China
+82031425,TW,"Taiwan, Province of China"
+82031425,MM,Myanmar
+82031633,YE,Yemen
+82031633,NAT-OO,KwaZulu-Natal
+82031633,CPP-EC,Eastern Cape Province
+82031633,ZA,South Africa
+82031633,SO,Somalia
+82031633,MZ,Mozambique
+82031633,YT,Mayotte
+82031633,MG,Madagascar
+82031633,KE,Kenya
+82031633,ER,Eritrea
+82031633,DJ,Djibouti
+82031633,KM,Comoros
+82031633,IN,India
+82031633,EG,Egypt
+82031633,CPP-WC,Western Cape
+82031633,SD,Sudan
+82031633,TZ,"Tanzania, United Republic of"
+82031633,BH,Bahrain
+82031633,IQ,Iraq
+82031633,IL,Israel
+82031633,KW,Kuwait
+82031633,OM,Oman
+82031633,PK,Pakistan
+82031633,QA,Qatar
+82031633,SA,Saudi Arabia
+82031633,AE,United Arab Emirates
+82031633,LK,Sri Lanka
+82031633,IR,"Iran, Islamic Republic of"
+82031633,TUR-OO,Türkiye-in-Asia
+82031633,BD,Bangladesh
+82031633,MM,Myanmar
+82031633,TR,Türkiye
+82031667,NWG-IJ,Papua
+82031667,ID,Indonesia
+82031667,PG,Papua New Guinea
+82031667,WAU-WA,Western Australia
+82031667,QLD-QU,Queensland
+82031667,NTA-OO,Northern Territory
+82031667,AU,Australia
+127826787,UM,United States Minor Outlying Islands
+127826787,KI,Kiribati
+127826787,MV,Maldives
+127826787,LK,Sri Lanka
+127826787,SC,Seychelles
+127826787,PH,Philippines
+178756893,ASK-OO,Alaska
+178756893,RU,Russian Federation
+178756893,JP,Japan
+178756893,US,United States of America

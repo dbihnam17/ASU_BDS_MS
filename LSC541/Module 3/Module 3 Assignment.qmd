@@ -1,0 +1,93 @@
+---
+title: "LSC541 Module 4: Assignment"
+author: "Daniel Bihnam"
+format: docx
+editor: visual
+---
+
+## Read in Data
+
+```{r}
+autism0 <- read.table('C:/Users/Daniel/Downloads/data1_LSC598.txt', header = T)
+autism <- na.omit(autism0)
+#Reading in data and omitting a N/A value from the data
+```
+
+## Vitamin D Levels vs Age
+
+```{r}
+
+reg1 <- lm(vitD_level~age_month,data=autism)
+plot(autism$age_month,autism$vitD_level,
+     main='DB: Age vs Vitamin D Level',
+     xlab='Age (Months)',
+     ylab='Vitamin D Level')
+abline(reg1)
+#Regression without transformation
+
+hist(autism$vitD_level)
+hist(autism$age_month)
+#Checking normality of variables
+
+library(dplyr)
+autism_new <- mutate(autism,log(vitD_level))
+hist(autism_new$`log(vitD_level)`)
+#Mutate vitD_level with log() function to normalize
+
+reg2 <- lm(`log(vitD_level)`~age_month,data=autism_new)
+plot(autism_new$age_month,autism_new$`log(vitD_level)`,
+     main='Age vs Log(Vitamin D Level)',
+     xlab='Age (Months)',
+     ylab='Vitamin D Level')
+abline(reg2)
+#Regression with transformation
+
+summary(reg1)
+#Statistics of regression without transformation
+summary(reg2)
+#Statistics of regression with transformation
+```
+
+For the comparison of age in months and vitamin D levels, I decided to first create a regression model without any transformations to visualize the output and linear equation coefficients. I was not convinced that the data met all the assumptions needed for a linear regression on the basis of the data not being normally distributed. I plotted a histogram of both my x (age) and y (vitD) variables to assess their normality. Upon inspection, the vitamin D level variable is right-skewed. I then mutated my dataset by applying a log() function to this variable, and it normalized my data. I then checked the summary statistics of both regressions, and I found the mutated regression to be a better model. Moving forward with the transformed regression, the y-intercept is equal to 3.311, so we expect a baseline log(vitamin D level) of 3.311 based on our model. The slope reported was 0.0035, so as age in months increases by 1, the log(vitamin D level) is expected to increase by 0.0035. The P-value reported was 0.416, which is too large to show statistical significance between this data. This is much larger than the widely expected confidence level of 0.05 (95% confidence).
+
+## Age vs Vitamin D Level (Healthy)
+
+```{r}
+autism_healthy <- autism_new %>% filter(group==0)
+#Create a new dataframe of just healthy participants
+
+reg3 <- lm(`log(vitD_level)`~age_month,data=autism_healthy)
+plot(autism_healthy$age_month,autism_healthy$`log(vitD_level)`,
+     main='Age vs Log(Vitamin D Level) in \n Healthy Participants',
+     xlab='Age (Months)',
+     ylab='Vitamin D Level')
+abline(reg3)
+#Regression with log() transformation
+
+summary(reg3)
+#Statistics of regression with transformation
+```
+
+In this test, we analyzed age vs vitamin D level in healthy participants. Based on the results of the previous test, as well as the fact that the sample size is shrinking due to the condition of only healthy participants, we are going to keep using the transformed model to maintain normality. The y-intercept is equal to 3.366, so we expect a baseline log(vitamin D level) of 3.366 based on our model. The slope reported was 0.0033, so as age in months increases by 1, the log(vitamin D level) is expected to increase by 0.0033. The P-value reported was 0.713, which is too large to show statistical significance between this data. This is much larger than the widely expected confidence level of 0.05 (95% confidence).
+
+## Age vs Vitamin D Level (Autism)
+
+```{r}
+autism_autism <- autism_new %>% filter(group==1)
+#Create a new dataframe of just participants with autism
+
+reg4 <- lm(`log(vitD_level)`~age_month,data=autism_autism)
+plot(autism_autism$age_month,autism_autism$`log(vitD_level)`,
+     main='Age vs Log(Vitamin D Level) in \n Participants with Autism',
+     xlab='Age (Months)',
+     ylab='Vitamin D Level')
+abline(reg4)
+#Regression with log()
+
+summary(reg4)
+#Statistics of regression with transformation
+```
+
+In this test, we analyzed age vs vitamin D level in participants with autism. We again used the transformed model here to satisfy the assumption of normality in our model. The y-intercept is equal to 3.302, so we expect a baseline log(vitamin D level) of 3.302 based on our model. The slope reported was 0.0035, so as age in months increases by 1, the log(vitamin D level) is expected to increase by 0.0035. The P-value reported was 0.533, which is too large to show statistical significance between this data. This is much larger than the widely expected confidence level of 0.05 (95% confidence).
+
+Upon analyzing both groups separately, there appears to be no statistical difference between the vitamin D levels of patients with or without autism as they age.
